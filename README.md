@@ -1,4 +1,4 @@
-# elimu.ai - Wiki
+# Wiki
 
 Project description &amp; documentation
 
