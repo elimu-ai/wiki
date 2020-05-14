@@ -1,6 +1,6 @@
 # Wiki
 
-Project description &amp; documentation
+Project description, planning &amp; documentation
 
 ## Milestones
 
