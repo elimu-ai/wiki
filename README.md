@@ -9,7 +9,7 @@
 
 ### Purpose
 
-The purpose of the elimu.ai Community is to provide out-of-school children with access to quality basic education.
+The purpose of the [elimu.ai](http://elimu.ai) Community is to provide out-of-school children with access to quality basic education.
 
 ### Why? 🌍
 
