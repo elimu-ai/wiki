@@ -42,6 +42,10 @@ Objective: Build complete [Filipino](http://fil.elimu.ai) and [Hindi](http://hin
 
 See https://github.com/elimu-ai/wiki/projects
 
+### Long-Term Plan
+
+In the long term, apps and content will be created first for target languages where the number of out-of-school children is the highest (based on [UIS Statistics](http://data.uis.unesco.org/)).
+
 
 ## Would You Like to Contribute? 👩🏽‍💻
 
@@ -71,6 +75,6 @@ The licenses we have chosen allow anybody to use the software however they want.
 
 ### Open Source Community
 
-As an open community, we invite people of any background to join us in our work. Being global citizens, we don't want a world that is differentiating people by location/borders/religions/ethnicities. Why, for example, should a person's place of birth matter when it comes to whether or not she will get access to quality basic education?
+As an open community, we invite people of any background to join us in our work. Being global citizens, we don't want a world that is differentiating people's basic human rights by their location/religion/ethnicity. Why, for example, should a child's place of birth matter when it comes to whether or not she will get access to quality basic education?
 
-We deeply believe that all children have the right to a quality basic education no matter their social or geographic background. Please help us make this a reality by making a contribution of your time. Thank you! 💜
+We deeply believe that all children have the right to a quality basic education no matter their social or geographic background. Please help us make this a reality by making a contribution of your time towards this purpose. Thank you! 💜
