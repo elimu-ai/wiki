@@ -25,7 +25,7 @@ Our solution is to develop software for teaching out-of-school children the basi
 
 ![global_learning_xprize](https://user-images.githubusercontent.com/15718174/82108905-cf613700-9764-11ea-949d-0faf0c58d835.jpg)
 
-![Educational apps and games](https://user-images.githubusercontent.com/15718174/82109146-6d093600-9766-11ea-860e-715e48d2d149.png)
+![Educational apps and games](https://user-images.githubusercontent.com/15718174/82109205-c3767480-9766-11ea-947b-fa53cfcba767.png)
 
 
 ## Milestones 📆
