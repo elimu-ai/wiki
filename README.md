@@ -9,7 +9,7 @@
 
 ### Purpose
 
-The purpose of the [elimu.ai](http://elimu.ai) Community is to provide out-of-school children with access to quality basic education.
+The purpose of the _[elimu.ai](http://elimu.ai) Community_ is to provide out-of-school children with access to quality basic education.
 
 ### Why? 🌍
 
@@ -36,7 +36,21 @@ The software is designed in such a way that the children can learn fully autonom
 
 ## Milestones 📆
 
+### 12-Month Action Plan (2020)
+
+Objective: Build complete [Filipino](http://fil.elimu.ai) and [Hindi](http://hin.elimu.ai) curriculum of literacy/numeracy apps.
+
 See https://github.com/elimu-ai/wiki/projects
 
+### Long-Term Action Plan
 
+In the long term, apps and content will be created first for target markets where the number of out-of-school children is the highest (based on [UIS Statistics](http://data.uis.unesco.org/)).
+
+ 1. India ([Hindi](http://hin.elimu.ai)/([Bengali](http://ben.elimu.ai)/([Urdu](http://urd.elimu.ai))
+ 1. Indonesia (Indonesian/Javanese)
+ 1. Tanzania (([Swahili](http://swa.elimu.ai))
+ 1. Philippines (([Filipino](http://fil.elimu.ai)/Hiligaynon)
+ 1. Cambodia (Khmer)
+ 1. Nepal (Nepali)
+ 
 
