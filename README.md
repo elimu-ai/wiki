@@ -31,7 +31,7 @@ The elimu.ai software is a _platform_ of educational content and Android apps.
 
 The software is designed in such a way that the children can learn fully autonomously, without guidance from qualified teachers. Instead, an AI tutor (Nya) guides each child through the necessary steps.
 
-![android_launcher](https://user-images.githubusercontent.com/15718174/82110563-ea867380-9771-11ea-8703-d63e381001eb.gif)
+[![android_launcher](https://user-images.githubusercontent.com/15718174/82110563-ea867380-9771-11ea-8703-d63e381001eb.gif)](https://github.com/elimu-ai/launcher)
 
 
 ## Milestones 📆
@@ -41,16 +41,3 @@ The software is designed in such a way that the children can learn fully autonom
 Objective: Build complete [Filipino](http://fil.elimu.ai) and [Hindi](http://hin.elimu.ai) curriculum of literacy/numeracy apps.
 
 See https://github.com/elimu-ai/wiki/projects
-
-### Long-Term Action Plan
-
-In the long term, apps and content will be created first for target markets where the number of out-of-school children is the highest (based on [UIS Statistics](http://data.uis.unesco.org/)).
-
- 1. India ([Hindi](http://hin.elimu.ai)/([Bengali](http://ben.elimu.ai)/([Urdu](http://urd.elimu.ai))
- 1. Indonesia (Indonesian/Javanese)
- 1. Tanzania (([Swahili](http://swa.elimu.ai))
- 1. Philippines (([Filipino](http://fil.elimu.ai)/Hiligaynon)
- 1. Cambodia (Khmer)
- 1. Nepal (Nepali)
- 
-
