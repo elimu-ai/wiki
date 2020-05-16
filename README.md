@@ -27,6 +27,10 @@ Our solution is to develop software for teaching out-of-school children the basi
 
 ![Educational apps and games](https://user-images.githubusercontent.com/15718174/82109205-c3767480-9766-11ea-947b-fa53cfcba767.png)
 
+The elimu.ai software is a _platform_ of educational content and Android apps.
+
+The software is designed in such a way that the children can learn fully autonomously, without guidance from qualified teachers. Instead, an AI tutor guides each child through the necessary steps.
+
 
 ## Milestones 📆
 
