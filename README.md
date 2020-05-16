@@ -77,4 +77,4 @@ The licenses we have chosen allow anybody to use the software however they want.
 
 As an open community, we invite people of any background to join us in our work. Being global citizens, we don't want a world that is differentiating people's basic human rights by their location/religion/ethnicity. Why, for example, should a child's place of birth matter when it comes to whether or not she will get access to quality basic education?
 
-We deeply believe that all children have the right to a quality basic education no matter their social or geographic background. Please help us make this a reality by making a contribution of your time towards this purpose. Thank you! 💜
+We deeply believe that all children should have access to a quality basic education no matter their social or geographic background. Please help us make this a reality by making a contribution of your time towards this purpose. Thank you! 💜
