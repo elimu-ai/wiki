@@ -1,4 +1,4 @@
-# Wiki
+# elimu.ai Wiki
 
 ###### Project description, planning & documentation.
 
