@@ -25,6 +25,8 @@ The number of children who are excluded from education fell steadily in the deca
 
 Our solution is to develop software for teaching out-of-school children the basics of reading, writing and arithmetic. A collection of [educational apps](http://elimu.ai) teaches children basic literacy and numeracy in a fun and engaging way. This empowers each child to learn fully autonomously, without depending on the availability of qualified teachers.
 
+![Educational apps and games](https://user-images.githubusercontent.com/15718174/82109146-6d093600-9766-11ea-860e-715e48d2d149.png)
+
 
 ## Milestones 📆
 
