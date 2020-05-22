@@ -93,7 +93,7 @@ Do you live near a child who does not have access to quality basic education? He
 <a name="open-source"></a>
 ## Open Source
 
-All the code and content is publicly available on GitHub and on our [website](http://elimu.ai). 
+All the code and content is publicly available on [GitHub](https://github.com/elimu-ai) and on our [website](http://elimu.ai). 
 
 The licenses we have chosen allow anybody to use the software however they want. Our goal is to spread the solution quickly in order to reach as many children as possible, and we believe that using open source software will enable this. Any individual, company or organization is welcome to take the existing code and adapt it to their local needs, as well as adding improvements to the original code if they wish to do so.
 
