@@ -1,8 +1,16 @@
 # elimu.ai Wiki
 
-###### Project description, planning & documentation.
+###### Table of contents
+  1. [About elimu.ai](#about)
+  1. [Milestones](#milestones)
+  1. [Would You Like to Contribute? 👩🏽‍💻](#contribute)
+  1. [Open Source](#open-source)
 
 
+---
+
+
+<a name="about"></a>
 ## About elimu.ai
 
 [
@@ -36,6 +44,7 @@ The software is designed in such a way that the children can learn fully autonom
 [![android_launcher](https://user-images.githubusercontent.com/15718174/82110563-ea867380-9771-11ea-8703-d63e381001eb.gif)](https://github.com/elimu-ai/launcher)
 
 
+<a name="milestones"></a>
 ## Milestones 📆
 
 ### 12-Month Action Plan (2020 → 2021)
@@ -58,6 +67,7 @@ Cambodia | Khmer | 186,109 (2018)
 Nepal | Nepali | 103,384 (2019)
 
 
+<a name="contribute"></a>
 ## Would You Like to Contribute? 👩🏽‍💻
 
 How can you contribute? Either by _adding educational content_ or by _developing Android apps_ for the children to interact with the educational content. In addition, you can contribute by _testing_ the software, and _distributing_ the software.
@@ -80,6 +90,7 @@ Also, contribute by developing Android applications or Android games. If you are
 Do you live near a child who does not have access to quality basic education? Help us distribute the learning software. For more information, send an e-mail to info@elimu.ai or contact us via [Slack](https://join.slack.com/t/elimu-ai/shared_invite/zt-eoc921ow-0cfjATlIF2X~zHhSgSyaAw).
 
 
+<a name="open-source"></a>
 ## Open Source
 
 All the code and content is publicly available on GitHub and on our [website](http://elimu.ai). 
