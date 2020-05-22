@@ -14,7 +14,7 @@
 ## About the elimu.ai Community
 
 [
-![elimu ai-tagline](https://user-images.githubusercontent.com/15718174/54360503-e8e88980-465c-11e9-9792-32b513105cf3.png)
+  ![elimu ai-tagline](https://user-images.githubusercontent.com/15718174/54360503-e8e88980-465c-11e9-9792-32b513105cf3.png)
 ](http://elimu.ai)
 
 ### Purpose
@@ -27,7 +27,9 @@ Currently, around [64 million](http://uis.unesco.org/en/news/new-education-data-
 
 The number of children who are excluded from education fell steadily in the decade following 2000, but [UNESCO statistics](http://uis.unesco.org/en/news/new-education-data-sdg-4-and-more) show that this progress essentially stopped in recent years:
 
-![UNESCO statistics](https://user-images.githubusercontent.com/15718174/82108940-1b13e080-9765-11ea-8c51-e7a15ca7690b.png)
+[
+  ![UNESCO statistics](https://user-images.githubusercontent.com/15718174/82108940-1b13e080-9765-11ea-8c51-e7a15ca7690b.png)
+](http://uis.unesco.org/en/news/new-education-data-sdg-4-and-more)
 
 ### How Can We Solve the Problem? 💡
 
