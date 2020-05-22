@@ -64,7 +64,7 @@ Contribute by developing Android applications or Android games. If you are a dev
 
 ### Option 3: Software Distribution 🚗
 
-Do you live near a child who does not have access to quality basic education? Help us distribute the learning software. For more information, send an e-mail to info@elimu.ai.
+Do you live near a child who does not have access to quality basic education? Help us distribute the learning software. For more information, send an e-mail to info@elimu.ai or contact us via [Slack](https://join.slack.com/t/elimu-ai/shared_invite/zt-eoc921ow-0cfjATlIF2X~zHhSgSyaAw).
 
 
 ## Open Source
