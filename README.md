@@ -1,7 +1,7 @@
 # elimu.ai Wiki
 
 ###### Table of contents
-  1. [About elimu.ai](#about)
+  1. [About the elimu.ai Community](#about)
   1. [Milestones](#milestones)
   1. [Would You Like to Contribute? 👩🏽‍💻](#contribute)
   1. [Open Source](#open-source)
@@ -11,7 +11,7 @@
 
 
 <a name="about"></a>
-## About elimu.ai
+## About the elimu.ai Community
 
 [
 ![elimu ai-tagline](https://user-images.githubusercontent.com/15718174/54360503-e8e88980-465c-11e9-9792-32b513105cf3.png)
