@@ -5,7 +5,9 @@
 
 ## About elimu.ai
 
+[
 ![elimu ai-tagline](https://user-images.githubusercontent.com/15718174/54360503-e8e88980-465c-11e9-9792-32b513105cf3.png)
+](http://elimu.ai)
 
 ### Purpose
 
@@ -27,7 +29,7 @@ Our solution is to develop software for teaching out-of-school children the basi
 
 ![Educational apps and games](https://user-images.githubusercontent.com/15718174/82109205-c3767480-9766-11ea-947b-fa53cfcba767.png)
 
-The elimu.ai software is a _platform_ of educational content and Android apps.
+The [elimu.ai](http://elimu.ai) software is a _platform_ of educational content and Android apps.
 
 The software is designed in such a way that the children can learn fully autonomously, without guidance from qualified teachers. Instead, an AI tutor (Nya) guides each child through the necessary steps.
 
@@ -36,45 +38,62 @@ The software is designed in such a way that the children can learn fully autonom
 
 ## Milestones 📆
 
-### 12-Month Action Plan (2020)
+### 12-Month Action Plan (2020 → 2021)
 
 Objective: Build complete [Filipino](http://fil.elimu.ai) and [Hindi](http://hin.elimu.ai) curriculum of literacy/numeracy apps.
 
 See https://github.com/elimu-ai/wiki/projects
 
-### Long-Term Plan
+### Long-Term Plan (2020 → 2025)
 
 In the long term, apps and content will be created first for target languages where the number of out-of-school children is the highest (based on [UIS Statistics](http://data.uis.unesco.org/)).
+
+Country | Languages | Out-of-School Children (Primary Age)
+------------ | ------------- | -------------
+India | [Hindi](http://hin.elimu.ai), Bengali, Urdu | 2,887,748 (2013)
+Indonesia | Indonesian, Javanese | 1,767,974 (2013)
+Tanzania | Swahili | 1,370,468 (2013)
+Philippines | [Filipino](http://fil.elimu.ai), Hiligaynon | 424,228 (2017)
+Cambodia | Khmer | 186,109 (2018)
+Nepal | Nepali | 103,384 (2019)
 
 
 ## Would You Like to Contribute? 👩🏽‍💻
 
-How can you contribute? Either by _adding educational content_ or by _developing Android apps_ for the children to interact with the educational content. In addition, you can contribute by distributing the software.
+How can you contribute? Either by _adding educational content_ or by _developing Android apps_ for the children to interact with the educational content. In addition, you can contribute by _testing_ the software, and _distributing_ the software.
 
-### Option 1: Content Creation 🎙️
+### Option 1: Download & Test the Software 📦🕵️
+
+For instructions on how to download and install the elimu.ai software, see https://github.com/elimu-ai/appstore.
+
+### Option 2: Content Creation or App Development 🎶🎙️📱
 
 Contribute by creating or peer reviewing educational content (e.g. storybooks, words, audio recordings, images, etc). If you speak Filipino or Hindi as your mother tongue, go to the website matching your language and then click "Sign On":
 
  * http://fil.elimu.ai
  * http://hin.elimu.ai
- 
-### Option 2: App Development 📱
 
-Contribute by developing Android applications or Android games. If you are a developer, see https://github.com/elimu-ai/appstore/blob/master/CONTRIBUTING.md.
+Also, contribute by developing Android applications or Android games. If you are a developer, see https://github.com/elimu-ai/appstore/blob/master/CONTRIBUTING.md.
 
-### Option 3: Software Distribution 🚗
+### Option 3: Software Distribution 🚗💨
 
 Do you live near a child who does not have access to quality basic education? Help us distribute the learning software. For more information, send an e-mail to info@elimu.ai or contact us via [Slack](https://join.slack.com/t/elimu-ai/shared_invite/zt-eoc921ow-0cfjATlIF2X~zHhSgSyaAw).
 
 
 ## Open Source
 
-All the code and content is publicly available on GitHub and on our website. 
+All the code and content is publicly available on GitHub and on our [website](http://elimu.ai). 
 
 The licenses we have chosen allow anybody to use the software however they want. Our goal is to spread the solution quickly in order to reach as many children as possible, and we believe that using open source software will enable this. Any individual, company or organization is welcome to take the existing code and adapt it to their local needs, as well as adding improvements to the original code if they wish to do so.
 
-### Global Open Source Community 🌐
+### Global Community 🌐
 
 As an open and globally-minded community, we invite people of any background to join us in our work. Being global citizens, we don't want a world that is differentiating people's basic human rights by their location/religion/ethnicity. Why, for example, should a child's place of birth matter when it comes to whether or not she will get access to quality basic education?
 
-We deeply believe that all children should have access to a quality basic education no matter their social or geographic background. Please help us make this a reality by making a contribution of your time towards this purpose. Thank you! 💜
+We deeply believe that all children should have access to a quality basic education no matter their social or geographic background. Please help us make this a reality by making a contribution of your time and knowledge towards this purpose. Thank you! 💜
+
+#### Community Chat 👋🏽	
+See [elimu-ai.slack.com](https://join.slack.com/t/elimu-ai/shared_invite/zt-eoc921ow-0cfjATlIF2X~zHhSgSyaAw).	
+
+#### Community Mailing List
+Sign up at http://eepurl.com/bGihkr.
