@@ -85,7 +85,7 @@ Contribute by creating or peer reviewing educational content (e.g. storybooks, w
  * http://fil.elimu.ai
  * http://hin.elimu.ai
 
-Also, contribute by developing Android applications or Android games. If you are a developer, see https://github.com/elimu-ai/appstore/blob/master/CONTRIBUTING.md.
+Also, contribute by developing Android applications or Android games. If you are a developer, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### Option 3: Software Distribution 🚗💨
 
