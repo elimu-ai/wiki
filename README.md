@@ -105,8 +105,8 @@ As an open and globally-minded community, we invite people of any background to 
 
 We deeply believe that all children should have access to a quality basic education no matter their social or geographic background. Please help us make this a reality by making a contribution of your time and knowledge towards this purpose. Thank you! 💜
 
-#### Community Chat 👋🏽	
+### Community Chat 👋🏽	
 See [elimu-ai.slack.com](https://join.slack.com/t/elimu-ai/shared_invite/zt-eoc921ow-0cfjATlIF2X~zHhSgSyaAw).	
 
-#### Community Mailing List
+### Community Mailing List
 Sign up at http://eepurl.com/bGihkr.
