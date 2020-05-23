@@ -61,12 +61,12 @@ In the long term, apps and content will be created first for target languages wh
 
 Country | Languages | Out-of-School Children (Primary Age)
 ------------ | ------------- | -------------
-India | [Hindi](http://hin.elimu.ai), Bengali, Urdu | 2,887,748 (2013)
-Indonesia | Indonesian, Javanese | 1,767,974 (2013)
-Tanzania | Swahili | 1,370,468 (2013)
-Philippines | [Filipino](http://fil.elimu.ai), Hiligaynon | 424,228 (2017)
-Cambodia | Khmer | 186,109 (2018)
-Nepal | Nepali | 103,384 (2019)
+India | [Hindi](http://hin.elimu.ai), Bengali, Urdu | 2,887,748 (as of 2013)
+Indonesia | Indonesian, Javanese | 1,767,974 (as of 2013)
+Tanzania | Swahili | 1,370,468 (as of 2013)
+Philippines | [Filipino](http://fil.elimu.ai), Hiligaynon | 424,228 (as of 2017)
+Cambodia | Khmer | 186,109 (as of 2018)
+Nepal | Nepali | 103,384 (as of 2019)
 
 
 <a name="contribute"></a>
