@@ -9,11 +9,16 @@ The [elimu.ai](http://elimu.ai) software is a _platform_ of educational content 
 
 Instead of having one large Android application containing everything, the [elimu.ai](http://elimu.ai) software has been architected such that there are many smaller applications, each with their own specific responsibility.
 
-## Personalized Learning
+Broadly speaking, there are three categories of applications:
+  1. Infrastructural applications
+  2. Literacy apps/games
+  3. Numeracy apps/games
+
+## Software Distribution
 
 ...
 
-## Software Distribution
+## Personalized Learning
 
 ...
 
