@@ -96,4 +96,44 @@ new GitHub branch to work on:
    9. If you consider the issue complete (code reviewed and tested), merge and delete the branch, and 
    move the GitHub issue to the "Done" column. Well done!
 
+<a name="workflow-example-webapp"></a>
+## Workflow Example: [webapp](https://github.com/elimu-ai/webapp)
+
+### Introduction
+
+As an outside collaborator, you are free to fork the repository and create pull requests from your fork. 
+
+However, as a core contributor who has been added to the [GitHub organization](https://github.com/elimu-ai), 
+the work flow looks like this:
+
+### Work Flow
+
+1. Select a GitHub issue to work on. Either select an existing issue from https://github.com/elimu-ai/webapp/projects 
+or create a new one.
+
+2. Create a branch for the GitHub issue. For example, if your GitHub issue is titled "Update Java version" and has the issue number 567, create a new branch with the title "#567 Update Java version" by pressing the branch button (or by using GitHub Desktop):
+
+   ![screen shot 2017-11-11 at 11 09 21](https://user-images.githubusercontent.com/1451036/32688430-d1b9fc88-c6d0-11e7-8e20-10a10c028d0a.png) .  ![screen shot 2017-11-11 at 11 10 56](https://user-images.githubusercontent.com/1451036/32688437-12fc5f6a-c6d1-11e7-9a38-b34479356522.png)
+
+3. Switch to the branch you created and implement your code changes on that branch. Remember to include the GitHub issue 
+for each commit to make it easier for future contributors to understand each code change.
+
+4. Once ready for testing, create a pull request for your branch for merging it into the `master` branch. Your pull 
+request needs at least one approved review in order to be merged. When assigning reviewers, add one or more of the project's 
+[maintainers](https://github.com/elimu-ai/webapp/blob/master/CODEOWNERS):
+
+   * [nya-elimuai](https://github.com/nya-elimuai)
+   * [jo-elimuai](https://github.com/jo-elimuai)
+   * [sladomic](https://github.com/sladomic)
+   
+   If the maintainers are too slow to get back to you, send an e-mail to info@elimu.ai or contact us via [Slack](https://join.slack.com/t/elimu-ai/shared_invite/zt-eoc921ow-0cfjATlIF2X~zHhSgSyaAw).
+   
+5. Once your pull request has been approved by at least one project maintainer, press the "merge" button. This will merge 
+your code changes into the `master` branch and deploy them to the test servers at http://`<language>`.test.elimu.ai.
+
+6. If all of the regression tests pass (see [Jenkins](http://jenkins.elimu.ai:8080), ask a maintainer to deploy the changes to the production servers at http://`<language>`.elimu.ai.
+
+
+---
+
 If any of the above steps are unclear, or you have any other questions or comments, please reach out via info@elimu.ai or [Slack](https://join.slack.com/t/elimu-ai/shared_invite/zt-eoc921ow-0cfjATlIF2X~zHhSgSyaAw). Thank you for contributing 😀
