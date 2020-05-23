@@ -72,7 +72,7 @@ Nepal | Nepali | 103,384 (as of 2019)
 <a name="contribute"></a>
 ## Would You Like to Contribute? 👩🏽‍💻
 
-How can you contribute? Either by _adding educational content_ or by _developing Android apps_ for the children to interact with the educational content. In addition, you can contribute by _testing_ the software, and _distributing_ the software.
+How can you contribute? Either by _adding educational content_ or by _developing Android apps_ for the children to interact with the educational content. In addition, you can contribute by _testing_ the software, and by _distributing_ the software.
 
 ### Option 1: Download & Test the Software 📦🕵️
 
