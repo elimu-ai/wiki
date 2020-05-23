@@ -28,11 +28,13 @@ Component | Description
 
 ...
 
-
 ### Update Existing Educational Apps/Games: Step-by-Step Guide
 
 ...
 
+### Upload New Educational Apps/Games: Step-by-Step Guide
+
+...
 
 ### Add Educational Content to the Website: Step-by-Step Guide
 
