@@ -1,6 +1,11 @@
 # elimu.ai Localization
 
 
+## Currently Supported Languages
+
+...
+
+
 ## How to Add Support for a New Language
 
 When adding support for a new language to the [elimu.ai](http://elimu.ai) platform, there are two types of activities that need to be handled:
