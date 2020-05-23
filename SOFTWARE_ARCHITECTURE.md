@@ -1,4 +1,4 @@
-# Software Architecture
+# elimu.ai Software Architecture
 
  * webapp: https://github.com/elimu-ai/webapp
  * appstore: https://github.com/elimu-ai/appstore
