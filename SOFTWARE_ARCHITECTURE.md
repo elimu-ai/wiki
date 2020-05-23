@@ -14,6 +14,10 @@ Broadly speaking, there are three categories of applications:
   2. Literacy apps/games
   3. Numeracy apps/games
 
+## Software Dependencies
+
+...
+
 ## Software Distribution
 
 ...
