@@ -17,7 +17,7 @@ When adding support for a new language, there are 6 infrastructure components th
 
 Component | Description
 ------------ | -------------
-[analytics](https://github.com/elimu-ai/model) | Common Java classes shared amongst the webapp and appstore
+[model](https://github.com/elimu-ai/model) | Common Java classes shared amongst the webapp and appstore
 [webapp](https://github.com/elimu-ai/webapp) | Web application for uploading Android apps and content
 [appstore](https://github.com/elimu-ai/appstore) | Android Appstore application for downloading Android apps to tablets and installing them
 [launcher](https://github.com/elimu-ai/launcher) |	Android application providing a structured path when accessing the educational apps
