@@ -60,7 +60,7 @@ See https://github.com/elimu-ai/wiki/projects
 In the long term, apps and content will be created first for target languages where the number of out-of-school children is the highest (based on [UIS Statistics](http://data.uis.unesco.org/)).
 
 Country | Languages | Out-of-School Children (Primary Age)
------------- | ------------- | -------------
+------------ | ------------- | ------------:
 India | [Hindi](http://hin.elimu.ai), Bengali, Urdu | 2,887,748 (as of 2013)
 Indonesia | Indonesian, Javanese | 1,767,974 (as of 2013)
 Tanzania | Swahili | 1,370,468 (as of 2013)
@@ -76,7 +76,7 @@ How can you contribute? Either by _adding educational content_ or by _developing
 
 ### Option 1: Download & Test the Software 📦🕵️
 
-For instructions on how to download and install the elimu.ai software, see https://github.com/elimu-ai/appstore.
+For instructions on how to download and install the [elimu.ai](http://elimu.ai) software, see https://github.com/elimu-ai/appstore.
 
 ### Option 2: Content Creation or App Development 🎶🎙️📱
 
