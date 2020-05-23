@@ -80,14 +80,14 @@ For instructions on how to download and install the elimu.ai software, see https
 
 ### Option 2: Content Creation or App Development 🎶🎙️📱
 
-Contribute by creating or peer reviewing educational content (e.g. storybooks, words, audio recordings, images, etc). If you speak Filipino or Hindi as your mother tongue, go to the website matching your language and then click "Sign On":
+  * Contribute by creating or peer reviewing educational content (e.g. storybooks, words, audio recordings, images, etc). If you speak Filipino or Hindi as your mother tongue, go to the website matching your language and then click "Sign On":
 
- * http://fil.elimu.ai
- * http://hin.elimu.ai
+    * http://fil.elimu.ai
+    * http://hin.elimu.ai
 
-For instructions on how to add educational content, see [LOCALIZATION.md](LOCALIZATION.md).
+    For instructions on how to add educational content, see [LOCALIZATION.md](LOCALIZATION.md).
 
-Also, contribute by developing Android applications or Android games. If you are a developer, see [CONTRIBUTING.md](CONTRIBUTING.md) and [SOFTWARE_ARCHITECTURE.md](SOFTWARE_ARCHITECTURE.md).
+  * Also, contribute by developing Android applications or Android games. If you are a developer, see [CONTRIBUTING.md](CONTRIBUTING.md) and [SOFTWARE_ARCHITECTURE.md](SOFTWARE_ARCHITECTURE.md).
 
 ### Option 3: Software Distribution 🚗💨
 
