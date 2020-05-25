@@ -33,7 +33,7 @@ The number of children who are excluded from education fell steadily in the deca
 
 ### How Can We Solve the Problem? 💡
 
-Our solution is to develop software for teaching out-of-school children the basics of reading, writing and arithmetic. A collection of [educational apps](http://elimu.ai) teaches children basic literacy and numeracy in a fun and engaging way. This empowers each child to learn fully autonomously, without depending on the availability of qualified teachers.
+Our solution is to develop software for teaching out-of-school children the basics of reading, writing and arithmetic. A collection of [educational apps](http://elimu.ai) teaches children basic literacy and numeracy in a fun and engaging way. This empowers each child to learn fully autonomously, and at her own pace, without depending on the availability of qualified teachers.
 
 ![global_learning_xprize_banner](https://user-images.githubusercontent.com/15718174/82724725-b8918600-9d0a-11ea-9775-76f653fa2a9c.jpg)
 
