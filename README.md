@@ -19,7 +19,7 @@
 
 ### Purpose
 
-The purpose of elimu.ai is to provide out-of-school children with access to quality basic education.
+The purpose of [elimu.ai](http://elimu.ai) is to provide out-of-school children with access to quality basic education.
 
 ### Why? 🌍
 
