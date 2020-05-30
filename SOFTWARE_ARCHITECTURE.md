@@ -39,16 +39,19 @@ The software platform is being built to handle scaling to many different languag
 
 The file size of the apps, games and multimedia is kept as small as possible in order to make the distribution easier in locations with limited Internet connectivity. In addition, the software has been designed to work offline so that it can be used in rural areas.
 
+<a name="localization"></a>
 ### Localization
 
 For instructions on how to add support for a new language, see [LOCALIZATION.md](LOCALIZATION.md).
 
 
+<a name="crowdsourcing"></a>
 ### Content Crowdsourcing
 
 Another way to ensure software scalability is through _crowdsourcing_. By using the [elimu.ai Crowdsource](https://github.com/elimu-ai/crowdsource) Android app or the [elimu.ai Webapp](https://github.com/elimu-ai/webapp), the crowd is able to upload and peer review educational content on the platform, and thus help speed up the expansion to more languages. As an example, such a task might involve transcribing a few audio recordings, peer reviewing existing audio transcriptions, translating a storybook, recording audio files for an entire storybook, labelling videos by content, etc.
 
 
+<a name="distribution"></a>
 ### Distribution 📦
 
 When distributing the software, there are two main questions that need to be answered:
