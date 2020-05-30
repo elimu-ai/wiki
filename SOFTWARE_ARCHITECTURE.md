@@ -23,7 +23,7 @@ Broadly speaking, there are three categories of Android applications:
   1. Literacy apps/games
   1. Numeracy apps/games
 
-![elimu ai Software Architecture](https://user-images.githubusercontent.com/15718174/82879896-30acb580-9f70-11ea-9489-b6a9a37e89bb.png)
+![elimu ai Software Architecture](https://user-images.githubusercontent.com/15718174/83324950-2ace1180-a29b-11ea-81a0-743bd6f214b3.png)
 
 
 <a name="dependencies"></a>
