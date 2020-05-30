@@ -74,6 +74,11 @@ The data is synced between the Android devices and the webapp's [REST API](https
 For assessing the learning outcome of the children, we are collecting data [categorized](https://github.com/elimu-ai/model/tree/master/src/main/java/ai/elimu/model/v2/gson/analytics) according to the subtasks defined in the [Early Grade Reading Assessment](https://globalreadingnetwork.net/resources/early-grade-reading-assessment-egra-toolkit-second-edition) (EGRA) and [Early Grade Mathematics Assessment](https://www.globalpartnership.org/content/early-grade-mathematics-assessment-egma-conceptual-framework-based-mathematics-skills) (EGMA) standards.
 
 
+## Artificial Intelligence (AI) 🤖
+
+...
+
+
 ---
 
 ## About the elimu.ai Community
