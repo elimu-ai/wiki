@@ -38,7 +38,7 @@ The elimu.ai software is designed following best-practices from the [Reading Ess
 
 ## Personal Learning Device 📱
 
-For _personalized learning_ to be truly effective, each child should have their own Android device. The elimu.ai software is designed to automatically adapt the educational content and apps to the current knowledge level of the child, so if another child uses the same user account on the same Android device, the personalized learning will not work.
+For _personalized learning_ to be truly effective, each child should have their own Android device. The elimu.ai software is designed to automatically adapt the educational content and apps to the current knowledge level of the child. So if another child uses the same user account on the same Android device, the personalized learning will not work.
 
 Description | Illustration
 ------------ | -------------
