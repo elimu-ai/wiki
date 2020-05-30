@@ -34,6 +34,11 @@ The file size of the apps, games and multimedia is kept as small as possible in 
 See [LOCALIZATION.md](LOCALIZATION.md).
 
 
+### Content Crowdsourcing
+
+Another way to ensure software scalability is through _crowdsourcing_. By using the [elimu.ai Crowdsource](https://github.com/elimu-ai/crowdsource) Android app or the [elimu.ai Webapp](https://github.com/elimu-ai/webapp), the crowd is able to upload and peer review educational content on the platform, and thus help speed up the expansion to more languages. As an example, such a task might involve transcribing a few audio recordings, peer reviewing existing audio transcriptions, translating a storybook, or recording audio files for an entire storybook, labelling videos by content, etc.
+
+
 ### Distribution 📦
 
 When distributing the software, there are two main questions that need to be answered:
@@ -66,12 +71,7 @@ In order to measure how well the elimu.ai software is working, usage data is col
 
 The data is synced between the Android devices and the webapp's [REST API](https://github.com/elimu-ai/webapp/tree/master/src/main/java/ai/elimu/rest) whenever an Internet connection is available.
 
-For assessing the learning outcome of the children, we are collecting data categorized according to the subtasks defined in the [Early Grade Reading Assessment](https://globalreadingnetwork.net/resources/early-grade-reading-assessment-egra-toolkit-second-edition) (EGRA) and [Early Grade Mathematics Assessment](https://www.globalpartnership.org/content/early-grade-mathematics-assessment-egma-conceptual-framework-based-mathematics-skills) (EGMA) standards.
-
-
-### Crowdsourcing
-
-Another way to ensure software scalability is through _crowdsourcing_. By using the [elimu.ai Crowdsource](https://github.com/elimu-ai/crowdsource) Android app or the [elimu.ai Webapp](https://github.com/elimu-ai/webapp), the crowd is able to upload and peer review educational content on the platform, and thus help speed up the expansion to more languages. As an example, such a task might involve transcribing a few audio recordings, peer reviewing existing audio transcriptions, translating a storybook, or recording audio files for an entire storybook, labelling videos by content, etc.
+For assessing the learning outcome of the children, we are collecting data [categorized](https://github.com/elimu-ai/model/tree/master/src/main/java/ai/elimu/model/v2/gson/analytics) according to the subtasks defined in the [Early Grade Reading Assessment](https://globalreadingnetwork.net/resources/early-grade-reading-assessment-egra-toolkit-second-edition) (EGRA) and [Early Grade Mathematics Assessment](https://www.globalpartnership.org/content/early-grade-mathematics-assessment-egma-conceptual-framework-based-mathematics-skills) (EGMA) standards.
 
 
 ---
