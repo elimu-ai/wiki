@@ -91,10 +91,13 @@ For assessing the learning outcome of the children, we are collecting data [cate
 <a name="ai"></a>
 ## Artificial Intelligence (AI) 🤖
 
-One machine learning model is trained per language.
+Using [TensorFlow](https://www.tensorflow.org/), one machine learning model is trained per language.
 
-  * [Storybooks recommender model](https://github.com/elimu-ai/ml-storybooks-recommender) (TensorFlow).
-  * Handwriting recognition (letters & numbers)
+  * [Storybooks recommender model](https://github.com/elimu-ai/ml-storybooks-recommender)
+  * Handwriting recognition (letters)
+  * Handwriting recognition (numbers)
+
+The [elimu.ai Crowdsource](https://github.com/elimu-ai/crowdsource) Android app is used for labeling handwritten letters and numbers.
 
 
 ---
