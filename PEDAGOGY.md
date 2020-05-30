@@ -13,7 +13,7 @@ The elimu.ai software automatically detects the current knowledge level of the c
 Description | Illustration
 ------------ | -------------
 Personalized learning is a core component of the elimu.ai software. Each child is guided through the curriculum by our AI tutor Nya and her robot companion. Nya automatically detects the current knowledge level of the child, and adapts the apps and content to best fit the child's current skill level. | ![xprize-no-text_banner](https://user-images.githubusercontent.com/15718174/82723985-51250780-9d05-11ea-8fc6-e800d9b414eb.png)
-A collection of educational apps teaches children basic literacy and numeracy in a fun and engaging way. This empowers each child to learn fully autonomously, without depending on the availability of qualified teachers. The AI tutor gradually unlocks more advanced content, as the child demonstrates mastery of prerequisite skills. | ![scr_20170619_211129_512](https://user-images.githubusercontent.com/15718174/27299402-95bea44c-552c-11e7-84ab-217cdca758e4.gif)
+A collection of educational apps teaches children basic literacy and numeracy in a fun and engaging way. This empowers each child to learn fully autonomously, without depending on the availability of qualified teachers. The AI tutor gradually unlocks more advanced content, as the child demonstrates mastery of prerequisite skills. | [![scr_20170619_211129_512](https://user-images.githubusercontent.com/15718174/27299402-95bea44c-552c-11e7-84ab-217cdca758e4.gif)](https://github.com/elimu-ai/launcher)
 
 
 
