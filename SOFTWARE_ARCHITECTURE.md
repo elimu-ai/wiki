@@ -31,7 +31,7 @@ The file size of the apps, games and multimedia is kept as small as possible in 
 
 ### Localization
 
-See [LOCALIZATION.md](LOCALIZATION.md).
+For instructions on how to add support for a new language, see [LOCALIZATION.md](LOCALIZATION.md).
 
 
 ### Content Crowdsourcing
