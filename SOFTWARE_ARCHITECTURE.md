@@ -3,7 +3,15 @@
 
 # elimu.ai Software Architecture
 
+###### Table of contents
+  1. [Learning Platform](#learning-platform)
+  1. [Software Dependencies](#dependencies)
+  1. [Software Scalability](#scalability)
+  1. [Data Collection](#data-collection)
+  1. [Artificial Intelligence (AI)](#ai)
 
+
+<a name="learning-platform"></a>
 ## Learning Platform
 
 The [elimu.ai](http://elimu.ai) software is a _platform_ of educational content and Android apps.
@@ -18,11 +26,13 @@ Broadly speaking, there are three categories of Android applications:
 ![elimu ai Software Architecture](https://user-images.githubusercontent.com/15718174/82879896-30acb580-9f70-11ea-9489-b6a9a37e89bb.png)
 
 
+<a name="dependencies"></a>
 ## Software Dependencies 🔄
 
 As depicted in the diagram above, several of the elimu.ai applications communicate with each other. As an example; When the app for reading storybooks ([Vitabu](https://github.com/elimu-ai/vitabu)) is opened, it asks the [content-provider](https://github.com/elimu-ai/content-provider) app to provide a list of storybooks. This means that the storybooks app depends on the content-provider app to be installed.
 
 
+<a name="scalability"></a>
 ## Software Scalability
 
 The software platform is being built to handle scaling to many different languages. A collection of many smaller apps, all categorized by literacy/numeracy skills makes it possible to easily adjust the complete curriculum when localizing from one language to another.
@@ -65,6 +75,7 @@ Based on the answers to the above questions, the following are the required step
    * Bring the device to the household.
 
 
+<a name="data-collection"></a>
 ## Data Collection 📊
 
 In order to measure how well the elimu.ai software is working, usage data is collected from the Android devices so that we can analyze the learning of each child. This enables us to carefully monitor how changes in code or content produce different learning outcome, as well as continuously improve the software.
@@ -74,6 +85,7 @@ The data is synced between the Android devices and the webapp's [REST API](https
 For assessing the learning outcome of the children, we are collecting data [categorized](https://github.com/elimu-ai/model/tree/master/src/main/java/ai/elimu/model/v2/gson/analytics) according to the subtasks defined in the [Early Grade Reading Assessment](https://globalreadingnetwork.net/resources/early-grade-reading-assessment-egra-toolkit-second-edition) (EGRA) and [Early Grade Mathematics Assessment](https://www.globalpartnership.org/content/early-grade-mathematics-assessment-egma-conceptual-framework-based-mathematics-skills) (EGMA) standards.
 
 
+<a name="ai"></a>
 ## Artificial Intelligence (AI) 🤖
 
 ...
