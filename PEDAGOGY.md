@@ -1,5 +1,10 @@
 # elimu.ai Pedagogy
 
+## Objective
+
+Objective: Develop collection of Android apps/games for teaching a child the basics of reading, writing and arithmetic.
+
+For details, see [Projects](https://github.com/elimu-ai/wiki/projects).
 
 ## Instruction Language
 
@@ -24,6 +29,11 @@ Description | Illustration
 ------------ | -------------
 Early Grade Reading Assessment (EGRA) | ![egra_correlations](https://user-images.githubusercontent.com/15718174/27515885-74e0ca62-59ae-11e7-83c1-7ef12c0851ce.png)
 Early Grade Mathematics Assessment (EGMA) | ![egma_correlations](https://user-images.githubusercontent.com/15718174/27515894-91bfd4f2-59ae-11e7-9d87-5b03117c206f.png)
+
+
+# Best-Practices
+
+The elimu.ai software is designed following best-practices from the [Reading Essentials](https://www.udemy.com/course/reading-essentials/) course by Helen Abadzi.
 
 
 ### Android Hardware
