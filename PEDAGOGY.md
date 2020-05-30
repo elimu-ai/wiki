@@ -36,7 +36,7 @@ Early Grade Mathematics Assessment (EGMA) | ![egma_correlations](https://user-im
 The elimu.ai software is designed following best-practices from the [Reading Essentials](https://www.udemy.com/course/reading-essentials/) course by Helen Abadzi.
 
 
-## Personal Learning Device
+## Personal Learning Device 📱
 
 For _personalized learning_ to be truly effective, each child should have their own Android device. The software is designed to automatically adapt the educational content and apps to the current knowledge level of the child, so if another child uses the same user account on the same Android device, the personalized learning will not work.
 
