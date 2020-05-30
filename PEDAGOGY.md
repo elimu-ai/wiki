@@ -34,7 +34,7 @@ Early Grade Mathematics Assessment (EGMA) | ![egma_correlations](https://user-im
 
 ## Best-Practices
 
-The elimu.ai software is designed following best-practices from the [Reading Essentials](https://www.udemy.com/course/reading-essentials/) course by Helen Abadzi.
+The elimu.ai software is designed following best-practices for reading instruction from the [Reading Essentials](https://www.udemy.com/course/reading-essentials/) course by Helen Abadzi.
 
 
 ## Personal Learning Device 📱
