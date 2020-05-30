@@ -3,6 +3,7 @@
 
 # elimu.ai Software Architecture
 
+
 ## Learning Platform
 
 The [elimu.ai](http://elimu.ai) software is a _platform_ of educational content and Android apps.
@@ -16,22 +17,38 @@ Broadly speaking, there are three categories of Android applications:
 
 ![elimu ai Software Architecture](https://user-images.githubusercontent.com/15718174/82879896-30acb580-9f70-11ea-9489-b6a9a37e89bb.png)
 
+
 ## Software Dependencies 🔄
 
-As depicted in the diagram above, several of the elimu.ai applications communicate with each other. As an example, when the app for reading storybooks ([Vitabu](https://github.com/elimu-ai/vitabu)) is opened, it asks the [content-provider](https://github.com/elimu-ai/content-provider) app to provide a list of storybooks. This means that the storybooks app depends on the content-provider app to be installed.
+As depicted in the diagram above, several of the elimu.ai applications communicate with each other. As an example; When the app for reading storybooks ([Vitabu](https://github.com/elimu-ai/vitabu)) is opened, it asks the [content-provider](https://github.com/elimu-ai/content-provider) app to provide a list of storybooks. This means that the storybooks app depends on the content-provider app to be installed.
 
+
+## Software Localization
+
+See [LOCALIZATION.md](LOCALIZATION.md).
 
 
 ## Software Distribution 📦
 
 When distributing the software, there are two main questions that need to be answered:
-  1. Does the child already have access to an Android device?
-  1. Does the device have access to an Internet connection?
+   1. Does the child already have access to an Android device?
+   1. Does the device have access to an Internet connection?
 
 Based on the answers to the above questions, the following are the required steps for distributing the software:
-  1. If a child already has access to an Android device _and_ access to an Internet connection, the household (e.g. parents) can download and install the software by:
-    1. ⬇️ Downloading the [elimu.ai Appstore](https://github.com/elimu-ai/appstore), which automatically downloads all the required infrastructural and literacy/numeracy apps/games.
-  1. If a child already ...
+
+1. If a child already has access to an Android device _and_ access to an Internet connection, the household (e.g. parents) can download and install the software by:
+   1. Download the [elimu.ai Appstore](https://github.com/elimu-ai/appstore), which automatically downloads all the required infrastructural and literacy/numeracy apps/games.
+
+1. If a child already has access to an Android device, but _no_ access to an Internet connection, the software can be installed by:
+   1. Download a ZIP file from the [elimu.ai](http://elimu.ai) website meant for _offline_ installation. This file contains all the Android apps, educational content, as well as an installation script (Unix/Windows).
+   1. Bring the file, a laptop, and a USB cable to the household.
+   1. Connect the USB cable to the Android device, and execute the installation script in order to automatically install all the Android APK files and content.
+
+1. If a child does _not_ already have access to an Android device:
+   1. Obtain an Android device with 6" display or larger. Make sure the Android version installed on the device is [supported](https://github.com/elimu-ai/appstore#what-devices-are-being-used) by the elimu.ai software.
+   1. Download the [elimu.ai Appstore](https://github.com/elimu-ai/appstore), which automatically downloads all the required infrastructural and literacy/numeracy apps/games.
+   1. Bring the device to the household.
+
 
 ## Personalized Learning 🚀
 
@@ -41,9 +58,13 @@ At the very least, a separate Android user should be created for each child if t
 
 ![Multi-User-Android-One](https://user-images.githubusercontent.com/15718174/83320709-9fde1e80-a27c-11ea-9201-83d0a1726914.jpg)
 
+
 ## Data Collection 📊
 
-...
+In order to measure how well the elimu.ai software is working, usage data is collected from the Android devices so that we can analyze the learning of each child. This enables us to carefully monitor how changes in code or content produce different learning outcome, as well as continuously improve the software.
+
+The data is synced between the Android devices and the webapp's [REST API](https://github.com/elimu-ai/webapp/blob/master/README.md#rest-api) whenever an Internet connection is available.
+
 
 ---
 
