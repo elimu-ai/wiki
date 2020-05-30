@@ -35,7 +35,7 @@ As depicted in the diagram above, several of the elimu.ai applications communica
 <a name="scalability"></a>
 ## Software Scalability
 
-The software platform is being built to handle scaling to many different languages. A collection of many smaller apps, all categorized by literacy/numeracy skills makes it possible to easily adjust the complete curriculum when localizing from one language to another.
+The software platform is being built to handle scaling to many different languages. A collection of many smaller apps, all [categorized](https://github.com/elimu-ai/launcher/blob/master/README.md#pedagogy) by literacy/numeracy skills makes it possible to easily adjust the complete curriculum when localizing from one language to another.
 
 The file size of the apps, games and multimedia is kept as small as possible in order to make the distribution easier in locations with limited Internet connectivity. In addition, the software has been designed to work offline so that it can be used in rural areas.
 
