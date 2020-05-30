@@ -37,17 +37,17 @@ When distributing the software, there are two main questions that need to be ans
 Based on the answers to the above questions, the following are the required steps for distributing the software:
 
 1. If a child already has access to an Android device _and_ access to an Internet connection, the household (e.g. parents) can download and install the software by:
-   1. Download the [elimu.ai Appstore](https://github.com/elimu-ai/appstore), which automatically downloads all the required infrastructural and literacy/numeracy apps/games.
+   * Download the [elimu.ai Appstore](https://github.com/elimu-ai/appstore), which automatically downloads all the required infrastructural and literacy/numeracy apps/games.
 
 1. If a child already has access to an Android device, but _no_ access to an Internet connection, the software can be installed by:
-   1. Download a ZIP file from the [elimu.ai](http://elimu.ai) website meant for _offline_ installation. This file contains all the Android apps, educational content, as well as an installation script (Unix/Windows).
-   1. Bring the file, a laptop, and a USB cable to the household.
-   1. Connect the USB cable to the Android device, and execute the installation script in order to automatically install all the Android APK files and content.
+   * Download a ZIP file from the [elimu.ai](http://elimu.ai) website meant for _offline_ installation. This file contains all the Android apps, educational content, as well as an installation script (Unix/Windows).
+   * Bring the file, a laptop, and a USB cable to the household.
+   * Connect the USB cable to the Android device, and execute the installation script in order to automatically install all the Android APK files and content.
 
 1. If a child does _not_ already have access to an Android device:
-   1. Obtain an Android device with 6" display or larger. Make sure the Android version installed on the device is [supported](https://github.com/elimu-ai/appstore#what-devices-are-being-used) by the elimu.ai software.
-   1. Download the [elimu.ai Appstore](https://github.com/elimu-ai/appstore), which automatically downloads all the required infrastructural and literacy/numeracy apps/games.
-   1. Bring the device to the household.
+   * Obtain an Android device with 6" display or larger. Make sure the Android version installed on the device is [supported](https://github.com/elimu-ai/appstore#what-devices-are-being-used) by the elimu.ai software.
+   * Download the [elimu.ai Appstore](https://github.com/elimu-ai/appstore), which automatically downloads all the required infrastructural and literacy/numeracy apps/games.
+   * Bring the device to the household.
 
 
 ## Personalized Learning 🚀
