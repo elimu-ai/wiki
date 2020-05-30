@@ -27,7 +27,7 @@ As depicted in the diagram above, several of the elimu.ai applications communica
 
 The software platform is being built to handle scaling to many different languages. A collection of many smaller apps, all categorized by literacy/numeracy skills makes it possible to easily adjust the complete curriculum when localizing from one language to another.
 
-The file size of the apps, games and multimedia is kept as small as possible in order to make the distribution easier in countries with limited Internet connectivity. In addition, the software has been designed to work offline so that it can be used in rural areas.
+The file size of the apps, games and multimedia is kept as small as possible in order to make the distribution easier in locations with limited Internet connectivity. In addition, the software has been designed to work offline so that it can be used in rural areas.
 
 ### Localization
 
@@ -36,7 +36,7 @@ See [LOCALIZATION.md](LOCALIZATION.md).
 
 ### Content Crowdsourcing
 
-Another way to ensure software scalability is through _crowdsourcing_. By using the [elimu.ai Crowdsource](https://github.com/elimu-ai/crowdsource) Android app or the [elimu.ai Webapp](https://github.com/elimu-ai/webapp), the crowd is able to upload and peer review educational content on the platform, and thus help speed up the expansion to more languages. As an example, such a task might involve transcribing a few audio recordings, peer reviewing existing audio transcriptions, translating a storybook, or recording audio files for an entire storybook, labelling videos by content, etc.
+Another way to ensure software scalability is through _crowdsourcing_. By using the [elimu.ai Crowdsource](https://github.com/elimu-ai/crowdsource) Android app or the [elimu.ai Webapp](https://github.com/elimu-ai/webapp), the crowd is able to upload and peer review educational content on the platform, and thus help speed up the expansion to more languages. As an example, such a task might involve transcribing a few audio recordings, peer reviewing existing audio transcriptions, translating a storybook, recording audio files for an entire storybook, labelling videos by content, etc.
 
 
 ### Distribution 📦
