@@ -93,7 +93,7 @@ For assessing the learning outcome of the children, we are collecting data [cate
 
 Using [TensorFlow](https://www.tensorflow.org/), one machine learning model is trained per language.
 
-  * [Storybooks recommender model](https://github.com/elimu-ai/ml-storybooks-recommender)
+  * [Content recommendation](https://github.com/elimu-ai/ml-storybooks-recommender) (storybooks)
   * Handwriting recognition (letters)
   * Handwriting recognition (numbers)
 
