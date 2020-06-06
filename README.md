@@ -85,7 +85,7 @@ For instructions on how to download and install the software, see the [elimu.ai 
     * http://fil.elimu.ai
     * http://hin.elimu.ai
 
-    For instructions on how to add educational content, see [LOCALIZATION.md](LOCALIZATION.md).
+    For instructions on how to add educational content, see [LOCALIZATION.md](LOCALIZATION.md#add-educational-content).
 
   * Also, contribute by developing Android applications or Android games. If you are a developer, see [CONTRIBUTING.md](CONTRIBUTING.md) and [SOFTWARE_ARCHITECTURE.md](SOFTWARE_ARCHITECTURE.md).
 
