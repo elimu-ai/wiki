@@ -91,7 +91,7 @@ For assessing the learning outcome of the children, we are collecting data [cate
 <a name="ai"></a>
 ## Artificial Intelligence (AI) 🤖
 
-Using [TensorFlow](https://www.tensorflow.org/), one machine learning model is trained per language.
+Using [TensorFlow](https://www.tensorflow.org/), one machine learning model is trained per language, for each of the three categories:
 
   * [Content recommendation](https://github.com/elimu-ai/ml-storybooks-recommender) (storybooks)
   * Handwriting recognition (letters)
