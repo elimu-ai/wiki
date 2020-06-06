@@ -49,7 +49,7 @@ The software is designed in such a way that the children can learn fully autonom
 <a name="milestones"></a>
 ## Milestones 📆
 
-### 12-Month Action Plan (2020 → 2021)
+### 12-Month [Action Plan](https://github.com/elimu-ai/wiki/projects) (2020 → 2021)
 
 Objective: Build complete [Filipino](http://fil.elimu.ai) and [Hindi](http://hin.elimu.ai) curriculum of literacy/numeracy apps.
 
