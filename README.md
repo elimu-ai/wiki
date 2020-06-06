@@ -76,7 +76,7 @@ How can you contribute? Either by _adding educational content_ or by _developing
 
 ### Option 1: Download & Test the Software 📦🕵️
 
-For instructions on how to download and install the [elimu.ai](http://elimu.ai) software, see https://github.com/elimu-ai/appstore.
+For instructions on how to download and install the software, see the [elimu.ai Appstore](https://github.com/elimu-ai/appstore).
 
 ### Option 2: Content Creation or App Development 🎶🎙️📱
 
