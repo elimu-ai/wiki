@@ -41,6 +41,15 @@ Component | Description
 
 ...
 
-### Add Educational Content to the Website: Step-by-Step Guide
+<a name="add-educational-content"></a>
+### Add Educational Content: Step-by-Step Guide
+
+...
+
+#### Using Website
+
+...
+
+#### Using Crowdsourcing App
 
 ...
