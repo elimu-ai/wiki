@@ -41,7 +41,7 @@ Our solution is to develop software for teaching out-of-school children the basi
 
 The [elimu.ai](http://elimu.ai) software is a _platform_ of educational content and Android apps.
 
-The software is designed in such a way that the children can learn fully autonomously, without guidance from qualified teachers. Instead, an AI tutor (Nya) guides each child through the necessary steps. The AI tutor gradually unlocks more advanced content, as the child demonstrates [mastery](PEDAGOGY.md#personalized-learning-) of prerequisite skills.
+The software is designed in such a way that the children can learn fully autonomously, without guidance from qualified teachers. Instead, an AI tutor (Nya) guides each child through the necessary steps. The AI tutor gradually unlocks more advanced content, as the child demonstrates [mastery](PEDAGOGY.md#personalized-learning-) of prerequisite skills. As an example; Before learning how to read a word, the child needs to master the _letter-to-sound correspondence_ of the letters composing that word.
 
 [![android_launcher](https://user-images.githubusercontent.com/15718174/82110563-ea867380-9771-11ea-8703-d63e381001eb.gif)](https://github.com/elimu-ai/launcher)
 
