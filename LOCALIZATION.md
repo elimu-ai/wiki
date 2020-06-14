@@ -10,15 +10,15 @@ The elimu.ai software is architected such that a collection of infrastructural a
 
 ## Currently Supported Languages
 
-...
+A list of the currently supported languages is available at https://github.com/elimu-ai/model/blob/master/src/main/java/ai/elimu/model/enums/Language.java
 
 
 ## How to Add Support for a New Language
 
 When adding support for a new language to the [elimu.ai](http://elimu.ai) platform, there are two types of activities that need to be handled:
 
-  1. Add support for the new language to the code (Android apps/games)
-  2. Add the educational content for the new language (using the [webapp](https://github.com/elimu-ai/webapp))
+  1. Software Engineering: Add support for the new language to the code (webapp & Android apps/games)
+  2. Content Creation: Add the educational content for the new language (using the [webapp](https://github.com/elimu-ai/webapp))
 
 
 ### Introduction
@@ -38,11 +38,11 @@ Component | Description
 
 ...
 
-### Update Existing Educational Apps/Games: Step-by-Step Guide
+### Update _Existing_ Educational Apps/Games: Step-by-Step Guide
 
 ...
 
-### Upload New Educational Apps/Games: Step-by-Step Guide
+### Upload _New_ Educational Apps/Games: Step-by-Step Guide
 
 ...
 
