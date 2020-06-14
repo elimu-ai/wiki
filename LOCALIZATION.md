@@ -1,5 +1,12 @@
 # elimu.ai Localization
 
+## Software Architecture
+
+The elimu.ai software is architected such that a collection of infrastructural and educational Android apps can be re-used across a variety of languages. One [webapp](https://github.com/elimu-ai/webapp) can be configured per language for hosting the educational content:
+
+[
+  <img width="320" alt="Software Architecture" src="https://user-images.githubusercontent.com/15718174/83595568-fb6a1e00-a594-11ea-990a-10c0bd62ed11.png">
+](https://github.com/elimu-ai/wiki/blob/master/SOFTWARE_ARCHITECTURE.md)
 
 ## Currently Supported Languages
 
