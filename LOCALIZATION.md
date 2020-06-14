@@ -31,7 +31,7 @@ Component | Description
 [webapp](https://github.com/elimu-ai/webapp) | Web application for uploading and hosting Android apps and educational content
 [appstore](https://github.com/elimu-ai/appstore) | Android Appstore application for downloading Android apps to tablets and installing them
 [launcher](https://github.com/elimu-ai/launcher) |	Android application providing a structured path when accessing the educational apps
-[content-provider](https://github.com/elimu-ai/content-provider)	| Android application which downloads educational content to tablets and provides it to other apps
+[content-provider](https://github.com/elimu-ai/content-provider)	| Android application which downloads educational content from the webapp's REST API to the device and provides it to other apps
 [analytics](https://github.com/elimu-ai/analytics)	| Android application which collects usage activity from the educational apps and uploads it to the webapp
 
 ### Update Infrastructure Apps: Step-by-Step Guide
