@@ -58,7 +58,7 @@ When distributing the software, there are two main questions that need to be ans
    1. Does the child already have access to an Android device?
    1. Does the device have access to an Internet connection?
 
-Based on the answers to the above questions, the following are the required steps for distributing the software:
+Based on the answers to the above questions, the following are the necessary steps for distributing the software:
 
 1. If a child already has access to an Android device _and_ access to an Internet connection, the household (e.g. parents) can download and install the software by:
    * Download the [elimu.ai Appstore](https://github.com/elimu-ai/appstore).
