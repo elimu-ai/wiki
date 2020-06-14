@@ -25,8 +25,6 @@ When adding support for a new language to the [elimu.ai](http://elimu.ai) platfo
 
 When adding support for a new language, there are 6 infrastructure components that need to be updated:
 
-![software_architecture](https://user-images.githubusercontent.com/15718174/50562025-59dbfe80-0d08-11e9-9e86-3c69b860f0d3.png)
-
 Component | Description
 ------------ | -------------
 [model](https://github.com/elimu-ai/model) | Common Java classes shared amongst the webapp and appstore
