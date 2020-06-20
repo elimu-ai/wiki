@@ -112,3 +112,11 @@ See [elimu-ai.slack.com](https://join.slack.com/t/elimu-ai/shared_invite/zt-eoc9
 
 ### Community Mailing List
 Sign up at http://eepurl.com/bGihkr.
+
+### Decentralized Autonomous Organization (DAO)
+
+The [elimu.ai Community DAO](https://mainnet.aragon.org/#/elimuai) is empowered by [Aragon](https://aragon.org). Aragon gives internet communities the power to freely organize and collaborate without borders or intermediaries.
+
+[
+  <img width="320" alt="Powered by Aragon" src="https://wiki.aragon.org/design/artwork/Powered_By/SVG/Powered_By_White.svg">
+](https://mainnet.aragon.org/#/elimuai)
