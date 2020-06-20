@@ -91,7 +91,7 @@ For instructions on how to download and install the software, see the [elimu.ai 
 
 ### Option 3: Software Distribution 🛵💨
 
-Do you live near a child who does not have access to quality basic education? Help us [distribute](https://github.com/elimu-ai/wiki/blob/master/SOFTWARE_ARCHITECTURE.md#distribution) the learning software.. For more information, send an e-mail to info@elimu.ai or contact us via [Slack](https://join.slack.com/t/elimu-ai/shared_invite/zt-eoc921ow-0cfjATlIF2X~zHhSgSyaAw).
+Do you live near a child who does not have access to quality basic education? Help us [distribute](https://github.com/elimu-ai/wiki/blob/master/SOFTWARE_ARCHITECTURE.md#distribution) the learning software. For more information, send an e-mail to info@elimu.ai or contact us via [Slack](https://join.slack.com/t/elimu-ai/shared_invite/zt-eoc921ow-0cfjATlIF2X~zHhSgSyaAw).
 
 
 <a name="open-source"></a>
