@@ -59,7 +59,7 @@ belong to one of the following:
 
 Once you have identified a task to work on, there is a specific workflow that you should follow. This 
 workflow is mostly identical for both outside and core contributors, except from the way to create a 
-new GitHub branch to work on:
+new GitHub branch to work on (Step 1):
 
    1. If you are an outside contributor, _fork_ the repository to your own GitHub account. (If you are 
    are core contributor, you will create a new branch directly in the main repository.)
