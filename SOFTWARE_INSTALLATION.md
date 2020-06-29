@@ -1,6 +1,9 @@
 # elimu.ai Software Installation
 
-To install elimu.ai's collection of educational Android apps, follow these step-by-step instructions:
+The elimu.ai software consists of a collection of _infrastructural_ and _educational_ Android applications (see [SOFTWARE_ARCHITECTURE.md](SOFTWARE_ARCHITECTURE.md)). Note: Individual educational apps will not work unless you install the prerequisite infrastructural apps first.
+
+To install elimu.ai's collection of apps, follow these step-by-step instructions:
+
 
 ## Download & Install the elimu.ai Appstore Application
 
@@ -20,5 +23,76 @@ To install elimu.ai's collection of educational Android apps, follow these step-
 1. Press the "INSTALL" button:
   ![device-2020-06-27-134911](https://user-images.githubusercontent.com/15718174/85915786-10c52600-b87d-11ea-93c5-a859e105913c.png)
 
+### Select Language of Instruction
+
+Launch the Appstore application, and select the child's [mother tongue](PEDAGOGY.md) as the language of instruction:
+
+![device-2020-06-29-124527](https://user-images.githubusercontent.com/15718174/85973805-84466f00-ba06-11ea-942b-e22e57ff5af8.png)
+
+Once a language has been selected, the Appstore will connect to the [webapp](https://github.com/elimu-ai/webapp) and download a list of applications to be installed:
+
+![device-2020-06-29-124900](https://user-images.githubusercontent.com/15718174/85974023-f4ed8b80-ba06-11ea-9509-dbaf06c2c417.png)
 
 
+## Download & Install the Infrastructural Apps
+
+Install the following _infrastructural_ applications:
+  1. [Analytics](https://github.com/elimu-ai/analytics)
+  1. [Content Provider](https://github.com/elimu-ai/content-provider)
+  1. [Launcher](https://github.com/elimu-ai/launcher)
+
+Note: The first time you install an application via the elimu.ai Appstore, you might see a warning looking like this:
+
+![device-2020-06-29-130503](https://user-images.githubusercontent.com/15718174/85974886-32ebaf00-ba09-11ea-8c1b-11f6cfc6baf0.png)
+
+If you do, press the "SETTINGS" button, and select "Allow from this source":
+
+![device-2020-06-29-130647](https://user-images.githubusercontent.com/15718174/85975003-852cd000-ba09-11ea-83cd-e8fd9d5637fb.png)
+
+Then go back to the previous screen to continue the installation.
+
+### Download the Educational Content
+
+Before using the educational apps, you need to download the educational _content_ to the Content Provider application:
+
+![device-2020-06-29-131748](https://user-images.githubusercontent.com/15718174/85975561-0173e300-ba0b-11ea-88a0-0a5fa8e35a18.png)
+
+Open the Content Provider application, and download the following:
+  1. Allophones (Sounds)
+  1. Letters
+  1. Words
+  1. Numbers
+  1. Emojis
+  1. Images
+  1. Audios
+  1. Storybooks
+  1. Videos
+
+
+## Download & Install the Educational Apps
+
+Go through the remaining list of literacy/numeracy apps, and press "Download" and "Install" for each of them.
+
+To verify that the educational apps are able to fetch content from the Content Provider, open "Vitabu" (Books) and make sure that a collection of storybooks appears:
+
+![device-2020-06-29-133431](https://user-images.githubusercontent.com/15718174/85976530-5ca6d500-ba0d-11ea-934f-f9efab6de48c.png)
+
+
+## Configure the Launcher
+
+Press the home button of the device, and select "elimu.ai Launcher":
+
+![device-2020-06-29-134247](https://user-images.githubusercontent.com/15718174/85977141-93311f80-ba0e-11ea-8db5-5ccf190a5734.png)
+
+### Configure Screen Pinning
+
+...
+
+
+## Configure Text-to-Speech
+
+...
+
+### Configure Device Language
+
+...
