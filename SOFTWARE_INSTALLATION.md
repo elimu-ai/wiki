@@ -95,8 +95,35 @@ Press the home button again, and select "ALWAYS":
 
 ## Configure Text-to-Speech
 
-...
+If the default Text-to-Speech on the device does not match the language selected in the Appstore, download a Text-to-Speech voice by going to <kbd>Settings</kbd> → <kbd>Accessibility</kbd> → <kbd>Text-to-speech output</kbd>. Then press the settings icon of "Preferred engine":
 
-### Configure Device Language
+![device-2020-06-29-145847](https://user-images.githubusercontent.com/15718174/85982882-25d6bc00-ba19-11ea-8030-1c6b941aa14d.png)
 
-...
+Then press "Install voice data" and select the same language as you did for the Appstore:
+
+![device-2020-06-29-150629](https://user-images.githubusercontent.com/15718174/85983516-389dc080-ba1a-11ea-81b0-ed3af33bfcd4.png)
+
+![device-2020-06-29-150649](https://user-images.githubusercontent.com/15718174/85983523-3b001a80-ba1a-11ea-8b20-74b19fd5e943.png)
+
+![device-2020-06-29-151148](https://user-images.githubusercontent.com/15718174/85983944-f5901d00-ba1a-11ea-9606-717fca1e741f.png)
+
+### Configure Text-to-Speech Language
+
+After downloading the voice, go back to the Text-to-Speech settings and change the language from "Use system language" to the same language as you chose for the Appstore:
+
+![device-2020-06-29-152329](https://user-images.githubusercontent.com/15718174/85984968-8b787780-ba1c-11ea-8249-daf6153f2690.png)
+
+![device-2020-06-29-152341](https://user-images.githubusercontent.com/15718174/85984974-8e736800-ba1c-11ea-8a8c-308f8f179c0b.png)
+
+Alternatively: Leave the setting at "Use system language", and then go to <kbd>Settings</kbd> → <kbd>System</kbd> → <kbd>Languages & input</kbd> → <kbd>Languages</kbd>, and switch the system language of the device to the same language as you chose for the Appstore:
+
+![device-2020-06-29-152804](https://user-images.githubusercontent.com/15718174/85985325-2a9d6f00-ba1d-11ea-8054-7b777955a9fc.png)
+
+![device-2020-06-29-152850](https://user-images.githubusercontent.com/15718174/85985392-4143c600-ba1d-11ea-9efa-6e89908b5f94.png)
+
+
+## Done! Start Learning 🚀
+
+Congratulations, you have now successfully installed the elimu.ai software on your Android device! To start learning, open the elimu.ai Launcher, and press any of the unlocked spaceships:
+
+![device-2020-06-28-190942](https://user-images.githubusercontent.com/15718174/85985773-c4651c00-ba1d-11ea-94fc-96cc7c9a57d1.png)
