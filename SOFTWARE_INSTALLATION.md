@@ -124,6 +124,6 @@ Alternatively: Leave the setting at "Use system language", and then go to <kbd>S
 
 ## Done! Start Learning 🚀
 
-Congratulations, you have now successfully installed the elimu.ai software on your Android device! To start learning, open the elimu.ai Launcher, and press any of the unlocked spaceships:
+Congratulations, you have now successfully installed the elimu.ai software on your Android device! To start learning, open the [elimu.ai Launcher](https://github.com/elimu-ai/launcher), and press any of the unlocked spaceships:
 
 ![device-2020-06-28-190942](https://user-images.githubusercontent.com/15718174/85985773-c4651c00-ba1d-11ea-94fc-96cc7c9a57d1.png)
