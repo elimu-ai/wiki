@@ -84,9 +84,13 @@ Press the home button of the device, and select "elimu.ai Launcher":
 
 ![device-2020-06-29-134247](https://user-images.githubusercontent.com/15718174/85977141-93311f80-ba0e-11ea-8db5-5ccf190a5734.png)
 
-### Configure Screen Pinning
+![device-2020-06-29-143135](https://user-images.githubusercontent.com/15718174/85980653-659ba480-ba15-11ea-985f-91303d4ab569.png)
 
-...
+### Set as Default
+
+Press the home button again, and select "ALWAYS":
+
+![device-2020-06-29-144302](https://user-images.githubusercontent.com/15718174/85981525-e7400200-ba16-11ea-8beb-a29cb3f2d03c.png)
 
 
 ## Configure Text-to-Speech
