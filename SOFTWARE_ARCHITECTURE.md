@@ -63,7 +63,7 @@ Based on the answers to the above questions, the following are the necessary ste
 1. If a child already has access to an Android device _and_ access to an Internet connection, the household (e.g. parents) can download and install the software by:
    * Download the [elimu.ai Appstore](https://github.com/elimu-ai/appstore).
    * Install and launch the Appstore. Then select the child's [mother tongue](PEDAGOGY.md) as the language of instruction.
-   * Wait for the Appstore to automatically download all the required infrastructural and literacy/numeracy apps/games.
+   * Wait for the Appstore to automatically download all the required infrastructural and literacy/numeracy apps/games. (See [SOFTWARE_INSTALLATION.md](SOFTWARE_INSTALLATION.md))
 
 1. If a child already has access to an Android device, but _no_ access to an Internet connection, the software can be installed by:
    * Download a ZIP file from the [elimu.ai](http://elimu.ai) website meant for _offline_ installation. This file contains all the Android apps, educational content, as well as an installation script (Unix/Windows).
@@ -74,7 +74,7 @@ Based on the answers to the above questions, the following are the necessary ste
    * Obtain an Android device with 6" display or larger. Make sure the Android version installed on the device is [supported](https://github.com/elimu-ai/appstore#what-devices-are-being-used) by the elimu.ai software.
    * Download the [elimu.ai Appstore](https://github.com/elimu-ai/appstore).
    * Install and launch the Appstore. Then select the child's [mother tongue](PEDAGOGY.md) as the language of instruction.
-   * Wait for the Appstore to automatically download all the required infrastructural and literacy/numeracy apps/games.
+   * Wait for the Appstore to automatically download all the required infrastructural and literacy/numeracy apps/games. (See [SOFTWARE_INSTALLATION.md](SOFTWARE_INSTALLATION.md))
    * Bring the device to the household.
 
 
