@@ -25,7 +25,7 @@ The purpose of [elimu.ai](http://elimu.ai) is to provide out-of-school children 
 
 Currently, around [64 million](http://uis.unesco.org/en/news/new-education-data-sdg-4-and-more) children across the globe do not have access to quality basic education. We believe that a quality basic education is the right of _every child_, no matter her social or geographical background.
 
-The number of children who are excluded from education improved steadily in the decade following 2000, but [UNESCO statistics](http://uis.unesco.org/en/news/new-education-data-sdg-4-and-more) show that this progress essentially stopped in recent years:
+The number of children who are excluded from education improved steadily in the decade following year 2000, but [UNESCO statistics](http://uis.unesco.org/en/news/new-education-data-sdg-4-and-more) show that this progress essentially stopped in recent years:
 
 [
   ![UNESCO statistics](https://user-images.githubusercontent.com/15718174/82108940-1b13e080-9765-11ea-8c51-e7a15ca7690b.png)
