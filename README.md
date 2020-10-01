@@ -57,7 +57,7 @@ See https://github.com/elimu-ai/wiki/projects
 
 ### Long-Term Plan (2020 → 2025)
 
-In the long term, apps and content will be created first for target languages where the number of out-of-school children is the highest (based on [UIS Statistics](http://data.uis.unesco.org/)).
+In the long term, apps and content will be created first for target languages where the number of out-of-school children is the highest (based on [UIS Statistics](http://data.uis.unesco.org/)):
 
 Country | Languages | Out-of-School Children (Primary Age)
 ------------ | ------------- | ------------:
@@ -115,8 +115,8 @@ Sign up at http://eepurl.com/bGihkr.
 
 ### Decentralized Autonomous Organization (DAO)
 
-The [elimu.ai Community DAO](https://mainnet.aragon.org/#/elimuai) is empowered by [Aragon](https://aragon.org). Aragon gives internet communities the power to freely organize and collaborate without borders or intermediaries.
+The [elimu.ai Community DAO](https://client.aragon.org/#/elimuai) is empowered by [Aragon](https://aragon.org). Aragon gives internet communities the power to freely organize and collaborate without borders or intermediaries.
 
 [
   <img width="320" alt="Powered by Aragon" src="https://wiki.aragon.org/design/artwork/Powered_By/SVG/Powered_By_White.svg">
-](https://mainnet.aragon.org/#/elimuai)
+](https://client.aragon.org/#/elimuai)
