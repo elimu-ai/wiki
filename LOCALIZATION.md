@@ -42,11 +42,20 @@ Perform the following steps in order to add a new language:
 
 *Time estimate: 30-60 minutes*
 
-Add the country code to https://github.com/elimu-ai/model/blob/master/src/main/java/ai/elimu/model/enums/Language.java
+- Add the country code to https://github.com/elimu-ai/model/blob/master/src/main/java/ai/elimu/model/enums/Language.java
+- Create a [pull request](https://github.com/elimu-ai/wiki/blob/master/CONTRIBUTING.md) for your changes (see [example](https://github.com/elimu-ai/model/pull/214/files)).
+- Once your changes have been approved, the model library will be released with a new version number which can be found at https://github.com/elimu-ai/model/releases.
 
-Create a [pull request](https://github.com/elimu-ai/wiki/blob/master/CONTRIBUTING.md) for your changes (see [example](https://github.com/elimu-ai/model/pull/214/files)).
+#### 2. [webapp](https://github.com/elimu-ai/webapp): Update the Model Library in the Webapp to the Latest Version
 
-Once your changes have been approved, the model library will be released with a new version number which can be found at https://github.com/elimu-ai/model/releases.
+*Time estimate: 1-2 hours*
+
+- The webapp needs to update its model dependency version to get access to use the newly added Language enum.
+- Adjust the model version in [pom.xml](https://github.com/elimu-ai/webapp/blob/master/pom.xml) by updating the `<model.version>` attribute (see [example])(https://github.com/elimu-ai/webapp/pull/1135/files).
+- Add Subdomain for the New Language
+   - Next, we need to configure a subdomain for the new language, e.g. http://xho.elimu.ai for Xhosa.
+   - This subdomain will be used when visitors want to navigate the webapp using another content language than the default English. Also, the [appstore](https://github.com/elimu-ai/appstore) Android application will be using this subdomain when downloading applications and content for the new language. Similarly, the [analytics](https://github.com/elimu-ai/analytics) Android application will be uploading usage data to the same subdomain.
+   - To initiate this domain and server configuration, notify us via info@elimu.ai.
 
 ### Update _Existing_ Educational Apps/Games: Step-by-Step Guide
 
