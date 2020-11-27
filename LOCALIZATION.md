@@ -51,7 +51,7 @@ Perform the following steps in order to add a new language:
 *Time estimate: 1-2 hours*
 
 - The webapp needs to update its model dependency version to get access to use the newly added Language enum.
-- Adjust the model version in [pom.xml](https://github.com/elimu-ai/webapp/blob/master/pom.xml) by updating the `<model.version>` attribute (see [example])(https://github.com/elimu-ai/webapp/pull/1135/files).
+- Adjust the model version in [pom.xml](https://github.com/elimu-ai/webapp/blob/master/pom.xml) by updating the `<model.version>` attribute (see [example](https://github.com/elimu-ai/webapp/pull/1135/files)).
 - Add Subdomain for the New Language
    - Next, we need to configure a subdomain for the new language, e.g. http://xho.elimu.ai for Xhosa.
    - This subdomain will be used when visitors want to navigate the webapp using another content language than the default English. Also, the [appstore](https://github.com/elimu-ai/appstore) Android application will be using this subdomain when downloading applications and content for the new language. Similarly, the [analytics](https://github.com/elimu-ai/analytics) Android application will be uploading usage data to the same subdomain.
