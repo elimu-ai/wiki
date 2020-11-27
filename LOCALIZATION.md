@@ -36,7 +36,17 @@ Component | Description
 
 ### Update Infrastructure Apps: Step-by-Step Guide
 
-...
+Perform the following steps in order to add a new language:
+
+#### 1. [model](https://github.com/elimu-ai/model): Add the Language Code to the List of Supported Languages
+
+*Time estimate: 30-60 minutes*
+
+Add the country code to https://github.com/elimu-ai/model/blob/master/src/main/java/ai/elimu/model/enums/Language.java
+
+Create a [pull request](https://github.com/elimu-ai/wiki/blob/master/CONTRIBUTING.md) for your changes (see [example](https://github.com/elimu-ai/model/pull/214/files)).
+
+Once your changes have been approved, the model library will be released with a new version number which can be found at https://github.com/elimu-ai/model/releases.
 
 ### Update _Existing_ Educational Apps/Games: Step-by-Step Guide
 
