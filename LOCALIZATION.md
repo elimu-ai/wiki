@@ -73,6 +73,7 @@ Perform the following steps in order to add a new language:
 #### Using Website
 
 * [Adding Audio Recordings 🎶🎙️](https://github.com/elimu-ai/webapp/blob/master/LOCALIZE.md#adding-audio-recordings-%EF%B8%8F)
+* [Adding Words](https://github.com/elimu-ai/webapp/blob/master/LOCALIZE.md#adding-words)
 
 #### Using Crowdsourcing App
 
