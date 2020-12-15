@@ -62,7 +62,7 @@ workflow is mostly identical for both outside and core contributors, except from
 new GitHub branch to work on (Step 1):
 
    1. If you are an outside contributor, _fork_ the repository to your own GitHub account. (If you are 
-   are core contributor, you will create a new branch directly in the main repository.)
+   a core contributor, you will create a new branch directly in the main repository.)
 
    2. Create a new _branch_ for the GitHub issue that you will be working on. If, for example the issue 
    you have picked is titled "Upgrade to the latest Gradle version" and has the issue number 57, 
