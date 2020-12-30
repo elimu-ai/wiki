@@ -28,7 +28,7 @@ Each app on the elimu.ai platform is categorized by which literacy/numeracy it t
 
 Description | Illustration
 ------------ | -------------
-Literacy: Early Grade Reading Assessment (EGRA) | ![egra_correlations](https://user-images.githubusercontent.com/15718174/27515885-74e0ca62-59ae-11e7-83c1-7ef12c0851ce.png)
+Literacy: [Early Grade Reading Assessment (EGRA)](https://pdf.usaid.gov/pdf_docs/PA00M4TN.pdf) | ![egra_correlations](https://user-images.githubusercontent.com/15718174/27515885-74e0ca62-59ae-11e7-83c1-7ef12c0851ce.png)
 Numeracy: Early Grade Mathematics Assessment (EGMA) | ![egma_correlations](https://user-images.githubusercontent.com/15718174/27515894-91bfd4f2-59ae-11e7-9d87-5b03117c206f.png)
 
 
