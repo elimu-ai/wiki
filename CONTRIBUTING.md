@@ -141,10 +141,14 @@ If any of the above steps are unclear, or you have any other questions or commen
 
 ## elimu.ai Community - Open Source Contributors
 
+<img src="https://avatars1.githubusercontent.com/u/15718174?s=96&v=4" width="80" />
+
+Nya Elimu - Literacy/Numeracy Tutoring
+
 
 <img src="https://avatars1.githubusercontent.com/u/8291318?s=96&v=4" width="80" />
 
-Gema Sánchez - Android development
+Gema Sánchez - Android Development
 
 
 <img src="https://avatars2.githubusercontent.com/u/1451036?s=460&v=4" width="80" />
@@ -159,7 +163,7 @@ Michael Sladoje - AI & Machine Learning
 
 <img src="https://avatars2.githubusercontent.com/u/19466943?s=96&v=4" width="80" />
 
-Alin Mureșan - Content creation
+Alin Mureșan - Content Creation
 
 
 <img src="https://avatars3.githubusercontent.com/u/25285328?s=96&v=4" width="80" />
@@ -169,32 +173,32 @@ George Karanja - Translation
 
 <img src="https://avatars3.githubusercontent.com/u/523586?s=460&v=4" width="80" />
 
-German Torres - Game development
+German Torres - Game Development
 
 
 <img src="https://avatars0.githubusercontent.com/u/1878335?s=96&v=4" width="80" />
 
-Diego Wald - Game development
+Diego Wald - Game Development
 
 
 <img src="https://avatars3.githubusercontent.com/u/2552297?s=96&v=4" width="80" />
 
-Olha Yevtushenko - Game development
+Olha Yevtushenko - Game Development
 
 
 <img src="https://avatars3.githubusercontent.com/u/4211470?s=96&v=4" width="80" />
 
-Thomas Barthélémy - Android development
+Thomas Barthélémy - Android Development
 
 
 <img src="https://avatars0.githubusercontent.com/u/3321467?s=96&v=4" width="80" />
 
-Vincent Barthélémy - Android development
+Vincent Barthélémy - Android Development
 
 
 <img src="https://odesk-prod-portraits.s3.amazonaws.com/Users:moepwint:PortraitUrl_100?AWSAccessKeyId=AKIAIKIUKM3HBSWUGCNQ&Expires=2147483647&Signature=pVu9YEDnZxv7OBvu%2Fjtx2lKABiY%3D" width="80" />
 
-Moe Pwint - UX/UI design
+Moe Pwint - UX/UI Design
 
 
 <img src="https://avatars0.githubusercontent.com/u/150637?s=96&v=4" width="80" />
@@ -209,19 +213,19 @@ Mike Schälchli - AI & Machine Learning
 
 <img src="https://avatars3.githubusercontent.com/u/15183317?s=96&v=4" width="80" />
 
-Suman Dev - Android development
+Suman Dev - Android Development
 
 
 <img src="https://avatars2.githubusercontent.com/u/20499268?s=460&v=4" width="80" />
 
-Eli Hasson - Android development
+Eli Hasson - Android Development
 
 
 <img src="https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/profile/photos/58798059/original/photo-2.JPG" width="80" />
 
-Melissa Fabregas - Voice actress
+Melissa Fabregas - Voice Acting
 
 
 <img src="https://avatars3.githubusercontent.com/u/4281969?s=96&v=4" width="80" />
 
-Tuan Ngyen - Android development
+Tuan Ngyen - Android Development
