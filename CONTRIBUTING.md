@@ -137,3 +137,56 @@ your code changes into the `master` branch and deploy them to the test servers a
 ---
 
 If any of the above steps are unclear, or you have any other questions or comments, please reach out via info@elimu.ai or [Slack](https://join.slack.com/t/elimu-ai/shared_invite/zt-eoc921ow-0cfjATlIF2X~zHhSgSyaAw). Thank you for contributing 😀
+
+## elimu.ai Community - Open Source Contributors
+
+<img src="https://avatars1.githubusercontent.com/u/8291318?s=96&v=4" width="80" />
+Gema Sánchez - Android development
+
+<img src="https://avatars2.githubusercontent.com/u/1451036?s=460&v=4" width="80" />
+Jo Grimstad - Software Architecture
+
+<img src="https://avatars1.githubusercontent.com/u/556222?s=96&v=4" width="80" />
+Michael Sladoje - AI & Machine Learning
+
+<img src="https://avatars2.githubusercontent.com/u/19466943?s=96&v=4" width="80" />
+Alin Mureșan - Content creation
+
+<img src="https://avatars3.githubusercontent.com/u/25285328?s=96&v=4" width="80" />
+George Karanja - Translation
+
+<img src="https://avatars3.githubusercontent.com/u/523586?s=460&v=4" width="80" />
+German Torres - Game development
+
+<img src="https://avatars0.githubusercontent.com/u/1878335?s=96&v=4" width="80" />
+Diego Wald - Game development
+
+<img src="https://avatars3.githubusercontent.com/u/2552297?s=96&v=4" width="80" />
+Olha Yevtushenko - Game development
+
+<img src="https://avatars3.githubusercontent.com/u/4211470?s=96&v=4" width="80" />
+Thomas Barthélémy - Android development
+
+<img src="https://avatars0.githubusercontent.com/u/3321467?s=96&v=4" width="80" />
+Vincent Barthélémy - Android development
+
+<img src="https://odesk-prod-portraits.s3.amazonaws.com/Users:moepwint:PortraitUrl_100?AWSAccessKeyId=AKIAIKIUKM3HBSWUGCNQ&Expires=2147483647&Signature=pVu9YEDnZxv7OBvu%2Fjtx2lKABiY%3D" width="80" />
+Moe Pwint - UX/UI design
+
+<img src="blob:https://elimu-ai.atlassian.net/0516f5df-ec6d-49c7-bb1e-87463aeb4567#media-blob-url=true&id=0815063c-e713-4b56-8edc-114e4f7d58df&collection=contentId-163842&contextId=163842&mimeType=image%2Fpng&name=bikash.png&size=61992&width=200&height=200" width="80" />
+Bikash Agrawal - Big Data & Machine Learning
+
+<img src="https://avatars3.githubusercontent.com/u/20489471?s=96&v=4" width="80" />
+Mike Schälchli - AI & Machine Learning
+
+<img src="https://avatars3.githubusercontent.com/u/15183317?s=96&v=4" width="80" />
+Suman Dev - Android development
+
+<img src="https://avatars2.githubusercontent.com/u/20499268?s=460&v=4" width="80" />
+Eli Hasson - Android development
+
+<img src="https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/profile/photos/58798059/original/photo-2.JPG" width="80" />
+Melissa Fabregas - Voice actress
+
+<img src="https://avatars3.githubusercontent.com/u/4281969?s=96&v=4" width="80" />
+Tuan Ngyen - Android development
