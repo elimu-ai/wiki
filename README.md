@@ -19,7 +19,7 @@
 
 ### Purpose
 
-The purpose of [elimu.ai](http://elimu.ai) is to provide out-of-school children with access to quality basic education.
+The purpose of [elimu.ai](http://elimu.ai) is to provide disadvantaged children with access to quality basic education.
 
 ### Why? 🌍
 
@@ -33,7 +33,7 @@ The number of children who are excluded from education improved steadily in the 
 
 ### How Can We Solve the Problem? 💡
 
-Our solution is to develop software for teaching out-of-school children the basics of reading, writing and arithmetic. A collection of [educational apps](http://elimu.ai) teaches children basic literacy and numeracy in a fun and engaging way. This empowers each child to learn fully autonomously, and at her own pace, without depending on the availability of qualified teachers.
+Our solution is to develop software for teaching disadvantaged children the basics of reading, writing and arithmetic. A collection of [educational apps](http://elimu.ai) teaches children basic literacy and numeracy in a fun and engaging way. This empowers each child to learn fully autonomously, and at her own pace, without depending on the availability of qualified teachers.
 
 ![global_learning_xprize_banner](https://user-images.githubusercontent.com/15718174/82724725-b8918600-9d0a-11ea-9775-76f653fa2a9c.jpg)
 
@@ -57,7 +57,7 @@ See https://github.com/elimu-ai/wiki/projects
 
 ### Long-Term Plan (2020 → 2025)
 
-In the long term, apps and content will be created first for target languages where the number of out-of-school children is the highest (based on [UIS Statistics](http://data.uis.unesco.org/)):
+In the long term, apps and content will be created first for target languages where the number of children without access to quality basic education is the highest (based on [UIS Statistics](http://data.uis.unesco.org/)):
 
 Country | Languages | Out-of-School Children (Primary Age)
 ------------ | ------------- | ------------:
