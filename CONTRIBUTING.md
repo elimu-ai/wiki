@@ -1,14 +1,14 @@
 # Contributing to the elimu.ai Community
 
-The purpose of [elimu.ai](http://elimu.ai) is to provide _every child_ with access to quality basic education. We 
-believe that a free quality education is the right of every child no matter her social or 
-geographical background.
+The purpose of [elimu.ai](http://elimu.ai) is to provide disadvantaged children with access to quality 
+basic education. We believe that a free quality education is the right of every child no matter her 
+social or geographical background.
 
 For this reason, we build educational software that teaches a child to read, write and calculate 
 fully autonomously, without guidance from qualified teachers.
 
-Since [elimu.ai](http://elimu.ai) is an open source project, anyone is welcome to contribute towards this goal. We 
-welcome different skills, cultures, perspectives, attitudes, and experiences.
+Since [elimu.ai](http://elimu.ai) is an open source project, anyone is welcome to contribute towards this 
+goal. We welcome different skills, cultures, perspectives, attitudes, and experiences.
 
 This document explains the step-by-step process and guidelines for contributing to any of the 
 repositories in the elimu.ai [GitHub organization](https://github.com/elimu-ai).
@@ -41,7 +41,8 @@ belong to one of the following:
    would like to contribute: https://github.com/elimu-ai
    
    2. Look at the code in the repository to see if your skills match those required. If in doubt, 
-   post your questions in the [Slack channel](https://join.slack.com/t/elimu-ai/shared_invite/zt-eoc921ow-0cfjATlIF2X~zHhSgSyaAw) or send an e-mail to info@elimu.ai.
+   post your questions in the [Slack channel](https://join.slack.com/t/elimu-ai/shared_invite/zt-eoc921ow-0cfjATlIF2X~zHhSgSyaAw) 
+   or send an e-mail to info@elimu.ai.
    
    3. When you have selected a repository, click the 
    ["Projects"](https://github.com/elimu-ai/appstore/projects) tab of the repository. Within each 
@@ -87,7 +88,9 @@ new GitHub branch to work on (Step 1):
    7. Every pull request requires at least one approved peer review before being merged, so add at 
    least one person as a _code reviewer_ of your pull request. To find out who to add, click 
    "Insights" → "Contributors" too see an overview of the most active contributors for each 
-   repository. If you are unsure who to add, use these: [`nya-elimuai`](https://github.com/nya-elimuai), [`jo-elimuai`](https://github.com/jo-elimuai) and [`sladomic`](https://github.com/sladomic).
+   repository. If you are unsure who to add, use these: [`nya-elimuai`](https://github.com/nya-elimuai), 
+   [`jo-elimuai`](https://github.com/jo-elimuai), [`gscdev`](https://github.com/gscdev) and 
+   [`So-Somila`](https://github.com/So-Somila).
    
    8. Once your pull request has been reviewed and approved, it can be merged. The person who created 
    the branch (you) will be the person responsible for merging the branch. So the peers reviewing 
@@ -122,9 +125,10 @@ for each commit to make it easier for future contributors to understand each cod
 request needs at least one approved review in order to be merged. When assigning reviewers, add one or more of the project's 
 [maintainers](https://github.com/elimu-ai/webapp/blob/master/CODEOWNERS):
 
-   * [nya-elimuai](https://github.com/nya-elimuai)
-   * [jo-elimuai](https://github.com/jo-elimuai)
-   * [sladomic](https://github.com/sladomic)
+   * [`nya-elimuai`](https://github.com/nya-elimuai)
+   * [`jo-elimuai`](https://github.com/jo-elimuai)
+   * [`gscdev`](https://github.com/gscdev)
+   * [`So-Somila`](https://github.com/So-Somila)
    
    If the maintainers are too slow to get back to you, send an e-mail to info@elimu.ai or contact us via [Slack](https://join.slack.com/t/elimu-ai/shared_invite/zt-eoc921ow-0cfjATlIF2X~zHhSgSyaAw).
    
@@ -143,8 +147,9 @@ If any of the above steps are unclear, or you have any other questions or commen
 
 &nbsp; | &nbsp; | &nbsp;
 ------------ | ------------- | ------------
-<img src="https://avatars1.githubusercontent.com/u/15718174?s=96&v=4" width="80" /><br />Nya Elimu<br />Literacy/Numeracy Tutoring | <img src="https://avatars1.githubusercontent.com/u/8291318?s=96&v=4" width="80" /><br />Gema Sánchez<br />Android Development | <img src="https://avatars2.githubusercontent.com/u/1451036?s=460&v=4" width="80" /><br />Jo Grimstad<br />Software Architecture | <img src="https://avatars1.githubusercontent.com/u/556222?s=96&v=4" width="80" /><br />Michael Sladoje<br />AI & Machine Learning
-<img src="https://avatars2.githubusercontent.com/u/19466943?s=96&v=4" width="80" /><br />Alin Mureșan<br />Content Creation | <img src="https://avatars3.githubusercontent.com/u/25285328?s=96&v=4" width="80" /><br />George Karanja<br />Translation | <img src="https://avatars3.githubusercontent.com/u/523586?s=460&v=4" width="80" /><br />German Torres<br />Game Development | <img src="https://avatars0.githubusercontent.com/u/1878335?s=96&v=4" width="80" /><br />Diego Wald<br />Game Development
-<img src="https://avatars3.githubusercontent.com/u/2552297?s=96&v=4" width="80" /><br />Olha Yevtushenko<br />Game Development | <img src="https://avatars3.githubusercontent.com/u/4211470?s=96&v=4" width="80" /><br />Thomas Barthélémy<br />Android Development | <img src="https://avatars0.githubusercontent.com/u/3321467?s=96&v=4" width="80" /><br />Vincent Barthélémy<br />Android Development | <img src="https://odesk-prod-portraits.s3.amazonaws.com/Users:moepwint:PortraitUrl_100?AWSAccessKeyId=AKIAIKIUKM3HBSWUGCNQ&Expires=2147483647&Signature=pVu9YEDnZxv7OBvu%2Fjtx2lKABiY%3D" width="80" /><br />Moe Pwint<br />UX/UI Design
-<img src="https://avatars0.githubusercontent.com/u/150637?s=96&v=4" width="80" /><br />Bikash Agrawal<br />Big Data & Machine Learning | <img src="https://avatars3.githubusercontent.com/u/20489471?s=96&v=4" width="80" /><br />Mike Schälchli<br />AI & Machine Learning | <img src="https://avatars3.githubusercontent.com/u/15183317?s=96&v=4" width="80" /><br />Suman Dev<br />Android Development | <img src="https://avatars2.githubusercontent.com/u/20499268?s=460&v=4" width="80" /><br />Eli Hasson<br />Android Development
-<img src="https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/profile/photos/58798059/original/photo-2.JPG" width="80" /><br />Melissa Fabregas<br />Voice Acting | <img src="https://avatars3.githubusercontent.com/u/4281969?s=96&v=4" width="80" /><br />Tuan Ngyen<br />Android Development
+<img src="https://avatars1.githubusercontent.com/u/15718174?s=96&v=4" width="80" /><br />Nya Elimu<br />Literacy/Numeracy Tutoring | <img src="https://avatars1.githubusercontent.com/u/8291318?s=96&v=4" width="80" /><br />Gema Sánchez<br />Android Development | <img src="https://avatars2.githubusercontent.com/u/1451036?s=460&v=4" width="80" /><br />Jo Grimstad<br />Software Architecture
+<img src="https://avatars.githubusercontent.com/u/66638701?s=88&v=4" width="80" /><br />So-Somila<br />Content Creation & UX | <img src="https://avatars1.githubusercontent.com/u/556222?s=96&v=4" width="80" /><br />Michael Sladoje<br />AI & Machine Learning | <img src="https://avatars2.githubusercontent.com/u/19466943?s=96&v=4" width="80" /><br />Alin Mureșan<br />Content Creation
+<img src="https://avatars3.githubusercontent.com/u/25285328?s=96&v=4" width="80" /><br />George Karanja<br />Translation | <img src="https://avatars3.githubusercontent.com/u/523586?s=460&v=4" width="80" /><br />German Torres<br />Game Development | <img src="https://avatars0.githubusercontent.com/u/1878335?s=96&v=4" width="80" /><br />Diego Wald<br />Game Development
+<img src="https://avatars3.githubusercontent.com/u/2552297?s=96&v=4" width="80" /><br />Olha Yevtushenko<br />Game Development | <img src="https://avatars3.githubusercontent.com/u/4211470?s=96&v=4" width="80" /><br />Thomas Barthélémy<br />Android Development | <img src="https://avatars0.githubusercontent.com/u/3321467?s=96&v=4" width="80" /><br />Vincent Barthélémy<br />Android Development
+<img src="https://odesk-prod-portraits.s3.amazonaws.com/Users:moepwint:PortraitUrl_100?AWSAccessKeyId=AKIAIKIUKM3HBSWUGCNQ&Expires=2147483647&Signature=pVu9YEDnZxv7OBvu%2Fjtx2lKABiY%3D" width="80" /><br />Moe Pwint<br />UX/UI Design | <img src="https://avatars0.githubusercontent.com/u/150637?s=96&v=4" width="80" /><br />Bikash Agrawal<br />Big Data & Machine Learning | <img src="https://avatars3.githubusercontent.com/u/20489471?s=96&v=4" width="80" /><br />Mike Schälchli<br />AI & Machine Learning
+<img src="https://avatars3.githubusercontent.com/u/15183317?s=96&v=4" width="80" /><br />Suman Dev<br />Android Development | <img src="https://avatars2.githubusercontent.com/u/20499268?s=460&v=4" width="80" /><br />Eli Hasson<br />Android Development | <img src="https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/profile/photos/58798059/original/photo-2.JPG" width="80" /><br />Melissa Fabregas<br />Voice Acting | <img src="https://avatars3.githubusercontent.com/u/4281969?s=96&v=4" width="80" /><br />Tuan Ngyen<br />Android Development
