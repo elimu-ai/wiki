@@ -1,4 +1,4 @@
-# Contributing to the elimu.ai Community
+# Contributing to the elimu.ai Community 👩🏽‍💻
 
 The purpose of [elimu.ai](http://elimu.ai) is to provide disadvantaged children with access to quality 
 basic education. We believe that a free quality education is the right of every child no matter her 
@@ -16,7 +16,7 @@ repositories in the elimu.ai [GitHub organization](https://github.com/elimu-ai).
 Each repository has a maintainer responsible for reviewing code submitted by contributors. 
 The appointment of maintainers and lead maintainers is based on previous contributions (meritocracy).
 
-## Contributor workflow
+## Contributor Workflow 🔀
 
 ### Outside Contributor vs Core Contributor
 
@@ -143,7 +143,7 @@ your code changes into the `master` branch and deploy them to the test servers a
 If any of the above steps are unclear, or you have any other questions or comments, please reach out via info@elimu.ai or [Slack](https://join.slack.com/t/elimu-ai/shared_invite/zt-eoc921ow-0cfjATlIF2X~zHhSgSyaAw). Thank you for contributing 😀
 
 
-## elimu.ai Community - Open Source Contributors
+## elimu.ai Community - Open Source Contributors 🙌
 
 &nbsp; | &nbsp; | &nbsp;
 ------------ | ------------- | ------------
