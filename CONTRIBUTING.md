@@ -146,7 +146,7 @@ If any of the above steps are unclear, or you have any other questions or commen
 ## elimu.ai Community - Open Source Contributors 🙌
 
 &nbsp; | &nbsp; | &nbsp;
------------- | ------------- | ------------
+:---: | :---: | :---:
 <img src="https://avatars1.githubusercontent.com/u/15718174?s=96&v=4" width="80" /><br />Nya Elimu<br />Literacy/Numeracy Tutoring | <img src="https://avatars1.githubusercontent.com/u/8291318?s=96&v=4" width="80" /><br />Gema Sánchez<br />Android Development | <img src="https://avatars2.githubusercontent.com/u/1451036?s=460&v=4" width="80" /><br />Jo Grimstad<br />Software Architecture
 <img src="https://avatars.githubusercontent.com/u/66638701?s=88&v=4" width="80" /><br />So-Somila<br />Content Creation & UX | <img src="https://avatars1.githubusercontent.com/u/556222?s=96&v=4" width="80" /><br />Michael Sladoje<br />AI & Machine Learning | <img src="https://avatars2.githubusercontent.com/u/19466943?s=96&v=4" width="80" /><br />Alin Mureșan<br />Content Creation
 <img src="https://avatars3.githubusercontent.com/u/25285328?s=96&v=4" width="80" /><br />George Karanja<br />Translation | <img src="https://avatars3.githubusercontent.com/u/523586?s=460&v=4" width="80" /><br />German Torres<br />Game Development | <img src="https://avatars0.githubusercontent.com/u/1878335?s=96&v=4" width="80" /><br />Diego Wald<br />Game Development
