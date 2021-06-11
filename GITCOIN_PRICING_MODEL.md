@@ -11,7 +11,12 @@ Pricing model for GitHub issues posted as bounties at https://gitcoin.co/elimu-a
 
 ## Engineering 👩🏽‍💻📱
 
-// TODO
+|Contribution |Reward|
+--- | ---
+|Create Android app|Varies|
+|Peer-review Android app|Varies|
+|Create Android game|Varies|
+|Peer-review Android game|Varies|
 
 ## Distribution 🛵💨
 
