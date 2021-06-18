@@ -17,7 +17,7 @@ Pricing model for GitHub issues posted as bounties at https://gitcoin.co/elimu-a
 |Create video (per minute)|$12.00|
 |Peer-review video|$3.00|
 |Create video subtitles (per minute)|$3.00|
-|Peer-review video subtitles|$3.00|
+|Peer-review video subtitles|$0.75|
 
 ## Engineering 👩🏽‍💻📱
 
