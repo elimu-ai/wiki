@@ -32,7 +32,7 @@ Pricing model for GitHub issues posted as bounties at https://gitcoin.co/elimu-a
 
 |Contribution |Reward|
 --- | ---
-|Distribute hardware|$20.00|
-|Verify hardware distribution|$5.00|
-|Collect data|$20.00|
-|Verify data collection|$5.00|
+|Distribute hardware|$18.75|
+|Verify hardware distribution|$4.69|
+|Collect data|$18.75|
+|Verify data collection|$4.69|
