@@ -13,7 +13,8 @@ Pricing model for GitHub issues posted as bounties at https://gitcoin.co/elimu-a
 |Create number|$0.40||
 |Peer-review number|$0.10||
 |Create storybook|$4.00|Import of existing ePUB file|
-|Peer-review storybook|$1.00||
+|Peer-review storybook|$1.00|This task only involves marking the storybook as `APPROVED` or `NOT_APPROVED`|
+|Correct wrong translations in storybook|~$2.00|Reward will vary per storybook, depending on the amount of corrections.|
 |Create storybook recording|$4.00||
 |Peer-review storybook recording|$1.00||
 |Create video (per minute)|~$12.00|Reward will vary per video|
