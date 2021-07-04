@@ -23,13 +23,13 @@ The purpose of [elimu.ai](http://elimu.ai) is to provide disadvantaged children 
 
 ### Why? 🌍
 
-Across the globe, more than [64 million](http://uis.unesco.org/en/news/new-education-data-sdg-4-and-more) children are out-of-school, and millions more cannot read a single word, even after years of schooling. We believe that a quality basic education is the right of _every child_, no matter her social or geographical background.
+According to a report from UNESCO, more than [387 million children](http://uis.unesco.org/sites/default/files/documents/fs46-more-than-half-children-not-learning-en-2017.pdf) of primary school age (about 6 to 11 years old) are not achieving minimum proficiency levels in reading and mathematics. We believe that a quality basic education is the right of _every child_, no matter her social or geographical background.
 
-The number of children who are excluded from education improved steadily in the decade following year 2000, but [UNESCO statistics](http://uis.unesco.org/en/news/new-education-data-sdg-4-and-more) show that this progress essentially stopped in recent years:
+> ❝Schooling does not always lead to learning. Worldwide, there are more non-learners in school than out of school.❞
+> 
+> ⸺[UNICEF](https://www.unicef.org/education)
 
-[
-  ![UNESCO statistics](https://user-images.githubusercontent.com/15718174/82108940-1b13e080-9765-11ea-8c51-e7a15ca7690b.png)
-](http://uis.unesco.org/en/news/new-education-data-sdg-4-and-more)
+While 58 million children remain [out-of-school](https://data.unicef.org/topic/education/primary-education/), most children not learning are in school. This is truly a global learning crisis and a tremendous waste of human potential.
 
 ### How Can We Solve the Problem? 💡
 
@@ -55,7 +55,7 @@ Objective: Build initial [Hindi](http://hin.elimu.ai)/[Xhosa](http://xho.elimu.a
 
 See https://github.com/elimu-ai/wiki/projects
 
-### Long-Term Plan (2021 → 2026)
+### Long-Term Plan (2021 → 2030)
 
 In the long term, apps and content will be created first for target languages where the number of children without access to quality basic education is the highest (based on [UIS Statistics](http://data.uis.unesco.org/)):
 
@@ -99,7 +99,7 @@ Do you live near a child who does not have access to quality basic education? He
 <a name="open-source"></a>
 ## Open Source
 
-All the code and content is publicly available on [GitHub](https://github.com/elimu-ai) and on our [website](http://elimu.ai). 
+All the code and content is publicly available on [GitHub](https://github.com/elimu-ai) and on our [website](http://elimu.ai) as Free and Open Source Software (FOSS).
 
 The licenses we have chosen allow anybody to use the software however they want. Our goal is to spread the solution quickly in order to reach as many children as possible, and we believe that using open source software will enable this. Any individual, company or organization is welcome to take the existing code and adapt it to their local needs, as well as adding improvements to the original code if they wish to do so.
 
