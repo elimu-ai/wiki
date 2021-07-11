@@ -35,7 +35,7 @@ Pricing model for GitHub issues posted as bounties at https://gitcoin.co/elimu-a
 
 |Contribution|Reward|Notes|
 --- | --- | ---
-|Distribute hardware|$18.75|Distribution of Android device|
-|Verify hardware distribution|$4.69||
-|Collect data|$18.75|Collection from Android devices|
-|Verify data collection|$4.69|Dataset cleaning & analysis|
+|Distribute hardware|$20.00|Distribution of Android device|
+|Verify hardware distribution|$5.00||
+|Collect data|$20.00|Collection from Android devices|
+|Verify data collection|$5.00|Dataset cleaning & analysis|
