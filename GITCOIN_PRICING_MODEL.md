@@ -28,7 +28,7 @@ Pricing model for GitHub issues posted as bounties at https://gitcoin.co/elimu-a
 |Contribution|Reward|Notes|
 --- | --- | ---
 |Create Android app|~$500.00|Reward will vary per app. See http://eng.elimu.ai/contributions/publish|
-|Peer-review Android|~$125.00||
+|Peer-review Android app|~$125.00||
 |Create Android game|~$500.00|Reward will vary per game. See http://eng.elimu.ai/contributions/publish|
 |Peer-review Android game|~$125.00||
 
