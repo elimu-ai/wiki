@@ -7,7 +7,7 @@ Pricing model for GitHub issues posted as bounties at https://gitcoin.co/elimu-a
 |Contribution|Reward|Notes|
 --- | --- | ---
 |Create letter-to-allophone mapping|$1.00|Linguistics skills required.|
-|Peer-review letter-to-allophone mapping|$0.25|Linguistics skills required.|
+|Peer-review letter-sound correspondence|$0.25|Linguistics skills required.|
 |Create word|$1.00||
 |Peer-review word|$0.25||
 |Correct wrong word|$1.00||
