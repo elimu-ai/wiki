@@ -2,6 +2,8 @@
 
 Pricing model for GitHub issues posted as bounties at https://gitcoin.co/elimu-ai/active
 
+Also, active contributors get rewarded with [ELIMU](https://etherscan.io/token/0xe29797910d413281d2821d5d9a989262c8121cc2) tokens, and token holders can participate in the community's [decision-making](http://eng.elimu.ai/contributions/aragon-dao).
+
 ## Content creation 🎶🎙️
 
 |Contribution|Reward|Notes|
