@@ -120,5 +120,5 @@ Sign up at http://eepurl.com/bGihkr.
 The [elimu.ai Community DAO](https://voice.aragon.org/tokens/info/#/0xe29797910d413281d2821d5d9a989262c8121cc2) is empowered by [Aragon](https://aragon.org). Aragon gives internet communities the power to freely organize and collaborate without borders or intermediaries.
 
 [
-  <img width="320" alt="Powered by Aragon" src="https://wiki.aragon.org/design/artwork/Powered_By/SVG/Powered_By_White.svg">
+  <img width="320" alt="Powered by Aragon" src="https://assets.website-files.com/5e997428d0f2eb13a90aec8c/607d7a325c2f05f0b33c500b_Logo%20white-1.svg">
 ](https://voice.aragon.org/tokens/info/#/0xe29797910d413281d2821d5d9a989262c8121cc2)
