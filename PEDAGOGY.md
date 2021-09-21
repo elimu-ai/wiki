@@ -44,3 +44,12 @@ For _personalized learning_ to be truly effective, each child should have their 
 Description | Illustration
 ------------ | -------------
 At the very least, a separate Android device user should be created for each child if they have to share the same device. For more information on how Android user management works, see [Supporting Multiple Users &#124; Android Open Source Project](https://source.android.com/devices/tech/admin/multi-user). | ![Multi-User-Android-One](https://user-images.githubusercontent.com/15718174/83320709-9fde1e80-a27c-11ea-9201-83d0a1726914.jpg)
+
+---
+
+## About the elimu.ai Community
+
+![elimu ai-tagline](https://user-images.githubusercontent.com/15718174/54360503-e8e88980-465c-11e9-9792-32b513105cf3.png)
+
+ * For a high-level description of the project, see https://github.com/elimu-ai/wiki/blob/master/README.md.
+ * For project milestones, see https://github.com/elimu-ai/wiki/projects.
