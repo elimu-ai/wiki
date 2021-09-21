@@ -127,3 +127,12 @@ Alternatively: Leave the setting at "Use system language", and then go to <kbd>S
 Congratulations, you have now successfully installed the elimu.ai software on your Android device! To start learning, open the [elimu.ai Launcher](https://github.com/elimu-ai/launcher), and press any of the unlocked spaceships:
 
 ![device-2020-06-28-190942](https://user-images.githubusercontent.com/15718174/85985773-c4651c00-ba1d-11ea-94fc-96cc7c9a57d1.png)
+
+---
+
+## About the elimu.ai Community
+
+![elimu ai-tagline](https://user-images.githubusercontent.com/15718174/54360503-e8e88980-465c-11e9-9792-32b513105cf3.png)
+
+ * For a high-level description of the project, see https://github.com/elimu-ai/wiki/blob/master/README.md.
+ * For project milestones, see https://github.com/elimu-ai/wiki/projects.
