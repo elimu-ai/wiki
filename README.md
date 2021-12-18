@@ -29,7 +29,7 @@ According to a report from UNESCO, more than [387 million children](http://uis.u
 > 
 > ⸺[UNICEF](https://www.unicef.org/education)
 
-While 58 million children remain [out-of-school](https://data.unicef.org/topic/education/primary-education/), most children not learning are in school. This is truly a global learning crisis and a tremendous waste of human potential.
+While 58 million children remain [out-of-school](https://data.unicef.org/topic/education/primary-education/), most children not learning are _in school_. This is truly a global learning crisis and a tremendous waste of human potential.
 
 ### How Can We Solve the Problem? 💡
 
