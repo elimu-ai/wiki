@@ -41,8 +41,7 @@ belong to one of the following:
    would like to contribute: https://github.com/elimu-ai
    
    2. Look at the code in the repository to see if your skills match those required. If in doubt, 
-   post your questions in the [Slack channel](https://join.slack.com/t/elimu-ai/shared_invite/zt-eoc921ow-0cfjATlIF2X~zHhSgSyaAw) 
-   or send an e-mail to info@elimu.ai.
+   post your questions in [Discord](https://discord.gg/9rz4XYJJDE) or send an e-mail to info@elimu.ai.
    
    3. When you have selected a repository, click the 
    ["Projects"](https://github.com/elimu-ai/appstore/projects) tab of the repository. Within each 
@@ -131,7 +130,7 @@ request needs at least one approved review in order to be merged. When assigning
    * [`jo-elimuai`](https://github.com/jo-elimuai)
    * [`gscdev`](https://github.com/gscdev)
    
-   If the maintainers are too slow to get back to you, send an e-mail to info@elimu.ai or contact us via [Slack](https://join.slack.com/t/elimu-ai/shared_invite/zt-eoc921ow-0cfjATlIF2X~zHhSgSyaAw).
+   If the maintainers are too slow to get back to you, send an e-mail to info@elimu.ai or contact us via [Discord](https://discord.gg/9rz4XYJJDE).
    
 5. Once your pull request has been approved by at least one project maintainer, press the "merge" button. This will merge 
 your code changes into the `master` branch and deploy them to the test servers at http://`<language>`.test.elimu.ai.
@@ -141,7 +140,7 @@ your code changes into the `master` branch and deploy them to the test servers a
 
 ---
 
-If any of the above steps are unclear, or you have any other questions or comments, please reach out via info@elimu.ai or [Slack](https://join.slack.com/t/elimu-ai/shared_invite/zt-eoc921ow-0cfjATlIF2X~zHhSgSyaAw). Thank you for contributing 😀
+If any of the above steps are unclear, or you have any other questions or comments, please reach out via info@elimu.ai or [Discord](https://discord.gg/9rz4XYJJDE). Thank you for contributing 😀
 
 
 ## elimu.ai Community - Open Source Contributors 🙌
