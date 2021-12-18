@@ -93,7 +93,7 @@ For instructions on how to download and install the software, see the [elimu.ai 
 
 ### Option 3: Software & Hardware Distribution 🛵💨
 
-Do you live near a child who does not have access to quality basic education? Help us [distribute](https://github.com/elimu-ai/wiki/blob/master/SOFTWARE_ARCHITECTURE.md#distribution) the learning software. For more information, send an e-mail to info@elimu.ai or contact us via [Slack](https://join.slack.com/t/elimu-ai/shared_invite/zt-eoc921ow-0cfjATlIF2X~zHhSgSyaAw).
+Do you live near a child who does not have access to quality basic education? Help us [distribute](https://github.com/elimu-ai/wiki/blob/master/SOFTWARE_ARCHITECTURE.md#distribution) the learning software. For more information, send an e-mail to info@elimu.ai or contact us via [Discord](https://discord.gg/9rz4XYJJDE).
 
 
 <a name="open-source"></a>
@@ -110,7 +110,7 @@ As a global and open-minded community, we invite people of any background to joi
 We deeply believe that all children should have access to a quality basic education no matter their social or geographic background. Please help us make this a reality by making a contribution of your time and knowledge towards this purpose. Thank you! 💜
 
 ### Community Chat 👋🏽	
-See [elimu-ai.slack.com](https://join.slack.com/t/elimu-ai/shared_invite/zt-eoc921ow-0cfjATlIF2X~zHhSgSyaAw).	
+See [Discord](https://discord.gg/9rz4XYJJDE).	
 
 ### Community Mailing List
 Sign up at http://eepurl.com/bGihkr.
