@@ -43,7 +43,7 @@ For _personalized learning_ to be truly effective, each child should have their 
 
 Description | Illustration
 ------------ | -------------
-At the very least, a separate Android device user should be created for each child if they have to share the same device. For more information on how Android user management works, see [Supporting Multiple Users &#124; Android Open Source Project](https://source.android.com/devices/tech/admin/multi-user). | ![Multi-User-Android-One](https://user-images.githubusercontent.com/15718174/83320709-9fde1e80-a27c-11ea-9201-83d0a1726914.jpg)
+At the very least, a separate Android device _user profile_ should be created for each child if they have to share the same device. For more information on how Android user management works, see [Supporting Multiple Users &#124; Android Open Source Project](https://source.android.com/devices/tech/admin/multi-user). | ![Multi-User-Android-One](https://user-images.githubusercontent.com/15718174/83320709-9fde1e80-a27c-11ea-9201-83d0a1726914.jpg)
 
 ---
 
