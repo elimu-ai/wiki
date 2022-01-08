@@ -98,7 +98,7 @@ Using [TensorFlow](https://www.tensorflow.org/), one machine learning model is t
   * Handwriting recognition (letters)
   * Handwriting recognition (numbers)
 
-The [elimu.ai Crowdsource](https://github.com/elimu-ai/crowdsource) Android app is used for labeling handwritten letters and numbers.
+The [elimu.ai Crowdsource](https://github.com/elimu-ai/crowdsource) Android app is used for _labeling_ handwritten letters and numbers.
 
 
 ---
