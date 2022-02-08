@@ -24,7 +24,7 @@ A [Spaced Repetition System](https://en.wikipedia.org/wiki/Spaced_repetition) (S
 
 ## Skill Categorization & Correlation
 
-Each app/game on the elimu.ai platform is categorized by which literacy/numeracy it teaches, and each skill (and its corresponding collection of apps) is gradually unlocked for every type of skill:
+Each app/game on the elimu.ai platform is categorized by which literacy/numeracy it teaches, and each skill (and its corresponding collection of apps/games) is gradually unlocked for every type of skill:
 
 Description | Illustration
 ------------ | -------------
