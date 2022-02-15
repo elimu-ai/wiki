@@ -93,10 +93,10 @@ For assessing the learning outcome of the children, we are collecting data [cate
 
 Using [TensorFlow](https://www.tensorflow.org/), one machine learning model is trained per language, for each of these categories:
 
-  * [Content recommendation (storybooks)](https://github.com/elimu-ai/ml-storybook-recommender)
-  * Content recommendation (videos)
   * Handwriting recognition (letters)
   * Handwriting recognition (numbers)
+  * [Content recommendation (storybooks)](https://github.com/elimu-ai/ml-storybook-recommender)
+  * Content recommendation (videos)
 
 The [elimu.ai Crowdsource](https://github.com/elimu-ai/crowdsource) Android app is used for _labeling_ handwritten letters and numbers.
 
