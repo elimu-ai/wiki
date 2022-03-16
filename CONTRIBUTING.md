@@ -1,14 +1,15 @@
 # Contributing to the elimu.ai Community 👩🏽‍💻
 
 The purpose of [elimu.ai](http://elimu.ai) is to provide disadvantaged children with access to quality 
-basic education. We believe that a free quality education is the right of every child no matter her 
+basic education. We believe that a quality basic education is the right of every child no matter her 
 social or geographical background.
 
-For this reason, we build educational software that teaches a child to read, write and calculate 
+For this reason, we build educational technology that teaches a child to read, write and calculate 
 fully autonomously, without guidance from qualified teachers.
 
-Since [elimu.ai](http://elimu.ai) is an open source project, anyone is welcome to contribute towards this 
-goal. We welcome different skills, cultures, perspectives, attitudes, and experiences.
+Since [elimu.ai](http://elimu.ai) is an _open source_ project, anyone is welcome to contribute towards this 
+goal. We welcome different skills, cultures, perspectives, attitudes, and experiences. Also see our 
+[Code of Conduct](CODE_OF_CONDUCT.md).
 
 This document explains the step-by-step process and guidelines for contributing to any of the 
 repositories in the elimu.ai [GitHub organization](https://github.com/elimu-ai).
