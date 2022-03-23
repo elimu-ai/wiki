@@ -70,11 +70,11 @@ new GitHub branch to work on (Step 1):
 
    2. Create a new _branch_ for the GitHub issue that you will be working on. If, for example the issue 
    you have picked is titled "Upgrade to the latest Gradle version" and has the issue number 57, 
-   create a new branch with the title "57 Upgrade to the latest Gradle version". By having the issue 
-   number in the branch name, it's easier to understand which issue the branch is for.
+   create a new branch with a title like `chore: #57 Upgrade to the latest Gradle version`. By having the 
+   issue number in the branch name, it's easier to understand which issue the branch is for.
    
    3. Remember to include a reference to the GitHub issue number for each commit to make it easier for 
-   future contributors to understand each code change. E.g. "chore: #57 Upgraded to Gradle 4.1".
+   future contributors to understand each code change. E.g. `chore: #57 Upgrade to Gradle 4.1`.
    
    4. Keep each commit small so that diffs are easy to read and understand for people looking at your 
    code in the future. A pull request should always be focused to doing one thing, for example fixing 
