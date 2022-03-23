@@ -95,7 +95,7 @@ new GitHub branch to work on (Step 1):
    least one person as a _code reviewer_ of your pull request. To find out who to add, click 
    "Insights" → "Contributors" too see an overview of the most active contributors for each 
    repository. If you are unsure who to add, use these: [`nya-elimuai`](https://github.com/nya-elimuai), 
-   [`jo-elimuai`](https://github.com/jo-elimuai) and [`gscdev`](https://github.com/gscdev).
+   [`jo-elimu`](https://github.com/jo-elimu) and [`gscdev`](https://github.com/gscdev).
    
    8. Once your pull request has been reviewed and approved, it can be merged. The person who created 
    the branch (you) will be the person responsible for merging the branch. So the peers reviewing 
@@ -131,7 +131,7 @@ request needs at least one approved review in order to be merged. When assigning
 [maintainers](https://github.com/elimu-ai/webapp/blob/master/CODEOWNERS):
 
    * [`nya-elimuai`](https://github.com/nya-elimuai)
-   * [`jo-elimuai`](https://github.com/jo-elimuai)
+   * [`jo-elimu`](https://github.com/jo-elimu)
    * [`gscdev`](https://github.com/gscdev)
    
    If the maintainers are too slow to get back to you, send an e-mail to info@elimu.ai or contact us via [Discord](https://discord.gg/9rz4XYJJDE).
