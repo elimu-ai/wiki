@@ -74,7 +74,7 @@ new GitHub branch to work on (Step 1):
    number in the branch name, it's easier to understand which issue the branch is for.
    
    3. Remember to include a reference to the GitHub issue number for each commit to make it easier for 
-   future contributors to understand each code change. E.g. "#57 Upgraded to Gradle 4.1".
+   future contributors to understand each code change. E.g. "chore: #57 Upgraded to Gradle 4.1".
    
    4. Keep each commit small so that diffs are easy to read and understand for people looking at your 
    code in the future. A pull request should always be focused to doing one thing, for example fixing 
