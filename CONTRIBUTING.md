@@ -38,8 +38,11 @@ belong to one of the following:
 
 ### How to Know Which Task to Work On
 
-   1. Each application has its own GitHub repository. Start by identifying a repository in which you 
-   would like to contribute: https://github.com/elimu-ai
+   1. Each Android application has its own GitHub repository. Start by identifying a repository in which you 
+   would like to contribute: https://github.com/elimu-ai. And to get an understanding of the overall software 
+   architecture, see https://github.com/elimu-ai/wiki/blob/master/SOFTWARE_ARCHITECTURE.md.
+   
+      [<img width="320" alt="Software Architecture" src="https://user-images.githubusercontent.com/15718174/83595568-fb6a1e00-a594-11ea-990a-10c0bd62ed11.png">](https://github.com/elimu-ai/wiki/blob/master/SOFTWARE_ARCHITECTURE.md)
    
    2. Look at the code in the repository to see if your skills match those required. If in doubt, 
    post your questions in [Discord](https://discord.gg/9rz4XYJJDE) or send an e-mail to info@elimu.ai.
