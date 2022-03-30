@@ -160,7 +160,7 @@ If any of the above steps are unclear, or you have any other questions or commen
 <img src="https://avatars1.githubusercontent.com/u/556222?s=96&v=4" width="80" /><br />Michael Sladoje<br />AI & Machine Learning | <img src="https://avatars2.githubusercontent.com/u/19466943?s=96&v=4" width="80" /><br />Alin Mureșan<br />Content Creation | <img src="https://avatars.githubusercontent.com/u/1272158?v=4" width="80" /><br />Homayoun<br />Web3 Development
 <img src="https://avatars.githubusercontent.com/u/17800493?v=4" width="80" /><br />Sajid Patel<br />Content Creation | <img src="https://avatars.githubusercontent.com/u/85966562?v=4" width="80" /><br />Jain Anuradha<br />Content Creation | <img src="https://avatars.githubusercontent.com/u/57134382?v=4" width="80" /><br />Sandun Abeysooriya<br />Web Development
 <img src="https://avatars.githubusercontent.com/u/75719979?v=4" width="80" /><br />Anmol Kumar<br />Content Creation | <img src="https://avatars.githubusercontent.com/u/85234598?v=4" width="80" /><br />Bender Rodríguez<br />Web3 Development | <img src="https://avatars.githubusercontent.com/u/25884741?v=4" width="80" /><br />Shubham Vishwakarma<br />Web Development
-<img src="https://avatars.githubusercontent.com/u/16896956?v=4" width="80" /><br />Arvind<br />Web Development
+<img src="https://avatars.githubusercontent.com/u/16896956?v=4" width="80" /><br />Arvind<br />Web Development | <img src="https://avatars.githubusercontent.com/u/7117993?v=4" width="80" /><br />Dalton Craven<br />Web3 Development
 
 ---
 
