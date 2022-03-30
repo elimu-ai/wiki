@@ -162,8 +162,7 @@ If any of the above steps are unclear, or you have any other questions or commen
 <img src="https://avatars.githubusercontent.com/u/75719979?v=4" width="80" /><br />Anmol Kumar<br />Content Creation | <img src="https://avatars.githubusercontent.com/u/85234598?v=4" width="80" /><br />Bender Rodríguez<br />Web3 Development | <img src="https://avatars.githubusercontent.com/u/25884741?v=4" width="80" /><br />Shubham Vishwakarma<br />Web Development
 <img src="https://avatars.githubusercontent.com/u/16896956?v=4" width="80" /><br />Arvind<br />Web Development | <img src="https://avatars.githubusercontent.com/u/7117993?v=4" width="80" /><br />Dalton Craven<br />Web3 Development | <img src="https://avatars.githubusercontent.com/u/75578392?v=4" width="80" /><br />John Grimm<br />Web3 Development
 <img src="https://avatars.githubusercontent.com/u/23047698?v=4" width="80" /><br />Jairo<br />Web Development | <img src="https://avatars.githubusercontent.com/u/5686985?v=4" width="80" /><br />Harsh Acharya<br />Scaling & Distribution | <img src="https://avatars.githubusercontent.com/u/29434041?v=4" width="80" /><br />Amal Jos<br />Engineering QA
-<img src="https://avatars.githubusercontent.com/u/1363884?v=4" width="80" /><br />Jaimin<br />Engineering QA
-
+<img src="https://avatars.githubusercontent.com/u/1363884?v=4" width="80" /><br />Jaimin<br />Engineering QA | <img src="https://avatars.githubusercontent.com/u/87644499?v=4" width="80" /><br />Chiara Mazza<br />Linguistics
 ---
 
 ## About the elimu.ai Community
