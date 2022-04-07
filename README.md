@@ -98,7 +98,7 @@ Do you live near a child who does not have access to quality basic education? He
 
 Your are also welcome to [donate](http://eng.elimu.ai/contributions/donate) cryptocurrency to support the work of our content creators, engineers and distributors. Funds received from donors and the DAO treasury are paid out each month to contributors who provided value to the community:
 
-<img width="600" alt="Flow_of_Funds_800" src="https://user-images.githubusercontent.com/15718174/162130012-95a66768-9701-432a-b696-c9a45f58b98e.png">
+[<img width="600" alt="Flow_of_Funds_800" src="https://user-images.githubusercontent.com/15718174/162130012-95a66768-9701-432a-b696-c9a45f58b98e.png">](http://eng.elimu.ai/contributions/donate)
 
 
 <a name="open-source"></a>
