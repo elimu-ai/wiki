@@ -55,7 +55,7 @@ Objective: Build initial [Hindi](http://hin.elimu.ai) & [Filipino](http://fil.el
 
 See https://github.com/elimu-ai/wiki/projects
 
-### Long-Term Plan (2021 → 2030)
+### Long-Term Plan (2022 → 2030)
 
 In the long term, apps and content will be created first for target languages where the number of children without access to quality basic education is the highest (based on [UIS Statistics](http://data.uis.unesco.org/)):
 
