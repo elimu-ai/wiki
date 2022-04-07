@@ -94,7 +94,7 @@ For instructions on how to download and install the software, see the [elimu.ai 
 
 Do you live near a child who does not have access to quality basic education? Help us [distribute](https://github.com/elimu-ai/wiki/blob/master/SOFTWARE_ARCHITECTURE.md#distribution) the learning software. For more information, send an e-mail to info@elimu.ai or contact us via [Discord](https://discord.gg/9rz4XYJJDE).
 
-### Donate Cryptocurrency
+### Donate Cryptocurrency (`$ETH`)
 
 Your are also welcome to donate cryptocurrency to support the work of our content creators, engineers and distributors: http://eng.elimu.ai/contributions/donate. Funds received from donors and the DAO treasury are paid out each month to contributors who provided value to the community:
 
