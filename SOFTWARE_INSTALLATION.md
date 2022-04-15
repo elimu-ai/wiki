@@ -1,4 +1,4 @@
-# elimu.ai Software Installation
+# elimu.ai Software Installation 📦
 
 The elimu.ai software consists of a collection of _infrastructural_ and _educational_ Android applications (see [SOFTWARE_ARCHITECTURE.md](SOFTWARE_ARCHITECTURE.md)). Note: Individual educational apps will not work unless you install the prerequisite infrastructural apps first.
 
