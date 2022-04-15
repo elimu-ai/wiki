@@ -1,4 +1,4 @@
-# elimu.ai Localization
+# elimu.ai Localization 🇺🇸🇵🇭🇮🇳
 
 ## Software Architecture
 
