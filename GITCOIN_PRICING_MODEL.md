@@ -2,7 +2,7 @@
 
 Pricing model for GitHub issues posted as bounties at https://gitcoin.co/elimu-ai/active
 
-Also, active contributors get rewarded with [$ELIMU](https://etherscan.io/token/0xe29797910d413281d2821d5d9a989262c8121cc2) tokens, and token holders can participate in the community's [decision-making](http://eng.elimu.ai/contributions/aragon-dao).
+Also, active contributors get rewarded with [$ELIMU](https://etherscan.io/token/0xe29797910d413281d2821d5d9a989262c8121cc2) tokens, and token holders can participate in the community's [decision-making](https://eng.elimu.ai/contributions/aragon-dao).
 
 ## Content Creation 🎶🎙️
 
@@ -29,9 +29,9 @@ Also, active contributors get rewarded with [$ELIMU](https://etherscan.io/token/
 
 |Contribution|Reward|Notes|
 --- | --- | ---
-|Create Android app|~$500.00|Reward will vary per app. See http://eng.elimu.ai/contributions/publish|
+|Create Android app|~$500.00|Reward will vary per app. See https://eng.elimu.ai/contributions/publish|
 |Peer-review Android app|~$125.00||
-|Create Android game|~$500.00|Reward will vary per game. See http://eng.elimu.ai/contributions/publish|
+|Create Android game|~$500.00|Reward will vary per game. See https://eng.elimu.ai/contributions/publish|
 |Peer-review Android game|~$125.00||
 
 ## Distribution & User Testing 🛵💨

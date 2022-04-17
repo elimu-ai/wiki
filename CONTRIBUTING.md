@@ -137,9 +137,9 @@ request needs at least one approved review in order to be merged. When assigning
    If the maintainers are too slow to get back to you, send an e-mail to info@elimu.ai or contact us via [Discord](https://discord.gg/9rz4XYJJDE).
    
 5. Once your pull request has been approved by at least one project maintainer, press the "merge" button. This will merge 
-your code changes into the `master` branch and deploy them to the test servers at http://`<language>`.test.elimu.ai.
+your code changes into the `master` branch and deploy them to the test servers at https://`<language>`.test.elimu.ai.
 
-6. If all of the regression tests pass (see [Jenkins](http://jenkins.elimu.ai:8080), ask a maintainer to deploy the changes to the production servers at http://`<language>`.elimu.ai.
+6. If all of the regression tests pass (see [Jenkins](http://jenkins.elimu.ai:8080), ask a maintainer to deploy the changes to the production servers at https://`<language>`.elimu.ai.
 
 
 ---

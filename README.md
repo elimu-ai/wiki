@@ -51,7 +51,7 @@ The software is designed in such a way that the children can learn fully autonom
 
 ### 12-Month [Action Plan](https://github.com/elimu-ai/wiki/projects) (2021 → 2022)
 
-Objective: Build initial [Hindi](http://hin.elimu.ai) & [Filipino](http://fil.elimu.ai) curriculum of literacy/numeracy apps.
+Objective: Build initial [Hindi](https://hin.elimu.ai) & [Filipino](https://fil.elimu.ai) curriculum of literacy/numeracy apps.
 
 See https://github.com/elimu-ai/wiki/projects
 
@@ -61,11 +61,11 @@ In the long term, apps and content will be created first for target languages wh
 
 Country | Languages | Out-of-School Children (Primary Age)
 ------------ | ------------- | ------------:
-India | [Hindi](http://hin.elimu.ai), Bengali, Urdu | 2,887,748 (as of 2013)
+India | [Hindi](https://hin.elimu.ai), Bengali, Urdu | 2,887,748 (as of 2013)
 Indonesia | Indonesian, Javanese | 1,767,974 (as of 2013)
 Tanzania | Swahili | 1,370,468 (as of 2013)
 South Africa | Xhosa | 845,478 (as of 2018)
-Philippines | [Filipino](http://fil.elimu.ai), Hiligaynon | 424,228 (as of 2017)
+Philippines | [Filipino](https://fil.elimu.ai), Hiligaynon | 424,228 (as of 2017)
 Cambodia | Khmer | 186,109 (as of 2018)
 Nepal | Nepali | 103,384 (as of 2019)
 
@@ -83,8 +83,8 @@ For instructions on how to download and install the software, see the [elimu.ai 
 
   * Contribute by creating or peer reviewing educational content (e.g. storybooks, words, audio recordings, images, etc). If you speak Hindi or Filipino as your mother tongue, go to the website matching your language and then click "Sign On":
 
-    * http://hin.elimu.ai
-    * http://fil.elimu.ai
+    * https://hin.elimu.ai
+    * https://fil.elimu.ai
 
     For instructions on how to add educational content, see [LOCALIZATION.md](LOCALIZATION.md#add-educational-content).
 
@@ -96,9 +96,9 @@ Do you live near a child who does not have access to quality basic education? He
 
 ### Donate Cryptocurrency (`$ETH`)
 
-Your are also welcome to [donate](http://eng.elimu.ai/contributions/donate) cryptocurrency to support the work of our content creators, engineers and distributors. Funds received from donors and the DAO treasury are paid out each month to contributors who provided value to the community:
+Your are also welcome to [donate](https://eng.elimu.ai/contributions/donate) cryptocurrency to support the work of our content creators, engineers and distributors. Funds received from donors and the DAO treasury are paid out each month to contributors who provided value to the community:
 
-[<img width="600" alt="Flow_of_Funds_800" src="https://user-images.githubusercontent.com/15718174/162130012-95a66768-9701-432a-b696-c9a45f58b98e.png">](http://eng.elimu.ai/contributions/donate)
+[<img width="600" alt="Flow_of_Funds_800" src="https://user-images.githubusercontent.com/15718174/162130012-95a66768-9701-432a-b696-c9a45f58b98e.png">](https://eng.elimu.ai/contributions/donate)
 
 
 <a name="open-source"></a>
