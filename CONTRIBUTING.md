@@ -163,6 +163,8 @@ If any of the above steps are unclear, or you have any other questions or commen
 <img src="https://avatars.githubusercontent.com/u/16896956?v=4" width="80" /><br />Arvind<br />Web Development | <img src="https://avatars.githubusercontent.com/u/7117993?v=4" width="80" /><br />Dalton Craven<br />Web3 Development | <img src="https://avatars.githubusercontent.com/u/75578392?v=4" width="80" /><br />John Grimm<br />Web3 Development
 <img src="https://avatars.githubusercontent.com/u/23047698?v=4" width="80" /><br />Jairo<br />Web Development | <img src="https://avatars.githubusercontent.com/u/5686985?v=4" width="80" /><br />Harsh Acharya<br />Scaling & Distribution | <img src="https://avatars.githubusercontent.com/u/29434041?v=4" width="80" /><br />Amal Jos<br />Engineering QA
 <img src="https://avatars.githubusercontent.com/u/1363884?v=4" width="80" /><br />Jaimin<br />Engineering QA | <img src="https://avatars.githubusercontent.com/u/87644499?v=4" width="80" /><br />Chiara Mazza<br />Linguistics | <img src="https://avatars.githubusercontent.com/u/866225?v=4" width="80" /><br />Sinu John<br />Android Development
+[<img src="https://avatars.githubusercontent.com/u/4281969?v=4" width="80" />](https://github.com/tuancoltech)<br />Tuan Nguyen<br />Android Development |
+
 ---
 
 ## About the elimu.ai Community
