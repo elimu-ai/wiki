@@ -14,7 +14,7 @@
 <a name="learning-platform"></a>
 ## Learning Platform
 
-The [elimu.ai](http://elimu.ai) software is a _platform_ of educational content and Android apps.
+The [elimu.ai](http://elimu.ai) software is a _platform_ of educational content and Android [apps](https://eng.elimu.ai/apps).
 
 Instead of having one large Android application containing everything, the [elimu.ai](http://elimu.ai) software has been architected such that there are many smaller applications, each with their own specific responsibility.
 
@@ -35,18 +35,18 @@ As depicted in the diagram above, several of the elimu.ai applications communica
 <a name="scalability"></a>
 ## Software Scalability
 
-The software platform is being built to handle scaling to many different languages. A collection of many smaller apps, all [categorized](https://github.com/elimu-ai/launcher/blob/master/README.md#pedagogy) by literacy/numeracy skills makes it possible to easily adjust the complete curriculum when localizing from one language to another.
+The software platform is being built to handle scaling to many different languages. A collection of many smaller apps, all [categorized](https://github.com/elimu-ai/launcher/blob/main/README.md#pedagogy) by literacy/numeracy skills makes it possible to easily adjust the complete curriculum when localizing from one language to another.
 
 The file size of the apps, games and multimedia is kept as small as possible in order to make the distribution easier in locations with limited Internet connectivity. In addition, the software has been designed to work offline so that it can be used in rural areas.
 
 <a name="localization"></a>
-### Localization
+### Localization 🇺🇸🇵🇭🇮🇳
 
 For instructions on how to add support for a new language, see [LOCALIZATION.md](LOCALIZATION.md).
 
 
 <a name="crowdsourcing"></a>
-### Content Crowdsourcing
+### Content Crowdsourcing ✍🏽
 
 Another way to ensure software scalability is through _crowdsourcing_. By using the [elimu.ai Crowdsource](https://github.com/elimu-ai/crowdsource) Android app or the [elimu.ai Webapp](https://github.com/elimu-ai/webapp), the crowd is able to upload and peer review educational content on the platform, and thus help speed up the expansion to more languages. As an example, such a task might involve transcribing a few audio recordings, peer reviewing existing audio transcriptions, translating a storybook, recording audio files for an entire storybook, labelling videos by content, etc.
 
@@ -83,9 +83,9 @@ Based on the answers to the above questions, the following are the necessary ste
 
 In order to measure how well the elimu.ai software is working, usage data is collected from the Android devices so that we can analyze the learning of each child. This enables us to carefully monitor how changes in code or content produce different learning outcome, as well as continuously improve the software.
 
-The data is synced between the Android devices and the webapp's [REST API](https://github.com/elimu-ai/webapp/tree/master/src/main/java/ai/elimu/rest) whenever an Internet connection is available.
+The data is synced between the Android devices and the webapp's [REST API](https://github.com/elimu-ai/webapp/tree/main/src/main/java/ai/elimu/rest) whenever an Internet connection is available.
 
-For assessing the learning outcome of the children, we are collecting data [categorized](https://github.com/elimu-ai/launcher/blob/master/README.md#pedagogy) according to the subtasks defined in the [Early Grade Reading Assessment](https://globalreadingnetwork.net/resources/early-grade-reading-assessment-egra-toolkit-second-edition) (EGRA) and [Early Grade Mathematics Assessment](https://www.globalpartnership.org/content/early-grade-mathematics-assessment-egma-conceptual-framework-based-mathematics-skills) (EGMA) standards.
+For assessing the learning outcome of the children, we are collecting data [categorized](https://github.com/elimu-ai/launcher/blob/main/README.md#pedagogy) according to the subtasks defined in the [Early Grade Reading Assessment](https://globalreadingnetwork.net/resources/early-grade-reading-assessment-egra-toolkit-second-edition) (EGRA) and [Early Grade Mathematics Assessment](https://www.globalpartnership.org/content/early-grade-mathematics-assessment-egma-conceptual-framework-based-mathematics-skills) (EGMA) standards.
 
 
 <a name="ai"></a>
@@ -107,5 +107,5 @@ The [elimu.ai Crowdsource](https://github.com/elimu-ai/crowdsource) Android app 
 
 ![elimu ai-tagline](https://user-images.githubusercontent.com/15718174/54360503-e8e88980-465c-11e9-9792-32b513105cf3.png)
 
- * For a high-level description of the project, see https://github.com/elimu-ai/wiki/blob/master/README.md.
+ * For a high-level description of the project, see https://github.com/elimu-ai/wiki.
  * For project milestones, see https://github.com/elimu-ai/wiki/projects.
