@@ -6,11 +6,11 @@ The elimu.ai software is architected such that a collection of infrastructural a
 
 [
   <img width="320" alt="Software Architecture" src="https://user-images.githubusercontent.com/15718174/83595568-fb6a1e00-a594-11ea-990a-10c0bd62ed11.png">
-](https://github.com/elimu-ai/wiki/blob/master/SOFTWARE_ARCHITECTURE.md)
+](https://github.com/elimu-ai/wiki/blob/main/SOFTWARE_ARCHITECTURE.md)
 
 ## Currently Supported Languages
 
-A list of the currently supported languages is available at https://github.com/elimu-ai/model/blob/master/src/main/java/ai/elimu/model/enums/Language.java
+A list of the currently supported languages is available at https://github.com/elimu-ai/model/blob/main/src/main/java/ai/elimu/model/enums/Language.java
 
 
 ## How to Add Support for a New Language
@@ -42,8 +42,8 @@ Perform the following steps in order to add a new language:
 
 *Time estimate: 30-60 minutes*
 
-- Add the country code to https://github.com/elimu-ai/model/blob/master/src/main/java/ai/elimu/model/enums/Language.java
-- Create a [pull request](https://github.com/elimu-ai/wiki/blob/master/CONTRIBUTING.md) for your changes (see [example](https://github.com/elimu-ai/model/pull/214/files)).
+- Add the country code to https://github.com/elimu-ai/model/blob/main/src/main/java/ai/elimu/model/enums/Language.java
+- Create a [pull request](https://github.com/elimu-ai/wiki/blob/main/CONTRIBUTING.md) for your changes (see [example](https://github.com/elimu-ai/model/pull/214/files)).
 - Once your changes have been approved, the model library will be released with a new version number which can be found at https://github.com/elimu-ai/model/releases.
 
 #### 2. [webapp](https://github.com/elimu-ai/webapp): Update the Model Library in the Webapp to the Latest Version
@@ -51,7 +51,7 @@ Perform the following steps in order to add a new language:
 *Time estimate: 1-2 hours*
 
 - The webapp needs to update its model dependency version to get access to use the newly added Language enum.
-- Adjust the model version in [pom.xml](https://github.com/elimu-ai/webapp/blob/master/pom.xml) by updating the `<model.version>` attribute (see [example](https://github.com/elimu-ai/webapp/pull/1135/files)).
+- Adjust the model version in [pom.xml](https://github.com/elimu-ai/webapp/blob/main/pom.xml) by updating the `<model.version>` attribute (see [example](https://github.com/elimu-ai/webapp/pull/1135/files)).
 - Add Subdomain for the New Language
    - Next, we need to configure a subdomain for the new language, e.g. https://hin.elimu.ai for Hindi.
    - This subdomain will be used when visitors want to navigate the webapp using another content language than the default English. Also, the [appstore](https://github.com/elimu-ai/appstore) Android application will be using this subdomain when downloading applications and content for the new language. Similarly, the [analytics](https://github.com/elimu-ai/analytics) Android application will be uploading usage data to the same subdomain.
@@ -75,9 +75,9 @@ Perform the following steps in order to add a new language:
 * Adding Letters [TODO]
 * Adding Sounds (Allophones) [TODO]
 * Adding Letter-Sound Correspondences [TODO]
-* [Adding Words 💬](https://github.com/elimu-ai/webapp/blob/master/LOCALIZE.md#adding-words)
+* [Adding Words 💬](https://github.com/elimu-ai/webapp/blob/main/LOCALIZE.md#adding-words)
 * Adding Numbers [TODO]
-* [Adding Audio Recordings 🎶🎙️](https://github.com/elimu-ai/webapp/blob/master/LOCALIZE.md#adding-audio-recordings-%EF%B8%8F)
+* [Adding Audio Recordings 🎶🎙️](https://github.com/elimu-ai/webapp/blob/main/LOCALIZE.md#adding-audio-recordings-%EF%B8%8F)
 * Adding Storybooks [TODO]
 * Adding Videos [TODO]
 
@@ -91,5 +91,5 @@ Perform the following steps in order to add a new language:
 
 ![elimu ai-tagline](https://user-images.githubusercontent.com/15718174/54360503-e8e88980-465c-11e9-9792-32b513105cf3.png)
 
- * For a high-level description of the project, see https://github.com/elimu-ai/wiki/blob/master/README.md.
+ * For a high-level description of the project, see https://github.com/elimu-ai/wiki/blob/main/README.md.
  * For project milestones, see https://github.com/elimu-ai/wiki/projects.
