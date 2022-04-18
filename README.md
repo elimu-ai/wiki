@@ -33,13 +33,13 @@ While 58 million children remain [out-of-school](https://data.unicef.org/topic/e
 
 ### How Can We Solve the Problem? 💡
 
-Our solution is to develop software for teaching disadvantaged children the basics of reading, writing and arithmetic. A collection of [educational apps](http://elimu.ai) teaches children basic literacy and numeracy in a fun and engaging way. This empowers each child to learn fully autonomously, and at her own pace, without depending on the availability of qualified teachers.
+Our solution is to develop software for teaching disadvantaged children the basics of reading, writing and arithmetic. A collection of [educational apps](https://eng.elimu.ai/apps) teaches children basic literacy and numeracy in a fun and engaging way. This empowers each child to learn fully autonomously, and at her own pace, without depending on the availability of qualified teachers.
 
 ![global_learning_xprize_banner](https://user-images.githubusercontent.com/15718174/82724725-b8918600-9d0a-11ea-9775-76f653fa2a9c.jpg)
 
 ![Educational apps and games](https://user-images.githubusercontent.com/15718174/82109205-c3767480-9766-11ea-947b-fa53cfcba767.png)
 
-The [elimu.ai](http://elimu.ai) software is a _platform_ of educational content and Android apps.
+The [elimu.ai](http://elimu.ai) software is a _platform_ of educational content and Android [apps](https://eng.elimu.ai/apps).
 
 The software is designed in such a way that the children can learn fully autonomously, without guidance from qualified teachers. Instead, an AI tutor (Nya) guides each child through the necessary steps. The AI tutor gradually unlocks more advanced content, as the child demonstrates [mastery](PEDAGOGY.md#personalized-learning-) of prerequisite skills. As an example; Before learning how to read a word, the child needs to master the _letter-to-sound correspondence_ of the letters composing that word.
 
@@ -92,7 +92,7 @@ For instructions on how to download and install the software, see the [elimu.ai 
 
 ### Option 3: Software & Hardware Distribution 🛵💨
 
-Do you live near a child who does not have access to quality basic education? Help us [distribute](https://github.com/elimu-ai/wiki/blob/master/SOFTWARE_ARCHITECTURE.md#distribution) the learning software. For more information, send an e-mail to info@elimu.ai or contact us via [Discord](https://discord.gg/9rz4XYJJDE).
+Do you live near a child who does not have access to quality basic education? Help us [distribute](https://github.com/elimu-ai/wiki/blob/main/SOFTWARE_ARCHITECTURE.md#distribution) the learning software. For more information, send an e-mail to info@elimu.ai or contact us via [Discord](https://discord.gg/9rz4XYJJDE).
 
 ### Donate Cryptocurrency (`$ETH`)
 
