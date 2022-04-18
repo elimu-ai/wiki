@@ -40,9 +40,9 @@ belong to one of the following:
 
    1. Each Android application has its own GitHub repository. Start by identifying a repository in which you 
    would like to contribute: https://github.com/elimu-ai. And to get an understanding of the overall software 
-   architecture, see https://github.com/elimu-ai/wiki/blob/master/SOFTWARE_ARCHITECTURE.md.
+   architecture, see https://github.com/elimu-ai/wiki/blob/main/SOFTWARE_ARCHITECTURE.md.
    
-      [<img width="320" alt="Software Architecture" src="https://user-images.githubusercontent.com/15718174/83595568-fb6a1e00-a594-11ea-990a-10c0bd62ed11.png">](https://github.com/elimu-ai/wiki/blob/master/SOFTWARE_ARCHITECTURE.md)
+      [<img width="320" alt="Software Architecture" src="https://user-images.githubusercontent.com/15718174/83595568-fb6a1e00-a594-11ea-990a-10c0bd62ed11.png">](https://github.com/elimu-ai/wiki/blob/main/SOFTWARE_ARCHITECTURE.md)
    
    2. Look at the code in the repository to see if your skills match those required. If in doubt, 
    post your questions in [Discord](https://discord.gg/9rz4XYJJDE) or send an e-mail to info@elimu.ai.
@@ -89,7 +89,7 @@ new GitHub branch to work on (Step 1):
    refactoring into a new branch (and a new issue).
    
    6. Once you are ready to receive feedback on your branch, create a _pull request_ for merging it 
-   into the `master` branch.
+   into the `main` branch.
 
    7. Every pull request requires at least one approved peer review before being merged, so add at 
    least one person as a _code reviewer_ of your pull request. To find out who to add, click 
@@ -126,9 +126,9 @@ or create a new one.
 3. Switch to the branch you created and implement your code changes on that branch. Remember to include the GitHub issue 
 for each commit to make it easier for future contributors to understand each code change.
 
-4. Once ready for testing, create a pull request for your branch for merging it into the `master` branch. Your pull 
+4. Once ready for testing, create a pull request for your branch for merging it into the `main` branch. Your pull 
 request needs at least one approved review in order to be merged. When assigning reviewers, add one or more of the project's 
-[maintainers](https://github.com/elimu-ai/webapp/blob/master/CODEOWNERS):
+[maintainers](https://github.com/elimu-ai/webapp/blob/main/CODEOWNERS):
 
    * [`nya-elimuai`](https://github.com/nya-elimuai)
    * [`jo-elimu`](https://github.com/jo-elimu)
@@ -137,7 +137,7 @@ request needs at least one approved review in order to be merged. When assigning
    If the maintainers are too slow to get back to you, send an e-mail to info@elimu.ai or contact us via [Discord](https://discord.gg/9rz4XYJJDE).
    
 5. Once your pull request has been approved by at least one project maintainer, press the "merge" button. This will merge 
-your code changes into the `master` branch and deploy them to the test servers at https://`<language>`.test.elimu.ai.
+your code changes into the `main` branch and deploy them to the test servers at https://`<language>`.test.elimu.ai.
 
 6. If all of the regression tests pass (see [Jenkins](http://jenkins.elimu.ai:8080), ask a maintainer to deploy the changes to the production servers at https://`<language>`.elimu.ai.
 
@@ -171,5 +171,5 @@ If any of the above steps are unclear, or you have any other questions or commen
 
 ![elimu ai-tagline](https://user-images.githubusercontent.com/15718174/54360503-e8e88980-465c-11e9-9792-32b513105cf3.png)
 
- * For a high-level description of the project, see https://github.com/elimu-ai/wiki/blob/master/README.md.
+ * For a high-level description of the project, see https://github.com/elimu-ai/wiki/blob/main/README.md.
  * For project milestones, see https://github.com/elimu-ai/wiki/projects.
