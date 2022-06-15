@@ -1,4 +1,4 @@
-# Task Pricing Model 💰
+# Contribution Reward Model 💰
 
 Paid tasks are posted in Dework: https://app.dework.xyz/elimuai
 
