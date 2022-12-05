@@ -122,7 +122,7 @@ Sign up at http://eepurl.com/bGihkr.
 
 ### Decentralized Autonomous Organization (DAO)
 
-The [elimu.ai Community DAO](https://govern.aragon.org/#/daos/elimu.eth) is empowered by [Aragon](https://aragon.org). Aragon gives internet communities the power to freely organize and collaborate without borders or intermediaries.
+The [Ξlimu DAO](https://govern.aragon.org/#/daos/elimu.eth) is empowered by [Aragon](https://aragon.org). Aragon gives internet communities the power to freely organize and collaborate without borders or intermediaries.
 
 [
   ![Powered by Aragaon](https://user-images.githubusercontent.com/15718174/135745588-c9bf363b-b591-4f4f-a0b6-70ad9ab42263.png)
