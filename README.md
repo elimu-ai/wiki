@@ -51,7 +51,7 @@ The software is designed in such a way that the children can learn fully autonom
 
 ### 12-Month [Action Plan](https://github.com/elimu-ai/wiki/projects) (2021 → 2022)
 
-Objective: Build initial [Hindi](https://hin.elimu.ai) & [Filipino](https://fil.elimu.ai) curriculum of literacy/numeracy apps.
+Objective: Build initial [Hindi](https://hin.elimu.ai) & [Tagalog](https://tgl.elimu.ai) curriculum of literacy/numeracy apps.
 
 See https://github.com/elimu-ai/wiki/projects
 
@@ -65,7 +65,7 @@ India | [Hindi](https://hin.elimu.ai), Bengali, Urdu | 2,887,748 (as of 2013)
 Indonesia | Indonesian, Javanese | 1,767,974 (as of 2013)
 Tanzania | Swahili | 1,370,468 (as of 2013)
 South Africa | Xhosa | 845,478 (as of 2018)
-Philippines | [Filipino](https://fil.elimu.ai), Hiligaynon | 424,228 (as of 2017)
+Philippines | [Tagalog](https://tgl.elimu.ai), Hiligaynon | 424,228 (as of 2017)
 Cambodia | Khmer | 186,109 (as of 2018)
 Nepal | Nepali | 103,384 (as of 2019)
 
@@ -81,10 +81,10 @@ For instructions on how to download and install the software, see the [elimu.ai 
 
 ### Option 2: Content Creation or App Development 🎶🎙️📱
 
-  * Contribute by creating or peer reviewing educational content (e.g. storybooks, words, audio recordings, images, etc). If you speak Hindi or Filipino as your mother tongue, go to the website matching your language and then click "Sign On":
+  * Contribute by creating or peer reviewing educational content (e.g. storybooks, words, audio recordings, images, etc). If you speak Hindi or Tagalog as your mother tongue, go to the website matching your language and then click "Sign On":
 
     * https://hin.elimu.ai
-    * https://fil.elimu.ai
+    * https://tgl.elimu.ai
 
     For instructions on how to add educational content, see [LOCALIZATION.md](LOCALIZATION.md#add-educational-content).
 
