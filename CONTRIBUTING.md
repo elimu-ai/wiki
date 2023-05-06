@@ -55,9 +55,6 @@ belong to one of the following:
    4. If you feel lost, take a look at the issues labeled with `good first issue`. These are tasks 
    that are considered as good entry-points for first-time contributors. See 
    [example](https://github.com/elimu-ai/appstore/issues?q=is%3Aissue+is%3Aopen+label%3A"good+first+issue").
-     
-      You can also check [Tokenlog](https://tokenlog.xyz/elimu-ai/wiki), which is a list of issues prioritized 
-      by [$ELIMU](https://etherscan.io/token/0xe29797910d413281d2821d5d9a989262c8121cc2) token holders.
    
    5. You are also welcome to create new GitHub issues yourself. For example, if you have discovered 
    a bug, or want to suggest a new feature, press the "New issue" button.
