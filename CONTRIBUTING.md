@@ -94,7 +94,7 @@ new GitHub branch to work on (Step 1):
    7. Every pull request requires at least one approved peer review before being merged, so add at 
    least one person as a _code reviewer_ of your pull request. To find out who to add, click 
    "Insights" → "Contributors" too see an overview of the most active contributors for each 
-   repository. If you are unsure who to add, use these: [`nya-elimuai`](https://github.com/nya-elimuai), 
+   repository. If you are unsure who to add, use these: [`nya-elimu`](https://github.com/nya-elimu), 
    [`jo-elimu`](https://github.com/jo-elimu) and [`gscdev`](https://github.com/gscdev).
    
    8. Once your pull request has been reviewed and approved, it can be merged. The person who created 
@@ -130,7 +130,7 @@ for each commit to make it easier for future contributors to understand each cod
 request needs at least one approved review in order to be merged. When assigning reviewers, add one or more of the project's 
 [maintainers](https://github.com/elimu-ai/webapp/blob/main/CODEOWNERS):
 
-   * [`nya-elimuai`](https://github.com/nya-elimuai)
+   * [`nya-elimu`](https://github.com/nya-elimu)
    * [`jo-elimu`](https://github.com/jo-elimu)
    * [`gscdev`](https://github.com/gscdev)
    
