@@ -19,7 +19,7 @@
 
 ### Purpose
 
-The purpose of [elimu.ai](http://elimu.ai) is to provide disadvantaged children with access to quality basic education.
+The purpose of [elimu.ai](https://elimu.ai) is to provide disadvantaged children with access to quality basic education.
 
 ### Why? 🌍
 
@@ -39,7 +39,7 @@ Our solution is to develop software for teaching disadvantaged children the basi
 
 ![Educational apps and games](https://user-images.githubusercontent.com/15718174/82109205-c3767480-9766-11ea-947b-fa53cfcba767.png)
 
-The [elimu.ai](http://elimu.ai) software is a _platform_ of educational content and Android [apps](https://eng.elimu.ai/apps).
+The [elimu.ai](https://elimu.ai) software is a _platform_ of educational content and Android [apps](https://eng.elimu.ai/apps).
 
 The software is designed in such a way that the children can learn fully autonomously, without guidance from qualified teachers. Instead, an AI tutor (Nya) guides each child through the necessary steps. The AI tutor gradually unlocks more advanced content, as the child demonstrates [mastery](PEDAGOGY.md#personalized-learning-) of prerequisite skills. As an example; Before learning how to read a word, the child needs to master the _letter-to-sound correspondence_ of the letters composing that word.
 
