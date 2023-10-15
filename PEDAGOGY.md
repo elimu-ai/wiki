@@ -44,4 +44,5 @@ At the very least, a separate Android device _user profile_ should be created fo
 ![elimu-logo](https://user-images.githubusercontent.com/15718174/54360503-e8e88980-465c-11e9-9792-32b513105cf3.png)
 
 Free personalized learning for every child on Earth 🌍🌏🌎
-[Wiki](https://github.com/elimu-ai/wiki#readme) | [Projects](https://github.com/elimu-ai/wiki/projects) 
+
+[Wiki 📄](https://github.com/elimu-ai/wiki#readme) | [Projects 👩🏽‍💻](https://github.com/elimu-ai/wiki/projects) | [Community Chat 👋🏽](https://discord.gg/9rz4XYJJDE)
