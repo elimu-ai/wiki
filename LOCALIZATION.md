@@ -68,26 +68,17 @@ Perform the following steps in order to add a new language:
 <a name="add-educational-content"></a>
 ### Add Educational Content: Step-by-Step Guide
 
-...
-
-#### Using Website
-
 * Adding Letters [TODO]
-* Adding Sounds (Allophones) [TODO]
+* Adding Sounds [TODO]
 * Adding Letter-Sound Correspondences [TODO]
 * [Adding Words 💬](https://github.com/elimu-ai/webapp/blob/main/LOCALIZE.md#adding-words)
 * Adding Numbers [TODO]
-* [Adding Audio Recordings 🎶🎙️](https://github.com/elimu-ai/webapp/blob/main/LOCALIZE.md#adding-audio-recordings-%EF%B8%8F)
 * Adding Storybooks [TODO]
 * Adding Videos [TODO]
 
-#### Using Crowdsourcing App
-
-...
-
 ---
 
-## About the elimu.ai Community
+## About elimu.ai
 
 ![elimu ai-tagline](https://user-images.githubusercontent.com/15718174/54360503-e8e88980-465c-11e9-9792-32b513105cf3.png)
 
