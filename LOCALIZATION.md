@@ -15,7 +15,7 @@ A list of the currently supported languages is available at https://github.com/e
 
 ## How to Add Support for a New Language
 
-When adding support for a new language to the [elimu.ai](http://elimu.ai) platform, there are two types of activities that need to be handled:
+When adding support for a new language to the [elimu.ai](https://elimu.ai) platform, there are two types of activities that need to be handled:
 
   1. Software Engineering: Add support for the new language to the code (webapp & Android apps/games)
   2. Content Creation: Add the educational content for the new language (using the [webapp](https://github.com/elimu-ai/webapp))
