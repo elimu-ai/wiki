@@ -45,4 +45,4 @@ At the very least, a separate Android device _user profile_ should be created fo
 
 Free personalized learning for every child on Earth 🌍🌏🌎
 
-[Wiki 📄](https://github.com/elimu-ai/wiki#readme) | [Projects 👩🏽‍💻](https://github.com/elimu-ai/wiki/projects) | [Community 👋🏽](https://discord.gg/9rz4XYJJDE)
+[Wiki 📄](https://github.com/elimu-ai/wiki#readme)  |  [Projects 👩🏽‍💻](https://github.com/elimu-ai/wiki/projects)  |  [Community 👋🏽](https://discord.gg/9rz4XYJJDE)
