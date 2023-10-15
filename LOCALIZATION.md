@@ -71,7 +71,7 @@ Perform the following steps in order to add a new language:
 * Adding Letters [TODO]
 * Adding Sounds [TODO]
 * Adding Letter-Sound Correspondences [TODO]
-* [Adding Words 💬](https://github.com/elimu-ai/webapp/blob/main/LOCALIZE.md#adding-words)
+* [Adding Words](https://github.com/elimu-ai/webapp/blob/main/LOCALIZE.md#adding-words)
 * Adding Numbers [TODO]
 * Adding Storybooks [TODO]
 * Adding Videos [TODO]
