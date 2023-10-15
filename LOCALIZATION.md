@@ -10,7 +10,7 @@ The elimu.ai software is architected such that a collection of infrastructural a
 
 ## Currently Supported Languages
 
-A list of the currently supported languages is available at https://github.com/elimu-ai/model/blob/main/src/main/java/ai/elimu/model/enums/Language.java
+A list of the currently supported languages is available at https://github.com/elimu-ai/model/blob/main/src/main/java/ai/elimu/model/v2/enums/Language.java
 
 
 ## How to Add Support for a New Language
