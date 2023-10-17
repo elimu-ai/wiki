@@ -1,20 +1,20 @@
-# Contributing to the elimu.ai Community 👩🏽‍💻
+# Contributing to elimu.ai 👩🏽‍💻
 
-The purpose of [elimu.ai](http://elimu.ai) is to provide disadvantaged children with access to quality 
+The purpose of [elimu.ai](https://elimu.ai) is to provide disadvantaged children with access to quality 
 basic education. We believe that a quality basic education is the right of every child no matter her 
 social or geographical background.
 
 For this reason, we build educational technology that teaches a child to read, write and calculate 
 fully autonomously, without guidance from qualified teachers.
 
-Since [elimu.ai](http://elimu.ai) is an _open source_ project, anyone is welcome to contribute towards this 
+Since [elimu.ai](https://elimu.ai) is an _open source_ project, anyone is welcome to contribute towards this 
 goal. We welcome different skills, cultures, perspectives, attitudes, and experiences. Also see our 
 [Code of Conduct](CODE_OF_CONDUCT.md).
 
 This document explains the step-by-step process and guidelines for contributing to any of the 
 repositories in the elimu.ai [GitHub organization](https://github.com/elimu-ai).
 
-Each repository has a maintainer responsible for reviewing code submitted by contributors. 
+Each GitHub repository has a maintainer responsible for reviewing code submitted by contributors. 
 The appointment of maintainers and lead maintainers is based on previous contributions (meritocracy).
 
 ## Contributor Workflow 🔀
@@ -113,35 +113,31 @@ the work flow looks like this:
 
 ### Work Flow
 
-1. Select a GitHub issue to work on. Either select an existing issue from https://github.com/elimu-ai/webapp/projects 
-or create a new one.
+1. Select a GitHub issue to work on. Either select an existing issue from https://github.com/elimu-ai/webapp/projects or create a new one.
 
 2. Create a branch for the GitHub issue. For example, if your GitHub issue is titled "Update Java version" and has the issue number 567, create a new branch with the title "#567 Update Java version" by pressing the branch button (or by using GitHub Desktop):
 
-   ![screen shot 2017-11-11 at 11 09 21](https://user-images.githubusercontent.com/1451036/32688430-d1b9fc88-c6d0-11e7-8e20-10a10c028d0a.png) .  ![screen shot 2017-11-11 at 11 10 56](https://user-images.githubusercontent.com/1451036/32688437-12fc5f6a-c6d1-11e7-9a38-b34479356522.png)
+   ![](https://user-images.githubusercontent.com/1451036/32688430-d1b9fc88-c6d0-11e7-8e20-10a10c028d0a.png) .  ![](https://user-images.githubusercontent.com/1451036/32688437-12fc5f6a-c6d1-11e7-9a38-b34479356522.png)
 
-3. Switch to the branch you created and implement your code changes on that branch. Remember to include the GitHub issue 
-for each commit to make it easier for future contributors to understand each code change.
+3. Switch to the branch you created and implement your code changes on that branch. Remember to include the GitHub issue for each commit to make it easier for future contributors to understand each code change.
 
-4. Once ready for testing, create a pull request for your branch for merging it into the `main` branch. Your pull 
-request needs at least one approved review in order to be merged. When assigning reviewers, add one or more of the project's 
+4. Once ready for testing, create a pull request for your branch for merging it into the `main` branch. Your pull request needs at least one approved review in order to be merged. When assigning reviewers, add one or more of the project's 
 [maintainers](https://github.com/elimu-ai/webapp/blob/main/CODEOWNERS):
 
    * [`nya-elimu`](https://github.com/nya-elimu)
    * [`jo-elimu`](https://github.com/jo-elimu)
    * [`gscdev`](https://github.com/gscdev)
    
-   If the maintainers are too slow to get back to you, send an e-mail to info@elimu.ai or contact us via [Discord](https://discord.gg/9rz4XYJJDE).
+   If the maintainers are too slow to get back to you, reach out to the [open source community](README.md#open-source-community) via chat or e-mail.
    
-5. Once your pull request has been approved by at least one project maintainer, press the "merge" button. This will merge 
-your code changes into the `main` branch and deploy them to the test servers at https://`<language>`.test.elimu.ai.
+5. Once your pull request has been approved by at least one project maintainer, press the "merge" button. This will merge your code changes into the `main` branch and deploy them to the test servers at https://`<language>`.test.elimu.ai.
 
-6. If all of the regression tests pass (see [Jenkins](http://jenkins.elimu.ai:8080), ask a maintainer to deploy the changes to the production servers at https://`<language>`.elimu.ai.
+6. If all of the regression tests pass, ask a maintainer to deploy the changes to the production servers at https://`<language>`.elimu.ai.
 
 
 ---
 
-If any of the above steps are unclear, or you have any other questions or comments, please reach out via info@elimu.ai or [Discord](https://discord.gg/9rz4XYJJDE). Thank you for contributing 😀
+If any of the above steps are unclear, or you have any other questions or comments, please reach out to the [community](README.md#open-source-community) via chat or e-mail. Thank you for contributing 😀
 
 
 <a name="open-source-contributors"></a>
