@@ -159,11 +159,9 @@ If any of the above steps are unclear, or you have any other questions or commen
 <img src="https://avatars.githubusercontent.com/u/1363884?v=4" width="80" /><br />Jaimin<br />Engineering QA | <img src="https://avatars.githubusercontent.com/u/87644499?v=4" width="80" /><br />Chiara Mazza<br />Linguistics | <img src="https://avatars.githubusercontent.com/u/866225?v=4" width="80" /><br />Sinu John<br />Android Development
 [<img src="https://avatars.githubusercontent.com/u/4281969?v=4" width="80" />](https://github.com/tuancoltech)<br />Tuan Nguyen<br />Android Development |
 
+
 ---
 
-## About the elimu.ai Community
+elimu.ai - Free personalized learning for every child on Earth 🌍🌏🌎
 
-![elimu ai-tagline](https://user-images.githubusercontent.com/15718174/54360503-e8e88980-465c-11e9-9792-32b513105cf3.png)
-
- * For a high-level description of the project, see https://github.com/elimu-ai/wiki/blob/main/README.md.
- * For project milestones, see https://github.com/elimu-ai/wiki/projects.
+[Website 🌐](https://elimu.ai) | [Wiki 📃](https://github.com/elimu-ai/wiki#readme) | [Projects 👩🏽‍💻](https://github.com/elimu-ai/wiki/projects) | [Milestones 🎯](https://github.com/elimu-ai/wiki/milestones) | [Community 👋🏽](https://github.com/elimu-ai/wiki#open-source-community)
