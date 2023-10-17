@@ -106,7 +106,7 @@ Get to know some of our past and current contributors: [CONTRIBUTING.md](CONTRIB
 ### Community Chat 👋🏽	
 Join our Discord server at https://discord.gg/9rz4XYJJDE
 
-### Community Mailing List 📧
+### Community Mailing List
 Sign up at http://eepurl.com/bGihkr
 
 ### E-Mail
