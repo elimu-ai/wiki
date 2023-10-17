@@ -114,4 +114,4 @@ Join our Discord server at https://discord.gg/9rz4XYJJDE
 Sign up at http://eepurl.com/bGihkr
 
 ### Open Source Coontributors 🙌🏽
-Get to know some of our past and current contributors: (CONTRIBUTING.md)[CONTRIBUTING.md#open-source-contributors]
+Get to know some of our past and current contributors: [CONTRIBUTING.md](CONTRIBUTING.md#open-source-contributors)
