@@ -94,7 +94,9 @@ Do you live near a child who does not have access to quality basic education? He
 
 
 <a name="open-source"></a>
-## Open Source
+## Open Source Community
+
+### Licensing ©️
 
 All the code and content is publicly available on [GitHub](https://github.com/elimu-ai) and on our [website](https://elimu.ai) as Free and Open Source Software (FOSS).
 
