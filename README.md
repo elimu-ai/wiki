@@ -49,13 +49,11 @@ The software is designed in such a way that the children can learn fully autonom
 <a name="milestones"></a>
 ## Milestones 📆
 
-### 12-Month [Action Plan](https://github.com/elimu-ai/wiki/projects) (2021 → 2022)
+### Short-Term Plan (Q4 2023)
 
-Objective: Build initial [Hindi](https://hin.elimu.ai) & [Tagalog](https://tgl.elimu.ai) curriculum of literacy/numeracy apps.
+See https://github.com/elimu-ai/wiki/milestones
 
-See https://github.com/elimu-ai/wiki/projects
-
-### Long-Term Plan (2022 → 2030)
+### Long-Term Plan (2023 → 2030)
 
 In the long term, apps and content will be created first for target languages where the number of children without access to quality basic education is the highest (based on [UIS Statistics](http://data.uis.unesco.org/)):
 
@@ -73,11 +71,11 @@ Nepal | Nepali | 103,384 (as of 2019)
 <a name="contribute"></a>
 ## Would You Like to Contribute? 👩🏽‍💻
 
-How can you contribute? Either by _adding educational content_ or by _developing Android apps/games_ for the children to interact with the educational content. In addition, you can contribute by _testing_ the software, and by _distributing_ the software.
+How can you contribute? Either by adding educational _content_ or by _engineering_ Android apps/games for the children to interact with the educational content. In addition, you can contribute with software testing and _distribution_.
 
 ### Option 1: Download & Test the Software 📦🕵🏽‍♀️
 
-For instructions on how to download and install the software, see the [elimu.ai Appstore](https://github.com/elimu-ai/appstore).
+For instructions on how to download and install the software, see [SOFTWARE_INSTALLATION.md](SOFTWARE_INSTALLATION.md).
 
 ### Option 2: Content Creation or App Development 🎶🎙️📱
 
@@ -92,38 +90,23 @@ For instructions on how to download and install the software, see the [elimu.ai 
 
 ### Option 3: Software & Hardware Distribution 🛵💨
 
-Do you live near a child who does not have access to quality basic education? Help us [distribute](https://github.com/elimu-ai/wiki/blob/main/SOFTWARE_ARCHITECTURE.md#distribution) the learning software. For more information, send an e-mail to info@elimu.ai or contact us via [Discord](https://discord.gg/9rz4XYJJDE).
-
-### Donate Cryptocurrency (`$ETH`)
-
-Your are also welcome to [donate](https://eng.elimu.ai/contributions/donate) cryptocurrency to support the work of our content creators, engineers and distributors. Funds received from donors and the DAO treasury are paid out each month to contributors who provided value to the community:
-
-[<img width="600" alt="Flow_of_Funds_800" src="https://user-images.githubusercontent.com/15718174/162130012-95a66768-9701-432a-b696-c9a45f58b98e.png">](https://eng.elimu.ai/contributions/donate)
+Do you live near a child who does not have access to quality basic education? Help us [distribute](SOFTWARE_ARCHITECTURE.md#distribution) the learning software. For more information, send an e-mail to info@elimu.ai or contact us via [Discord](#community-chat).
 
 
 <a name="open-source"></a>
 ## Open Source
 
-All the code and content is publicly available on [GitHub](https://github.com/elimu-ai) and on our [website](http://elimu.ai) as Free and Open Source Software (FOSS).
+All the code and content is publicly available on [GitHub](https://github.com/elimu-ai) and on our [website](https://elimu.ai) as Free and Open Source Software (FOSS).
 
 The licenses we have chosen allow anybody to use the software however they want. Our goal is to spread the solution quickly in order to reach as many children as possible, and we believe that using open source software will enable this. Any individual, company or organization is welcome to take the existing code and adapt it to their local needs, as well as adding improvements to the original code if they wish to do so.
 
 ### Global Community 🌐
 
-As a global and open-minded community, we invite people of any background to join us in our work. Being global citizens, we don't want a world that is differentiating people's basic human rights by their location/religion/ethnicity. Why, for example, should a child's place of birth matter when it comes to whether or not she will get access to quality basic education?
+As a global community, we invite people of any background to join us in our work. We deeply believe that all children should have access to a quality basic education no matter their social or geographic background. Please help us make this vision a reality by making a contribution of your time and knowledge towards this purpose. Thank you! 💜
 
-We deeply believe that all children should have access to a quality basic education no matter their social or geographic background. Please help us make this a reality by making a contribution of your time and knowledge towards this purpose. Thank you! 💜
-
+<a name="community-chat"></a>
 ### Community Chat 👋🏽	
 See [Discord](https://discord.gg/9rz4XYJJDE).	
 
-### Community Mailing List
+### Community Mailing List 📧
 Sign up at http://eepurl.com/bGihkr.
-
-### Decentralized Autonomous Organization (DAO)
-
-The [Ξlimu DAO](https://govern.aragon.org/#/daos/elimu.eth) is empowered by [Aragon](https://aragon.org). Aragon gives internet communities the power to freely organize and collaborate without borders or intermediaries.
-
-[
-  ![Powered by Aragaon](https://user-images.githubusercontent.com/15718174/135745588-c9bf363b-b591-4f4f-a0b6-70ad9ab42263.png)
-](https://govern.aragon.org/#/daos/elimu.eth)
