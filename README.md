@@ -109,7 +109,8 @@ Join our Discord server at https://discord.gg/9rz4XYJJDE
 ### Community Mailing List 📧
 Sign up at http://eepurl.com/bGihkr
 
-You can also e-mail us at info@elimu.ai
+### E-Mail
+You can e-mail us at info@elimu.ai
 
 ### Social Media 📰
 
