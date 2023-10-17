@@ -103,9 +103,6 @@ The [elimu.ai Crowdsource](https://github.com/elimu-ai/crowdsource) Android app 
 
 ---
 
-## About the elimu.ai Community
+elimu.ai - Free personalized learning for every child on Earth 🌍🌏🌎
 
-![elimu ai-tagline](https://user-images.githubusercontent.com/15718174/54360503-e8e88980-465c-11e9-9792-32b513105cf3.png)
-
- * For a high-level description of the project, see https://github.com/elimu-ai/wiki#readme
- * For project milestones, see https://github.com/elimu-ai/wiki/projects
+[Website 🌐](https://elimu.ai) | [Wiki 📃](https://github.com/elimu-ai/wiki#readme) | [Projects 👩🏽‍💻](https://github.com/elimu-ai/wiki/projects) | [Milestones 🎯](https://github.com/elimu-ai/wiki/milestones) | [Community 👋🏽](https://github.com/elimu-ai/wiki#open-source-community)
