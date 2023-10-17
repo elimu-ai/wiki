@@ -59,9 +59,9 @@ In the long term, apps and content will gradually be created for target language
 
 Country | Languages | Out-of-School Children (Primary Age)
 ------------ | ------------- | ------------:
-India | [Hindi](https://hin.elimu.ai), Bengali, Urdu | 667,108 (as of 2022)
-Philippines | [Tagalog](https://tgl.elimu.ai), Hiligaynon | 1,339,277 (as of 2022)
 Tanzania | Swahili | 1,745,627 (as of 2021)
+Philippines | [Tagalog](https://tgl.elimu.ai), Hiligaynon | 1,339,277 (as of 2022)
+India | [Hindi](https://hin.elimu.ai), Bengali, Urdu | 667,108 (as of 2022)
 South Africa | Xhosa | 963,218 (as of 2021)
 Indonesia | Indonesian, Javanese | 345,716 (as of 2022)
 Cambodia | Khmer | 253,273 (as of 2022)
