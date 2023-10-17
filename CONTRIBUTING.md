@@ -144,7 +144,8 @@ your code changes into the `main` branch and deploy them to the test servers at 
 If any of the above steps are unclear, or you have any other questions or comments, please reach out via info@elimu.ai or [Discord](https://discord.gg/9rz4XYJJDE). Thank you for contributing 😀
 
 
-## elimu.ai Community - Open Source Contributors 🙌
+<a name="open-source-contributors" />
+## elimu.ai Community - Open Source Contributors 🙌🏽
 
 &nbsp; | &nbsp; | &nbsp;
 :---: | :---: | :---:
