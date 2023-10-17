@@ -93,25 +93,30 @@ For instructions on how to download and install the software, see [SOFTWARE_INST
 Do you live near a child who does not have access to quality basic education? Help us [distribute](SOFTWARE_ARCHITECTURE.md#distribution) the learning software. For more information, send an e-mail to info@elimu.ai or contact us in our [community chat](#community-chat).
 
 
-<a name="open-source"></a>
+<a name="open-source-community"></a>
 ## Open Source Community
-
-### Licensing ©️
-
-All the code and content is publicly available on [GitHub](https://github.com/elimu-ai) and on our [website](https://elimu.ai) as Free and Open Source Software (FOSS).
-
-The licenses we have chosen allow anybody to use the software however they want. Our goal is to spread the solution quickly in order to reach as many children as possible, and we believe that using open source software will enable this. Any individual, company or organization is welcome to take the existing code and adapt it to their local needs, as well as adding improvements to the original code if they wish to do so.
 
 ### Global Community 🌐
 
 As a global community, we invite people of any background to join us in our work. We deeply believe that all children should have access to a quality basic education no matter their social or geographic background. Please help us make this vision a reality by making a contribution of your time and knowledge towards this purpose. Thank you! 💜
 
-<a name="community-chat"></a>
+### Open Source Contributors 👨🏽‍💻👩🏾‍💻👩🏼‍💻👨🏾‍💻👨🏿‍💻👩🏿‍💻👩🏻‍💻👨🏽‍💻
+Get to know some of our past and current contributors: [CONTRIBUTING.md](CONTRIBUTING.md#open-source-contributors)
+
 ### Community Chat 👋🏽	
 Join our Discord server at https://discord.gg/9rz4XYJJDE
 
 ### Community Mailing List 📧
 Sign up at http://eepurl.com/bGihkr
 
-### Open Source Contributors 👨🏽‍💻👩🏾‍💻👩🏼‍💻👨🏾‍💻👨🏿‍💻👩🏿‍💻👩🏻‍💻👨🏽‍💻
-Get to know some of our past and current contributors: [CONTRIBUTING.md](CONTRIBUTING.md#open-source-contributors)
+You can also e-mail us at info@elimu.ai
+
+### Social Media 📰
+
+[Twitter](https://twitter.com/elimu_ai) | [LinkedIn](https://www.linkedin.com/company/elimuai) | [Facebook](https://www.facebook.com/elimuai) | [Instagram](https://www.instagram.com/elimu.ai/)
+
+### Licensing ©️
+
+All the code and content is publicly available on [GitHub](https://github.com/elimu-ai) and on our [website](https://elimu.ai) as Free and Open Source Software (FOSS).
+
+The licenses we have chosen allow anybody to use the software however they want. Our goal is to spread the solution quickly in order to reach as many children as possible, and we believe that using open source software will enable this. Any individual, company or organization is welcome to take the existing code and adapt it to their local needs, as well as adding improvements to the original code if they wish to do so.
