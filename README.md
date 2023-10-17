@@ -113,5 +113,5 @@ Join our Discord server at https://discord.gg/9rz4XYJJDE
 ### Community Mailing List 📧
 Sign up at http://eepurl.com/bGihkr
 
-### Open Source Coontributors 🙌🏽
+### Open Source Contributors 🙌🏽
 Get to know some of our past and current contributors: [CONTRIBUTING.md](CONTRIBUTING.md#open-source-contributors)
