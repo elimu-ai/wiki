@@ -19,7 +19,7 @@
 
 ### Purpose
 
-The purpose of [elimu.ai](https://elimu.ai) is to provide disadvantaged children with access to quality basic education.
+The purpose of [elimu.ai](https://elimu.ai) is to solve the global learning crisis—64 million children of primary school age remain out of school.
 
 ### Why? 🌍
 
@@ -33,7 +33,7 @@ While 58 million children remain [out-of-school](https://data.unicef.org/topic/e
 
 ### How Can We Solve the Problem? 💡
 
-Our solution is to develop software for teaching disadvantaged children the basics of reading, writing and arithmetic. A collection of educational apps teaches children basic literacy and numeracy in a fun and engaging way. This empowers each child to learn fully autonomously, and at her own pace, without depending on the availability of qualified teachers.
+Our solution is to build innovative learning software for empowering out-of-school children to _teach themselves_ the basics of reading, writing and arithmetic. A collection of educational apps teaches children basic literacy and numeracy in a fun and engaging way. This empowers each child to learn fully autonomously, and at her own pace, without depending on the availability of qualified teachers.
 
 ![global_learning_xprize_banner](https://user-images.githubusercontent.com/15718174/82724725-b8918600-9d0a-11ea-9775-76f653fa2a9c.jpg)
 
