@@ -18,7 +18,7 @@ A [Spaced Repetition System](https://en.wikipedia.org/wiki/Spaced_repetition) (S
 
 ## Skill Categorization & Correlation
 
-Each [app/game](https://eng.elimu.ai/apps) on the elimu.ai platform is categorized by which literacy/numeracy it teaches, and each skill (and its corresponding collection of apps/games) is gradually unlocked for every type of skill:
+Each app/game on the elimu.ai platform is categorized by which literacy/numeracy skill it teaches, and each type of skill (and its corresponding collection of apps/games) is gradually unlocked:
 
 Description | Illustration
 ------------ | -------------
@@ -28,12 +28,14 @@ Numeracy: Early Grade Mathematics Assessment (EGMA) | ![egma_correlations](https
 
 ## Best-Practices
 
-The elimu.ai software is designed following best-practices from the [Reading Essentials](https://www.udemy.com/course/reading-essentials/) course by Helen Abadzi.
+The elimu.ai software is designed following best-practices from the following sources:
 
+- [Reading Essentials](https://www.udemy.com/course/reading-essentials/) course, by Dr. Helen Abadzi.
+- [Efficient Learning for the Poor: Insights from the Frontier of Cognitive Neuroscience](https://openknowledge.worldbank.org/entities/publication/a73474e5-8a6b-555b-a4d4-72ea2c6d788f), by Dr. Helen Abadzi
 
 ## Personal Learning Device 📱
 
-For _personalized learning_ to be truly effective, each child should have their own Android device. The elimu.ai software is designed to automatically adapt the educational content and [apps](https://eng.elimu.ai/apps) to the current knowledge level of the child. So if another child uses the same user account on the same Android device, the personalized learning will not work.
+For _personalized learning_ to be truly effective, each child should have their own Android device. This is because the elimu.ai software is designed to automatically adapt the educational content and apps/games to the current knowledge level of the child. So if another child uses the same user account on the same Android device, the personalized learning will not work.
 
 Description | Illustration
 ------------ | -------------
@@ -41,6 +43,6 @@ At the very least, a separate Android device _user profile_ should be created fo
 
 ---
 
-elimu.ai - Free personalized learning for every child on Earth 🌍🌏🌎
+elimu.ai - Free open source learning software for out-of-school children ✨🚀
 
-[Website 🌐](https://elimu.ai) | [Wiki 📃](https://github.com/elimu-ai/wiki#readme) | [Projects 👩🏽‍💻](https://github.com/elimu-ai/wiki/projects) | [Milestones 🎯](https://github.com/elimu-ai/wiki/milestones) | [Community 👋🏽](https://github.com/elimu-ai/wiki#open-source-community)
+[Website 🌐](https://elimu.ai) | [Wiki 📃](https://github.com/elimu-ai/wiki#readme) | [Projects 👩🏽‍💻](https://github.com/orgs/elimu-ai/projects?query=is%3Aopen) | [Milestones 🎯](https://github.com/elimu-ai/wiki/milestones) | [Community 👋🏽](https://github.com/elimu-ai/wiki#open-source-community)
