@@ -30,7 +30,7 @@ Numeracy: Early Grade Mathematics Assessment (EGMA) | ![egma_correlations](https
 
 The elimu.ai software is designed following best-practices from the following sources:
 
-- [Reading Essentials](https://www.udemy.com/course/reading-essentials/) course, by Dr. Helen Abadzi.
+- [Reading Essentials](https://www.udemy.com/course/reading-essentials/) course, by Dr. Helen Abadzi
 - [Efficient Learning for the Poor: Insights from the Frontier of Cognitive Neuroscience](https://openknowledge.worldbank.org/entities/publication/a73474e5-8a6b-555b-a4d4-72ea2c6d788f), by Dr. Helen Abadzi
 
 ## Personal Learning Device 📱
@@ -45,4 +45,4 @@ At the very least, a separate Android device _user profile_ should be created fo
 
 elimu.ai - Free open source learning software for out-of-school children ✨🚀
 
-[Website 🌐](https://elimu.ai) | [Wiki 📃](https://github.com/elimu-ai/wiki#readme) | [Projects 👩🏽‍💻](https://github.com/orgs/elimu-ai/projects?query=is%3Aopen) | [Milestones 🎯](https://github.com/elimu-ai/wiki/milestones) | [Community 👋🏽](https://github.com/elimu-ai/wiki#open-source-community)
+[Website 🌐](https://elimu.ai) &nbsp; [Wiki 📃](https://github.com/elimu-ai/wiki#readme) &nbsp; [Projects 👩🏽‍💻](https://github.com/orgs/elimu-ai/projects?query=is%3Aopen) &nbsp; [Milestones 🎯](https://github.com/elimu-ai/wiki/milestones) &nbsp; [Community 👋🏽](https://github.com/elimu-ai/wiki#open-source-community)
