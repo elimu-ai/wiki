@@ -27,7 +27,7 @@ We believe that a quality basic education is the right of _every child_, no matt
 
 ### How Can We Solve the Problem? 💡
 
-Our solution is to build innovative learning software that empowers out-of-school children to _teach themselves_ basic reading📖, writing✍🏽 and math🔢🔢 **within 6 months**.
+Our solution is to build innovative learning software that empowers out-of-school children to _teach themselves_ basic reading📖, writing✍🏽 and math🔢 **within 6 months**.
 
 A collection of educational apps teaches children basic literacy and numeracy in a fun and engaging way. This empowers each child to learn fully autonomously, and at her own pace, without depending on the availability of qualified teachers.
 
