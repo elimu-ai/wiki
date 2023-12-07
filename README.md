@@ -23,7 +23,7 @@ The purpose of [elimu.ai](https://elimu.ai) is to solve the global learning cris
 
 ### Why? 🌍
 
-According to a report from UNESCO, more than [387 million children](http://uis.unesco.org/sites/default/files/documents/fs46-more-than-half-children-not-learning-en-2017.pdf) of primary school age (about 6 to 11 years old) are not achieving minimum proficiency levels in reading and mathematics. We believe that a quality basic education is the right of _every child_, no matter her social or geographical background.
+We believe that a quality basic education is the right of _every child_, no matter her social or geographical background.
 
 ### How Can We Solve the Problem? 💡
 
