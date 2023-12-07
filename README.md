@@ -19,21 +19,17 @@
 
 ### Purpose
 
-The purpose of [elimu.ai](https://elimu.ai) is to solve the global learning crisis—64 million children of primary school age remain out of school.
+The purpose of [elimu.ai](https://elimu.ai) is to solve the global learning crisis—At primary level, 10% of children worldwide are not in school.
 
 ### Why? 🌍
 
 According to a report from UNESCO, more than [387 million children](http://uis.unesco.org/sites/default/files/documents/fs46-more-than-half-children-not-learning-en-2017.pdf) of primary school age (about 6 to 11 years old) are not achieving minimum proficiency levels in reading and mathematics. We believe that a quality basic education is the right of _every child_, no matter her social or geographical background.
 
-> ❝Schooling does not always lead to learning. Worldwide, there are more non-learners in school than out of school.❞
-> 
-> ⸺[UNICEF](https://www.unicef.org/education)
-
-While 58 million children remain [out-of-school](https://data.unicef.org/topic/education/primary-education/), most children not learning are _in school_. This is truly a global learning crisis and a tremendous waste of human potential.
-
 ### How Can We Solve the Problem? 💡
 
-Our solution is to build innovative learning software for empowering out-of-school children to _teach themselves_ the basics of reading, writing and arithmetic. A collection of educational apps teaches children basic literacy and numeracy in a fun and engaging way. This empowers each child to learn fully autonomously, and at her own pace, without depending on the availability of qualified teachers.
+Our solution is to build innovative learning software that empowers out-of-school children to _teach themselves_ basic reading📖, writing✍🏽 and math🔢🔢 **within 6 months**.
+
+A collection of educational apps teaches children basic literacy and numeracy in a fun and engaging way. This empowers each child to learn fully autonomously, and at her own pace, without depending on the availability of qualified teachers.
 
 ![global_learning_xprize_banner](https://user-images.githubusercontent.com/15718174/82724725-b8918600-9d0a-11ea-9775-76f653fa2a9c.jpg)
 
@@ -41,7 +37,9 @@ Our solution is to build innovative learning software for empowering out-of-scho
 
 The [elimu.ai](https://elimu.ai) software is a _platform_ of educational content and Android apps.
 
-The software is designed in such a way that the children can learn fully autonomously, without guidance from qualified teachers. Instead, an AI tutor (Nya) guides each child through the necessary steps. The AI tutor gradually unlocks more advanced content, as the child demonstrates [mastery](PEDAGOGY.md#personalized-learning-) of prerequisite skills. As an example; Before learning how to read a word, the child needs to master the _letter-to-sound correspondence_ of the letters composing that word.
+### Autonomous Learning
+
+The software is designed in such a way that the children can learn fully autonomously (alone or in a group), without guidance from qualified teachers. Instead, an AI tutor (Nya) guides each child through the necessary steps. The AI tutor gradually unlocks more advanced content, as the child demonstrates [mastery](PEDAGOGY.md#personalized-learning-) of prerequisite skills. As an example; Before learning how to read a word, the child needs to master the _sound-letter correspondence_ of each sound composing that word.
 
 [![android_launcher](https://user-images.githubusercontent.com/15718174/82110563-ea867380-9771-11ea-8703-d63e381001eb.gif)](https://github.com/elimu-ai/launcher)
 
@@ -65,8 +63,8 @@ India | [Hindi](https://hin.elimu.ai), Bengali, Urdu | 667,108 (as of 2022)
 South Africa | Xhosa | 963,218 (as of 2021)
 Indonesia | Indonesian, Javanese | 345,716 (as of 2022)
 Cambodia | Khmer | 253,273 (as of 2022)
+Thailand | Thai | 106,430 (as of 2023)
 Nepal | Nepali | 105,716 (as of 2023)
-
 
 <a name="contribute"></a>
 ## Would You Like to Contribute? 👩🏽‍💻
@@ -90,7 +88,7 @@ For instructions on how to download and install the software, see [SOFTWARE_INST
 
 ### Software & Hardware Distribution 🛵💨
 
-Do you live near a child who does not have access to quality basic education? Help us [distribute](SOFTWARE_ARCHITECTURE.md#distribution) the learning software. For more information, send an e-mail to info@elimu.ai or contact us in our [community chat](#community-chat).
+Do you live near a child who is out-of-school? Help us [distribute](SOFTWARE_ARCHITECTURE.md#distribution) the learning software. For more information, send an e-mail to info@elimu.ai or contact us in our [community chat](#community-chat).
 
 
 <a name="open-source-community"></a>
@@ -98,7 +96,7 @@ Do you live near a child who does not have access to quality basic education? He
 
 ### Global Community 🌐
 
-As a global community, we invite people of any background to join us in our work. We deeply believe that all children should have access to a quality basic education no matter their social or geographic background. Please help us make this vision a reality by making a contribution of your time and knowledge towards this purpose. Thank you! 💜
+As a global Internet community without borders, we invite people of any background to join us in our work. We deeply believe that all children should have the opportunity to learn foundational reading, writing and math, no matter their social or geographic background. Please help us make this vision a reality by making a contribution of your time and knowledge towards this purpose. Thank you! 💜
 
 ### Open Source Contributors 👨🏽‍💻👩🏾‍💻👩🏼‍💻👨🏾‍💻👨🏿‍💻👩🏿‍💻👩🏻‍💻👨🏽‍💻
 Get to know some of our past and current contributors: [CONTRIBUTING.md](CONTRIBUTING.md#open-source-contributors)
@@ -118,6 +116,12 @@ You can e-mail us at info@elimu.ai
 
 ### Licensing ©️
 
-All the code and content is publicly available on [GitHub](https://github.com/elimu-ai) and on our [website](https://elimu.ai) as Free and Open Source Software (FOSS).
+All the code is publicly available on [GitHub](https://github.com/elimu-ai) as Free and Open Source Software (FOSS).
 
-The licenses we have chosen allow anybody to use the software however they want. Our goal is to spread the solution quickly in order to reach as many children as possible, and we believe that using open source software will enable this. Any individual, company or organization is welcome to take the existing code and adapt it to their local needs, as well as adding improvements to the original code if they wish to do so.
+Our goal is to spread the elimu.ai learning software quickly in order to reach as many children as possible, and we believe that using open source software will enable this. Any individual or organization is welcome to fork the existing code and adapt it to their local needs, as well as adding improvements to the upstream code repositories if they wish to do so.
+
+---
+
+elimu.ai - Free open source learning software for out-of-school children ✨🚀
+
+[Website 🌐](https://elimu.ai) &nbsp; [Wiki 📃](https://github.com/elimu-ai/wiki#readme) &nbsp; [Projects 👩🏽‍💻](https://github.com/orgs/elimu-ai/projects?query=is%3Aopen) &nbsp; [Milestones 🎯](https://github.com/elimu-ai/wiki/milestones) &nbsp; [Community 👋🏽](https://github.com/elimu-ai/wiki#open-source-community)
