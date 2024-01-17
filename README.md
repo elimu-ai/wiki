@@ -17,6 +17,8 @@
   ![elimu-logo](https://user-images.githubusercontent.com/15718174/54360503-e8e88980-465c-11e9-9792-32b513105cf3.png)
 ](http://elimu.ai)
 
+Free open source learning software for out-of-school children ✨🚀
+
 ### Purpose
 
 The purpose of [elimu.ai](https://elimu.ai) is to solve the global learning crisis—At primary level, 10% of children worldwide are not in school.
