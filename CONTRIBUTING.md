@@ -53,10 +53,14 @@ belong to one of the following:
    _Done_). Feel free to start working on any issue in the left-hand "To do" column.
    
    4. If you feel lost, take a look at the issues labeled with `good first issue`. These are tasks 
-   that are considered as good entry-points for first-time contributors. See 
-   [example](https://github.com/elimu-ai/appstore/issues?q=is%3Aissue+is%3Aopen+label%3A"good+first+issue").
+   that are considered as good entry-points for first-time contributors. Here are some examples:
+      - https://github.com/elimu-ai/webapp/contribute
+      - https://github.com/elimu-ai/content-provider/contribute
+      - https://github.com/elimu-ai/analytics/contribute
+      - https://github.com/elimu-ai/vitabu/contribute
+      - https://github.com/elimu-ai/kukariri/contribute
    
-   5. You are also welcome to create new GitHub issues yourself. For example, if you have discovered 
+   6. You are also welcome to create new GitHub issues yourself. For example, if you have discovered 
    a bug, or want to suggest a new feature, press the "New issue" button.
       
 ### How to Implement and Submit Your Work
