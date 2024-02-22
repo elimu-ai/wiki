@@ -163,9 +163,24 @@ If any of the above steps are unclear, or you have any other questions or commen
 <img src="https://avatars.githubusercontent.com/u/1363884?v=4" width="80" /><br />Jaimin<br />Engineering QA | <img src="https://avatars.githubusercontent.com/u/87644499?v=4" width="80" /><br />Chiara Mazza<br />Linguistics | <img src="https://avatars.githubusercontent.com/u/866225?v=4" width="80" /><br />Sinu John<br />Android Development
 [<img src="https://avatars.githubusercontent.com/u/4281969?v=4" width="80" />](https://github.com/tuancoltech)<br />Tuan Nguyen<br />Android Development |
 
-
 ---
 
-elimu.ai - Free open source learning software for out-of-school children ✨🚀
-
-[Website 🌐](https://elimu.ai) &nbsp; [Wiki 📃](https://github.com/elimu-ai/wiki#readme) &nbsp; [Projects 👩🏽‍💻](https://github.com/orgs/elimu-ai/projects?query=is%3Aopen) &nbsp; [Milestones 🎯](https://github.com/elimu-ai/wiki/milestones) &nbsp; [Community 👋🏽](https://github.com/elimu-ai/wiki#open-source-community)
+<p align="center">
+  <img src="https://github.com/elimu-ai/webapp/blob/main/src/main/webapp/static/img/logo-text-256x78.png" />
+</p>
+<p align="center">
+  elimu.ai - Free open source learning software for out-of-school children ✨🚀
+</p>
+<p align="center">
+  <a href="https://elimu.ai">Website 🌐</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/elimu-ai/wiki#readme">Wiki 📃</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/orgs/elimu-ai/projects?query=is%3Aopen">Projects 👩🏽‍💻</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/elimu-ai/wiki/milestones">Milestones 🎯</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/elimu-ai/wiki#open-source-community">Community 👋🏽</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.drips.network/app/drip-lists/41305178594442616889778610143373288091511468151140966646158126636698">Drips 💧</a>
+</p>
