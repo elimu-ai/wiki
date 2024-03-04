@@ -25,7 +25,7 @@ The purpose of [elimu.ai](https://elimu.ai) is to solve the global learning cris
 
 ### Why? 🌍
 
-We believe that a quality basic education is the right of _every child_, no matter her social or geographical background.
+The word "elimu" is Swahili for "education." We believe that a quality basic education is the right of _every child_, no matter her social or geographical background.
 
 ### How Can We Solve the Problem? 💡
 
