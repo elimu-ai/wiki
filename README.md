@@ -37,7 +37,7 @@ A collection of educational apps teaches children basic literacy and numeracy in
 
 ![educational apps and games](https://user-images.githubusercontent.com/15718174/82109205-c3767480-9766-11ea-947b-fa53cfcba767.png)
 
-[[![](https://markdown-videos-api.jorgenkh.no/youtube/B4pLVIHeqTc)](https://youtu.be/B4pLVIHeqTc)](https://github.com/elimu-ai/nyas-space-quest)
+[![](https://markdown-videos-api.jorgenkh.no/youtube/B4pLVIHeqTc)](https://youtu.be/B4pLVIHeqTc)
 &nbsp;
 [![](https://markdown-videos-api.jorgenkh.no/youtube/nKVHaz3_xJ8)](https://youtu.be/nKVHaz3_xJ8)
 
