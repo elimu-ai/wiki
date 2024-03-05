@@ -37,6 +37,8 @@ A collection of educational apps teaches children basic literacy and numeracy in
 
 ![educational apps and games](https://user-images.githubusercontent.com/15718174/82109205-c3767480-9766-11ea-947b-fa53cfcba767.png)
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/nKVHaz3_xJ8)](https://youtu.be/nKVHaz3_xJ8)
+
 The [elimu.ai](https://elimu.ai) software is a _platform_ of educational content and Android apps.
 
 ### Autonomous Learning
