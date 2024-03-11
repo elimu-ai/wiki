@@ -7,7 +7,7 @@ social or geographical background.
 For this reason, we build educational technology that teaches a child to read, write and calculate 
 fully autonomously, without guidance from qualified teachers.
 
-Since https://elimu.ai is an _open source_ project, anyone is welcome to contribute towards this 
+Since elimu.ai is an _open source_ project, anyone is welcome to contribute towards this 
 goal. We welcome different skills, cultures, perspectives, attitudes, and experiences. Also see our 
 [Code of Conduct](CODE_OF_CONDUCT.md).
 
