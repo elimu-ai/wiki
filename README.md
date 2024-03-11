@@ -4,7 +4,7 @@
   1. [About elimu.ai](#about)
   1. [Milestones](#milestones)
   1. [Would You Like to Contribute? 👩🏽‍💻](#contribute)
-  1. [Open Source](#open-source)
+  1. [Open-Source Community](#open-source-community)
 
 
 ---
@@ -21,7 +21,7 @@ Free open source learning software for out-of-school children ✨🚀
 
 ### Purpose
 
-The purpose of [elimu.ai](https://elimu.ai) is to solve the global learning crisis—At primary level, 10% of children worldwide are not in school.
+The purpose of elimu.ai is to solve the global learning crisis—At primary level, 10% of children worldwide are not in school.
 
 ### Why? 🌍
 
@@ -102,14 +102,14 @@ Do you live near a child who is out-of-school? Help us [distribute](SOFTWARE_ARC
 
 
 <a name="open-source-community"></a>
-## Open Source Community
+## Open-Source Community
 
 ### Global Community 🌐
 
 As a global Internet community without borders, we invite people of any background to join us in our work. We deeply believe that all children should have the opportunity to learn foundational reading, writing and math, no matter their social or geographic background. Please help us make this vision a reality by making a contribution of your time and knowledge towards this purpose. Thank you! 💜
 
-### Open Source Contributors 👨🏽‍💻👩🏾‍💻👩🏼‍💻👨🏾‍💻👨🏿‍💻👩🏿‍💻👩🏻‍💻👨🏽‍💻
-Get to know some of our past and current contributors: [CONTRIBUTORS.md](CONTRIBUTORS.md)
+### Open-Source Contributors 👨🏽‍💻👩🏾‍💻👩🏼‍💻👨🏾‍💻👨🏿‍💻👩🏿‍💻👩🏻‍💻👨🏽‍💻
+Get to know some of our past and current open-source contributors and maintainers: [CONTRIBUTORS.md](CONTRIBUTORS.md)
 
 ### Community Chat 👋🏽	
 Join our Discord server at https://discord.gg/9rz4XYJJDE
