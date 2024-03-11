@@ -109,7 +109,7 @@ Do you live near a child who is out-of-school? Help us [distribute](SOFTWARE_ARC
 As a global Internet community without borders, we invite people of any background to join us in our work. We deeply believe that all children should have the opportunity to learn foundational reading, writing and math, no matter their social or geographic background. Please help us make this vision a reality by making a contribution of your time and knowledge towards this purpose. Thank you! 💜
 
 ### Open Source Contributors 👨🏽‍💻👩🏾‍💻👩🏼‍💻👨🏾‍💻👨🏿‍💻👩🏿‍💻👩🏻‍💻👨🏽‍💻
-Get to know some of our past and current contributors: [CONTRIBUTING.md](CONTRIBUTING.md#open-source-contributors)
+Get to know some of our past and current contributors: [CONTRIBUTORS.md](CONTRIBUTORS.md)
 
 ### Community Chat 👋🏽	
 Join our Discord server at https://discord.gg/9rz4XYJJDE
