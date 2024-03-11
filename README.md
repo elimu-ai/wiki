@@ -21,7 +21,7 @@ Free open source learning software for out-of-school children ✨🚀
 
 ### Purpose
 
-The purpose of [elimu.ai](https://elimu.ai) is to solve the global learning crisis—At primary level, 10% of children worldwide are not in school.
+The purpose of elimu.ai is to solve the global learning crisis—At primary level, 10% of children worldwide are not in school.
 
 ### Why? 🌍
 
