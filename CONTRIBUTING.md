@@ -103,7 +103,7 @@ new GitHub branch to work on (Step 1):
    your code will not merge the branch; that is your responsibility.
    
    9. If you consider the issue complete (code reviewed and tested), merge and delete the branch, and 
-   move the GitHub issue to the "Done" column. Well done! 👏
+   move the GitHub issue to the "Done" column. Well done! 👏🏽
 
 <a name="workflow-example-webapp"></a>
 ## Workflow Example: [webapp](https://github.com/elimu-ai/webapp)
@@ -141,7 +141,9 @@ the work flow looks like this:
 
 ---
 
-If any of the above steps are unclear, or you have any other questions or comments, please reach out to the [community](README.md#open-source-community) via chat or e-mail. Thank you for contributing 😀
+Get to know some of our past and current open-source contributors and maintainers in [CONTRIBUTORS.md](CONTRIBUTORS.md).
+
+If any of the above steps are unclear, or you have any other questions or comments, please reach out to the [community](README.md#open-source-community) via chat or e-mail. Thank you for contributing 🙌🏽
 
 ---
 
