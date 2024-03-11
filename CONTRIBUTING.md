@@ -1,13 +1,13 @@
 # Contributing to elimu.ai 👩🏽‍💻
 
-The purpose of [elimu.ai](https://elimu.ai) is to provide disadvantaged children with access to quality 
+The purpose of elimu.ai is to provide disadvantaged children with access to quality 
 basic education. We believe that a quality basic education is the right of every child no matter her 
 social or geographical background.
 
 For this reason, we build educational technology that teaches a child to read, write and calculate 
 fully autonomously, without guidance from qualified teachers.
 
-Since [elimu.ai](https://elimu.ai) is an _open source_ project, anyone is welcome to contribute towards this 
+Since https://elimu.ai is an _open source_ project, anyone is welcome to contribute towards this 
 goal. We welcome different skills, cultures, perspectives, attitudes, and experiences. Also see our 
 [Code of Conduct](CODE_OF_CONDUCT.md).
 
