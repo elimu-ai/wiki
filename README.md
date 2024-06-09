@@ -57,20 +57,20 @@ The software is designed in such a way that the children can learn fully autonom
 <a name="milestones"></a>
 ## Milestones 📆
 
-### Short-Term Objectives (2023)
+### Short-Term Objectives (2024)
 
 See quarterly milestones at https://github.com/elimu-ai/wiki/milestones
 
-### Long-Term Objectives (2023 → 2030)
+### Long-Term Objectives (2024 → 2030)
 
 In the long term, apps and content will gradually be created for target languages where the number of out-of-school children is the highest (based on [UIS Statistics](http://data.uis.unesco.org/)):
 
 Country | Languages | Out-of-School Children (Primary Age)
 ------------ | ------------- | ------------:
 Tanzania | Swahili | 1,745,627 (as of 2021)
+India | [Hindi](https://hin.elimu.ai), Bengali, Urdu | 1,722,440 (as of 2023)
 Philippines | [Tagalog](https://tgl.elimu.ai), Hiligaynon | 1,339,277 (as of 2022)
-India | [Hindi](https://hin.elimu.ai), Bengali, Urdu | 667,108 (as of 2022)
-South Africa | Xhosa | 963,218 (as of 2021)
+South Africa | Xhosa | 568,104 (as of 2021)
 Indonesia | Indonesian, Javanese | 345,716 (as of 2022)
 Cambodia | Khmer | 253,273 (as of 2022)
 Thailand | Thai | 106,430 (as of 2023)
