@@ -14,9 +14,9 @@
 <a name="learning-platform"></a>
 ## Learning Platform
 
-The [elimu.ai](http://elimu.ai) software is a _platform_ of educational content and Android [apps](https://eng.elimu.ai/apps).
+The elimu.ai software is a _platform_ of educational content and Android [apps](https://eng.elimu.ai/apps).
 
-Instead of having one large Android application containing everything, the [elimu.ai](http://elimu.ai) software has been architected such that there are many smaller applications, each with their own specific responsibility.
+Instead of having one large Android application containing everything, the elimu.ai software has been architected such that there are many smaller applications, each with their own specific responsibility.
 
 Broadly speaking, there are three categories of Android applications:
   1. Infrastructural applications
