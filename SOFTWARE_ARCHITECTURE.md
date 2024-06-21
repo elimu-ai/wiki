@@ -49,7 +49,7 @@ For instructions on how to add support for a new language, see [LOCALIZATION.md]
 <a name="crowdsourcing"></a>
 ### Content Crowdsourcing ✍🏽
 
-Another way to ensure software scalability is through _crowdsourcing_. By using the [elimu.ai Crowdsource](https://github.com/elimu-ai/crowdsource) Android app or the [elimu.ai Webapp](https://github.com/elimu-ai/webapp), the crowd is able to upload and peer review educational content on the platform, and thus help speed up the expansion to more languages. As an example, such a task might involve transcribing a few audio recordings, peer reviewing existing audio transcriptions, translating a storybook, recording audio files for an entire storybook, labelling videos by content, etc.
+Another way to ensure software scalability is through _crowdsourcing_. By using the [elimu.ai Webapp](https://github.com/elimu-ai/webapp), the crowd is able to upload and peer review educational content on the platform, and thus help speed up the expansion to more languages. As an example, such a task might involve transcribing a few audio recordings, peer reviewing existing audio transcriptions, translating a storybook, recording audio files for an entire storybook, labelling videos by content, etc.
 
 
 <a name="distribution"></a>
@@ -98,8 +98,6 @@ Using [TensorFlow](https://www.tensorflow.org/), one machine learning model is t
   * Handwriting recognition (numbers)
   * [Content recommendation (storybooks)](https://github.com/elimu-ai/ml-storybook-recommender)
   * Content recommendation (videos)
-
-The [elimu.ai Crowdsource](https://github.com/elimu-ai/crowdsource) Android app is used for _labeling_ handwritten letters and numbers.
 
 ---
 
