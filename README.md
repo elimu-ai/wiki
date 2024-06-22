@@ -31,7 +31,7 @@ The word "elimu" is Swahili for "education." We believe that a quality basic edu
 
 Our solution is to build innovative learning software that empowers out-of-school children to _teach themselves_ basic reading📖, writing✍🏽 and math🔢 **within 6 months**.
 
-A collection of educational apps teaches children basic literacy and numeracy in a fun and engaging way. This empowers each child to learn fully autonomously, and at her own pace, without depending on the availability of qualified teachers.
+A collection of educational apps teaches children foundational literacy and numeracy in a fun and engaging way. This empowers each child to learn fully autonomously, and at her own pace, without depending on the availability of qualified teachers.
 
 ![global_learning_xprize_banner](https://user-images.githubusercontent.com/15718174/82724725-b8918600-9d0a-11ea-9775-76f653fa2a9c.jpg)
 
@@ -47,12 +47,23 @@ A collection of educational apps teaches children basic literacy and numeracy in
 
 The elimu.ai software is a _platform_ of educational content and Android apps.
 
+> [!NOTE]
+> It is not one single app; It is a _collection_ of apps, all working together in a holistic manner. A child can make learning progress in one app, and another app will be aware of this so that it can adapt its content accordingly.
+
+---
+
+> “Any sufficiently advanced technology is
+indistinguishable from magic.” 🪄✨
+> 
+> ― Arthur C. Clarke
+
+---
+
 ### Autonomous Learning
 
 The software is designed in such a way that the children can learn fully autonomously (alone or in a group), without guidance from qualified teachers. Instead, an AI tutor (Nya) guides each child through the necessary steps. The AI tutor gradually unlocks more advanced content, as the child demonstrates [mastery](PEDAGOGY.md#personalized-learning-) of prerequisite skills. As an example; Before learning how to read a word, the child needs to master the _sound-letter correspondence_ of each sound composing that word.
 
 [![android_launcher](https://user-images.githubusercontent.com/15718174/82110563-ea867380-9771-11ea-8703-d63e381001eb.gif)](https://github.com/elimu-ai/launcher)
-
 
 <a name="milestones"></a>
 ## Milestones 📆
@@ -83,7 +94,7 @@ How can you contribute? Either by adding educational _content_ or by _engineerin
 
 ### Content Creation or App Development 🎶🎙️📱
 
-  * Contribute by creating or peer reviewing educational content (e.g. storybooks, words, audio recordings, images, etc). If you speak Hindi or Tagalog as your mother tongue, go to the website matching your language and then click "Sign On":
+  * Contribute by creating or peer reviewing educational content (e.g. storybooks, words, audio recordings, images, etc). If you speak Hindi or Tagalog as your mother tongue, go to the website matching your language and then press "Sign On":
 
     * https://hin.elimu.ai - Hindi
     * https://tgl.elimu.ai - Tagalog
@@ -111,6 +122,7 @@ As a global Internet community without borders, we invite people of any backgrou
 ### Open-Source Contributors 👨🏽‍💻👩🏾‍💻👩🏼‍💻👨🏾‍💻👨🏿‍💻👩🏿‍💻👩🏻‍💻👨🏽‍💻
 Get to know some of our past and current open-source contributors and maintainers: [CONTRIBUTORS.md](CONTRIBUTORS.md)
 
+<a name="community-chat"></a>
 ### Community Chat 👋🏽	
 Join our Discord server at https://discord.gg/9rz4XYJJDE
 
