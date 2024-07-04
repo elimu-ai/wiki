@@ -17,11 +17,11 @@
   ![elimu-logo](https://user-images.githubusercontent.com/15718174/54360503-e8e88980-465c-11e9-9792-32b513105cf3.png)
 ](http://elimu.ai)
 
-Free open source learning software for out-of-school children ✨🚀
+Free open-source learning software for out-of-school children ✨🚀
 
 ### Purpose
 
-The purpose of elimu.ai is to solve the global learning crisis—At primary level, 10% of children worldwide are not in school.
+The purpose of elimu.ai is to help solve the global learning crisis—At primary level, 10% of children worldwide are not in school.
 
 ### Why? 🌍
 
@@ -117,19 +117,24 @@ Do you live near a child who is out-of-school? Help us [distribute](SOFTWARE_ARC
 
 ### Global Community 🌐
 
-As a global Internet community without borders, we invite people of any background to join us in our work. We deeply believe that all children should have the opportunity to learn foundational reading, writing and math, no matter their social or geographic background. Please help us make this vision a reality by making a contribution of your time and knowledge towards this purpose. Thank you! 💜
+As a global Internet community without borders, we invite people of any background to join us in our work. We deeply believe that all children should have the _opportunity_ to learn foundational literacy & numeracy skills, no matter their social or geographic background. Please help us make this vision a reality by making a contribution of your time and knowledge towards this purpose. Thank you! 💜
 
 ### Open-Source Contributors 👨🏽‍💻👩🏾‍💻👩🏼‍💻👨🏾‍💻👨🏿‍💻👩🏿‍💻👩🏻‍💻👨🏽‍💻
 Get to know some of our past and current open-source contributors and maintainers: [CONTRIBUTORS.md](CONTRIBUTORS.md)
 
 <a name="community-chat"></a>
-### Community Chat 👋🏽	
+### Community Chat 👋🏽
+
+[![Discord](https://img.shields.io/discord/920940233225302067)](https://discord.gg/9rz4XYJJDE)
+
 Join our Discord server at https://discord.gg/9rz4XYJJDE
 
 ### Community Mailing List
+
 Sign up at http://eepurl.com/bGihkr
 
 ### E-Mail
+
 You can e-mail us at info@elimu.ai
 
 ### Social Media 📰
@@ -138,9 +143,9 @@ You can e-mail us at info@elimu.ai
 
 ### Licensing ©️
 
-All the code is publicly available on [GitHub](https://github.com/elimu-ai) as Free and Open Source Software (FOSS).
+All the code is publicly available on [GitHub](https://github.com/elimu-ai) as Free and Open Source Software (FOSS), mostly released under the [MIT License](https://opensource.org/license/MIT).
 
-Our goal is to spread the elimu.ai learning software quickly in order to reach as many children as possible, and we believe that using open source software will enable this. Any individual or organization is welcome to fork the existing code and adapt it to their local needs, as well as adding improvements to the upstream code repositories if they wish to do so.
+Our goal is to distribute the elimu.ai learning software widely to reach as many children as possible, and we believe that using open source software will enable this. Any individual or organization is welcome to fork the existing code and adapt it to their local needs, as well as adding improvements to the upstream code repositories if they wish to do so.
 
 ---
 
