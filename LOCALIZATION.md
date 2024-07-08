@@ -65,6 +65,9 @@ Perform the following steps in order to add a new language:
 
 ...
 
+> [!TIP]
+> Also see [Creating Localizable Learning Apps](https://docs.google.com/document/d/e/2PACX-1vSZ7fc_Rcz24PGYaaRiy3_UUj_XZGl_jWs931RiGkcI2ft4DrN9PMb28jbndzisWccg3h5W_ynyxVU5/pub) (by [Curious Learning](https://www.curiouslearning.org/)).
+
 <a name="add-educational-content"></a>
 ### Add Educational Content: Step-by-Step Guide
 
