@@ -142,7 +142,7 @@ You can e-mail us at info@elimu.ai
 
 ### Social Media 📰
 
-[Twitter](https://twitter.com/elimu_ai) | [LinkedIn](https://www.linkedin.com/company/elimuai) | [Facebook](https://www.facebook.com/elimuai) | [Instagram](https://www.instagram.com/elimu.ai/)
+[X](https://x.com/elimu_ai) | [LinkedIn](https://www.linkedin.com/company/elimuai) | [Facebook](https://www.facebook.com/elimuai) | [Instagram](https://www.instagram.com/elimu.ai/)
 
 ### Licensing ©️
 
