@@ -12,6 +12,7 @@
 
 
 <a name="learning-platform"></a>
+
 ## Learning Platform
 
 The elimu.ai software is a _platform_ of educational content and Android [apps](https://eng.elimu.ai/apps).
@@ -28,12 +29,14 @@ Broadly speaking, there are three categories of Android applications:
 
 
 <a name="dependencies"></a>
+
 ## Software Dependencies 🔄
 
 As depicted in the diagram above, several of the elimu.ai applications communicate with each other. As an example; When the app for reading storybooks ([Vitabu](https://github.com/elimu-ai/vitabu)) is opened, it asks the [content-provider](https://github.com/elimu-ai/content-provider) app to provide a list of storybooks. This means that the storybooks app depends on the content-provider app to be installed.
 
 
 <a name="scalability"></a>
+
 ## Software Scalability
 
 The software platform is being built to handle scaling to many different languages. A collection of many smaller apps, all [categorized](https://github.com/elimu-ai/launcher/blob/main/README.md#pedagogy) by literacy/numeracy skills makes it possible to easily adjust the complete curriculum when localizing from one language to another.
@@ -41,18 +44,21 @@ The software platform is being built to handle scaling to many different languag
 The file size of the apps, games and multimedia is kept as small as possible in order to make the distribution easier in locations with limited Internet connectivity. In addition, the software has been designed to work offline so that it can be used in remote areas.
 
 <a name="localization"></a>
+
 ### Localization 🌐
 
 For instructions on how to add support for a new language, see [LOCALIZATION.md](LOCALIZATION.md).
 
 
 <a name="crowdsourcing"></a>
+
 ### Content Crowdsourcing ✍🏽
 
 Another way to ensure software scalability is through _crowdsourcing_. By using the [elimu.ai Webapp](https://github.com/elimu-ai/webapp), the crowd is able to upload and peer review educational content on the platform, and thus help speed up the expansion to more languages.
 
 
 <a name="data-collection"></a>
+
 ## Data Collection 📊
 
 In order to measure how well the elimu.ai software is working, usage data is collected from the Android devices so that we can analyze the learning of each child. This enables us to carefully monitor how changes in code or content produce different learning outcome, as well as continuously improve the software.
@@ -63,6 +69,7 @@ For assessing the learning outcome of the children, we are collecting data [cate
 
 
 <a name="ai"></a>
+
 ## Artificial Intelligence (AI) 🤖
 
 Using [TensorFlow](https://www.tensorflow.org/), one machine learning model is trained per language, for each of these categories:
