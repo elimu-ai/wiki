@@ -5,3 +5,11 @@
 > Children’s reading skills are often assessed using reading lists of unrelated words. This allows for a purer measure of word recognition and decoding skills than does reading connected text, as children are unable to guess the next word from the context when reading lists of unrelated words. For this assessment, familiar words are high-frequency words selected from first-, second-, and third-grade reading materials and storybooks in the language and context.
     
 > ![EGRA_FAMILIAR_WORD_READING.png](https://raw.githubusercontent.com/elimu-ai/webapp/master/src/main/webapp/static/img/admin/EGRA_FAMILIAR_WORD_READING.png)
+
+## Data Collection
+
+Three variables are collected during an EGRA assessment:
+
+1. Total words read
+2. Total incorrect words
+3. Time remaining
