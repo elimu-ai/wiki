@@ -81,7 +81,7 @@ Using [TensorFlow](https://www.tensorflow.org/), one machine learning model is t
 
 We are also building machine learning models that work across languages. As an example, the same model used for predicting the reading level of English storybooks can be used for predicting the reading level of Hindi storybooks.
 
-  * [Storybook reading level prediction](https://github.com/elimu-ai/ml-storybook-reading-level)
+* [Storybook reading level prediction](https://github.com/elimu-ai/ml-storybook-reading-level)
 
 ---
 
