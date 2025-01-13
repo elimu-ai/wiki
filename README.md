@@ -68,11 +68,11 @@ The software is designed in such a way that the children can learn fully autonom
 <a name="milestones"></a>
 ## Milestones 📆
 
-### Short-Term Objectives (2024)
+### Short-Term Objectives (2025)
 
 See quarterly milestones at https://github.com/elimu-ai/wiki/milestones
 
-### Long-Term Objectives (2024 → 2030)
+### Long-Term Objectives (2025 → 2030)
 
 In the long term, apps and content will gradually be created for target languages where the number of out-of-school children is the highest (based on [UIS Statistics](http://data.uis.unesco.org/)):
 
