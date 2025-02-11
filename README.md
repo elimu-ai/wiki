@@ -84,7 +84,7 @@ Philippines | [Tagalog](https://tgl.elimu.ai), Hiligaynon | 1,339,277 (as of 202
 South Africa | Xhosa | 568,104 (as of 2021)
 Indonesia | Indonesian, Javanese | 345,716 (as of 2022)
 Cambodia | Khmer | 253,273 (as of 2022)
-Thailand | Thai | 106,430 (as of 2023)
+Thailand | [Thai](https://tha.elimu.ai) | 106,430 (as of 2023)
 Nepal | Nepali | 105,716 (as of 2023)
 
 <a name="contribute"></a>
@@ -96,8 +96,9 @@ How can you contribute? Either by adding educational _content_ or by _engineerin
 
   * Contribute by creating or peer reviewing educational content (e.g. storybooks, words, audio recordings, images, etc). If you speak Hindi or Tagalog as your mother tongue, go to the website matching your language and then press "Sign On":
 
-    * https://hin.elimu.ai - Hindi
+    * https://hin.elimu.ai - Hindi (हिन्दी)
     * https://tgl.elimu.ai - Tagalog
+    * https://tha.elimu.ai - Thai (ไทย)
 
     For instructions on how to add educational content, see [LOCALIZATION.md](LOCALIZATION.md#add-educational-content).
 
