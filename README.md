@@ -17,7 +17,7 @@
   ![elimu-logo](https://user-images.githubusercontent.com/15718174/54360503-e8e88980-465c-11e9-9792-32b513105cf3.png)
 ](http://elimu.ai)
 
-Free open-source learning software for out-of-school children ✨🚀
+Free open-source learning software for out-of-school children 🚀✨
 
 ### Purpose
 
@@ -76,16 +76,16 @@ See quarterly milestones at https://github.com/elimu-ai/wiki/milestones
 
 In the long term, apps and content will gradually be created for target languages where the number of out-of-school children is the highest (based on [UIS Statistics](http://data.uis.unesco.org/)):
 
-Country | Languages | Out-of-School Children (Primary Age)
+Languages | Country | Out-of-School Children (Primary Age)
 ------------ | ------------- | ------------:
-Tanzania | Swahili | 1,745,627 (as of 2021)
-India | [Hindi](https://hin.elimu.ai), Bengali, Urdu | 1,722,440 (as of 2023)
-Philippines | [Tagalog](https://tgl.elimu.ai), Hiligaynon | 1,339,277 (as of 2022)
-South Africa | Xhosa | 568,104 (as of 2021)
-Indonesia | Indonesian, Javanese | 345,716 (as of 2022)
-Cambodia | Khmer | 253,273 (as of 2022)
-Thailand | [Thai](https://tha.elimu.ai) | 106,430 (as of 2023)
-Nepal | Nepali | 105,716 (as of 2023)
+Swahili | Tanzania | 1,745,627 (as of 2021)
+[Hindi](https://hin.elimu.ai), Bengali, Urdu | India | 1,722,440 (as of 2023)
+[Tagalog](https://tgl.elimu.ai), Hiligaynon | Philippines | 1,339,277 (as of 2022)
+Xhosa | South Africa | 568,104 (as of 2021)
+Indonesian, Javanese | Indonesia | 345,716 (as of 2022)
+Khmer | Cambodia | 253,273 (as of 2022)
+[Thai](https://tha.elimu.ai) | Thailand | 106,430 (as of 2023)
+Nepali | Nepal | 105,716 (as of 2023)
 
 <a name="contribute"></a>
 ## Would You Like to Contribute? 👩🏽‍💻
@@ -94,7 +94,7 @@ How can you contribute? Either by adding educational _content_ or by _engineerin
 
 ### Content Creation or App Development 🎶🎙️📱
 
-  * Contribute by creating or peer reviewing educational content (e.g. storybooks, words, audio recordings, images, etc). If you speak Hindi or Tagalog as your mother tongue, go to the website matching your language and then press "Sign On":
+  * Contribute by creating or peer reviewing educational content (e.g. storybooks, words, sound-to-letter correspondences, etc). If you are fluent in one of the languages supported by the platform, go to the website matching your language and then press "Sign On":
 
     * https://hin.elimu.ai - Hindi (हिन्दी)
     * https://tgl.elimu.ai - Tagalog
@@ -157,7 +157,7 @@ Our goal is to distribute the elimu.ai learning software widely to reach as many
   <img src="https://github.com/elimu-ai/webapp/blob/main/src/main/webapp/static/img/logo-text-256x78.png" />
 </p>
 <p align="center">
-  elimu.ai - Free open-source learning software for out-of-school children ✨🚀
+  elimu.ai - Free open-source learning software for out-of-school children 🚀✨
 </p>
 <p align="center">
   <a href="https://elimu.ai">Website 🌐</a>
