@@ -132,9 +132,7 @@ the work flow looks like this:
    
    If the maintainers are too slow to get back to you, reach out to the [open source community](README.md#open-source-community) via chat or e-mail.
    
-5. Once your pull request has been approved by at least one project maintainer, press the "merge" button. This will merge your code changes into the `main` branch and deploy them to the test servers at https://`<language>`.test.elimu.ai.
-
-6. If all of the regression tests pass, ask a maintainer to deploy the changes to the production servers at https://`<language>`.elimu.ai.
+5. Once your pull request has been approved by at least one project maintainer, press the "merge" button. This will merge your code changes into the `main` branch and deploy them to the production servers at https://`<language>`.elimu.ai.
 
 
 ---
