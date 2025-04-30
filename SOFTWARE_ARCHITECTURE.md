@@ -40,7 +40,9 @@ As depicted in the diagram above, several of the elimu.ai applications communica
 flowchart TD
     model["model (.jar)"] --> analytics
     model --> webapp["webapp (.war)"]
-    analytics["analytics (.aar)"] --> content-provider
+    analytics["analytics (.aar)"] --> appstore
+    appstore["appstore (.aar)"] --> launcher["launcher (.apk)"]
+    appstore --> content-provider
     content-provider["content-provider (.aar)"] --> kukariri["kukariri (.apk)"]
     content-provider --> herufi["herufi (.apk)"]
     content-provider --> vitabu["vitabu (.apk)"]
