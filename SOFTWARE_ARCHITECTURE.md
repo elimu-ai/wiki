@@ -34,6 +34,18 @@ Broadly speaking, there are three categories of Android applications:
 
 As depicted in the diagram above, several of the elimu.ai applications communicate with each other. As an example; When the app for reading storybooks ([Vitabu](https://github.com/elimu-ai/vitabu)) is opened, it asks the [content-provider](https://github.com/elimu-ai/content-provider) app to provide a list of storybooks. This means that the storybooks app depends on the content-provider app to be installed.
 
+### Library Dependencies
+
+```mermaid
+flowchart TD
+    model["model (.jar)"] --> analytics
+    analytics["analytics (.aar)"] --> content-provider
+    content-provider["content-provider (.aar)"] --> kukariri["kukariri (.apk)"]
+    content-provider --> herufi["herufi (.apk)"]
+    content-provider --> vitabu["vitabu (.apk)"]
+    content-provider --> filamu["filamu (.apk)"]
+```
+
 
 <a name="scalability"></a>
 
