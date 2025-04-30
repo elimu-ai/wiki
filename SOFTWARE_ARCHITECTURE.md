@@ -41,6 +41,7 @@ flowchart TD
     model["model (.jar)"] --> analytics
     model --> webapp["webapp (.war)"]
     analytics["analytics (.aar)"] --> appstore
+    common-utils["common-utils (.aar)"] --> appstore
     appstore["appstore (.aar)"] --> launcher["launcher (.apk)"]
     appstore --> content-provider
     content-provider["content-provider (.aar)"] --> kukariri["kukariri (.apk)"]
