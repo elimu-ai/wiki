@@ -39,6 +39,7 @@ As depicted in the diagram above, several of the elimu.ai applications communica
 ```mermaid
 flowchart TD
     model["model (.jar)"] --> analytics
+    model --> webapp["webapp (.war)"]
     analytics["analytics (.aar)"] --> content-provider
     content-provider["content-provider (.aar)"] --> kukariri["kukariri (.apk)"]
     content-provider --> herufi["herufi (.apk)"]
