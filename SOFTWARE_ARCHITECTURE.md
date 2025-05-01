@@ -38,7 +38,7 @@ As depicted in the diagram above, several of the elimu.ai applications communica
 
 ```mermaid
 flowchart TD
-    model["model (.jar)"] --> analytics
+    model["model📦 (.jar)"] --> analytics
     model --> webapp["webapp💻 (.war)"]
     analytics["analytics📊 (.aar)"] --> appstore
     common-utils["common-utils (.aar)"] --> appstore
