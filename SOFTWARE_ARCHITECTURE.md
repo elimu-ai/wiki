@@ -39,15 +39,17 @@ As depicted in the diagram above, several of the elimu.ai applications communica
 ```mermaid
 flowchart TD
     model["model (.jar)"] --> analytics
-    model --> webapp["webapp (.war)"]
-    analytics["analytics (.aar)"] --> appstore
+    model --> webapp["webapp🖥 (.war)"]
+    analytics["analytics📊 (.aar)"] --> appstore
     common-utils["common-utils (.aar)"] --> appstore
-    appstore["appstore (.aar)"] --> launcher["launcher (.apk)"]
+    appstore["appstore📲 (.aar)"] --> launcher["launcher🚀 (.apk)"]
     appstore --> content-provider
-    content-provider["content-provider (.aar)"] --> kukariri["kukariri (.apk)"]
-    content-provider --> herufi["herufi (.apk)"]
-    content-provider --> vitabu["vitabu (.apk)"]
-    content-provider --> filamu["filamu (.apk)"]
+    content-provider --> keyboard["keyboard⌨️ (.apk)"]
+    keyboard --> chat["chat💬 (.apk)"]
+    content-provider["content-provider🗂 (.aar)"] --> kukariri["kukariri🧠 (.apk)"]
+    content-provider --> herufi["herufi🔡 (.apk)"]
+    content-provider --> vitabu["vitabu📚 (.apk)"]
+    content-provider --> filamu["filamu🎬 (.apk)"]
 ```
 
 
