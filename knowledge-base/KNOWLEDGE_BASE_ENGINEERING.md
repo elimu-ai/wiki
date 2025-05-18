@@ -20,7 +20,16 @@ Some Android apps depend on other elimu.ai Android apps to be installed. See
 
 ## Game Development 🕹️
 
-...
+Most of our games us Cocos2d-x as their game engine:
+
+| Game | Game Engine |
+| -------- | -------- |
+| [VoltAir](https://github.com/elimu-ai/VoltAir) | Qt |
+| [Nya's Space Quest](https://github.com/elimu-ai/nyas-space-quest) | Cocos2d-x |
+| [Nya's Space Quest: Quantity Discrimination](https://github.com/elimu-ai/nyas-space-quest-qd) | Cocos2d-x |
+| [Seaworld](https://github.com/elimu-ai/seaworld) | Cocos2d-x |
+| [Sima](https://github.com/elimu-ai/sima) | Cocos2d-x |
+| [Walezi](https://github.com/elimu-ai/walezi-android) | Pandam |
 
 ## Web development 💻
 
