@@ -20,7 +20,7 @@ Some Android apps depend on other elimu.ai Android apps to be installed. See
 
 ## Game Development 🕹️
 
-Most of our games us Cocos2d-x as their game engine:
+Most of our games use Cocos2d-x as their game engine:
 
 | Game | Game Engine |
 | -------- | -------- |
