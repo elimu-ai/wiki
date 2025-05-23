@@ -13,6 +13,16 @@ See documentation per repo:
 * [`ai.elimu.content-provider:utils`](https://github.com/elimu-ai/content-provider/blob/main/README.md#how-to-test--snapshot-versions-of-the-utils-library)
 * [`ai.elimu.common-utils:utils`](https://github.com/elimu-ai/common-utils/blob/main/README.md#how-to-publish-a-snapshot-for-local-development--testing)
 
+### How to collaborate on Git branches where `force-push` was used
+
+If you are peer-reviewing a pull request which gets force-pushed after your initial review, use the following commands to synchronize your local branch:
+
+```
+git reset --hard
+git fetch
+git pull --rebase origin <branch name>
+```
+
 ### Library dependencies
 
 Some Android apps depend on other elimu.ai Android apps to be installed. See 
