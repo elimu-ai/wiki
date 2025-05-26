@@ -24,6 +24,7 @@ A log of decisions made within each category of work (content, engineering, dist
 | -------- | ------- | ------- | ------- | ------- |
 | 2025 Q2 | Store APK files on external platform. | To make the Webapp more lightweight. | https://github.com/elimu-ai/wiki/issues/217 | [@jo-elimu](https://github.com/jo-elimu) |
 | 2025 Q2 | Make analytics dashboard public. | Make student learning progress public so that sponsors can verify the data. | https://github.com/elimu-ai/wiki/issues/234 | [@jo-elimu](https://github.com/jo-elimu) |
+| 2025 Q1 | Add support for Vietnamese language. | To reach ~96,000 out-of-school children. | https://github.com/elimu-ai/wiki/issues/216 | [@tuancoltech](https://github.com/tuancoltech) |
 
 ---
 
