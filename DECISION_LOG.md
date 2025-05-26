@@ -8,22 +8,22 @@ A log of decisions made within each category of work (content, engineering, dist
 
 | Date | Decision | Reason | Details | Owner |
 | -------- | ------- | ------- | ------- | ------- |
-| 2024-07 | Shut down crowdsource app. | To prevent time spent on maintaining similar functionality in the Crowdsource app and in the Webapp. | https://github.com/elimu-ai/wiki/issues/134 | [@jo-elimu](https://github.com/jo-elimu) |
-| 2018-04 | Separate content into multiple databases. | Make the separation between each language more clear, by deploying one database and subdomain per language. | https://github.com/elimu-ai/webapp/issues/271 | [@jo-elimu](https://github.com/jo-elimu) |
+| 2024 Q3 | Shut down crowdsource app. | To prevent time spent on maintaining similar functionality in the Crowdsource app and in the Webapp. | https://github.com/elimu-ai/wiki/issues/134 | [@jo-elimu](https://github.com/jo-elimu) |
+| 2018 Q2 | Separate content into multiple databases. | Make the separation between each language more clear, by deploying one database and one subdomain per language. | https://github.com/elimu-ai/webapp/issues/271 | [@jo-elimu](https://github.com/jo-elimu) |
 
 ## Engineering & AI/ML 👩🏽‍💻📱
 
 | Date | Decision | Reason | Details | Owner |
 | -------- | ------- | ------- | ------- | ------- |
-| 2025-04 | Introduce hierarchical library dependencies. | To make version management less complicated. | https://github.com/elimu-ai/wiki/issues/224 | [@jo-elimu](https://github.com/jo-elimu) |
-| 2025-03 | Remove `TEST` environment | To remove the overhead of having to maintain a second environment. | https://github.com/elimu-ai/wiki/issues/205 |  [@jo-elimu](https://github.com/jo-elimu) |
+| 2025 Q2 | Introduce hierarchical library dependencies. | To make version management less complicated. | https://github.com/elimu-ai/wiki/issues/224 | [@jo-elimu](https://github.com/jo-elimu) |
+| 2025 Q1 | Remove `TEST` environment | To remove the overhead of having to maintain a second environment. | https://github.com/elimu-ai/wiki/issues/205 |  [@jo-elimu](https://github.com/jo-elimu) |
 
 ## Distribution & Data Collection 🛵💨
 
 | Date | Decision | Reason | Details | Owner |
 | -------- | ------- | ------- | ------- | ------- |
-| 2025-05 | Store APK files on external platform. | To make the Webapp more lightweight. | https://github.com/elimu-ai/wiki/issues/217 | [@jo-elimu](https://github.com/jo-elimu) |
-| 2025-04 | Make analytics dashboard public. | Make student learning progress public so that sponsors can verify the data. | https://github.com/elimu-ai/wiki/issues/234 | [@jo-elimu](https://github.com/jo-elimu) |
+| 2025 Q2 | Store APK files on external platform. | To make the Webapp more lightweight. | https://github.com/elimu-ai/wiki/issues/217 | [@jo-elimu](https://github.com/jo-elimu) |
+| 2025 Q2 | Make analytics dashboard public. | Make student learning progress public so that sponsors can verify the data. | https://github.com/elimu-ai/wiki/issues/234 | [@jo-elimu](https://github.com/jo-elimu) |
 
 ---
 
