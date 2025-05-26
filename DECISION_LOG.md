@@ -15,7 +15,7 @@ A log of decisions made within each category of work (content, engineering, dist
 
 | Date | Decision | Reason | Details | Owner |
 | -------- | ------- | ------- | ------- | ------- |
-| 2025-04 | Introduce hierarchical library dependencies. | To make version management less complicated. | [`SOFTWARE_ARCHITECTURE.md`](https://github.com/elimu-ai/wiki/blob/main/SOFTWARE_ARCHITECTURE.md#library-dependencies), https://github.com/elimu-ai/webapp/issues/2169 | [@jo-elimu](https://github.com/jo-elimu) |
+| 2025-04 | Introduce hierarchical library dependencies. | To make version management less complicated. | https://github.com/elimu-ai/webapp/issues/2169 | [@jo-elimu](https://github.com/jo-elimu) |
 | 2025-03 | Remove `TEST` environment | To remove the overhead of having to maintain a second environment. | https://github.com/elimu-ai/wiki/issues/205 |  [@jo-elimu](https://github.com/jo-elimu) |
 
 ## Distribution & Data Collection 🛵💨
