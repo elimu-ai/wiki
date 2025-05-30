@@ -86,6 +86,7 @@ Indonesian, Javanese | Indonesia | 345,716 (as of 2022)
 Khmer | Cambodia | 253,273 (as of 2022)
 [Thai](https://tha.elimu.ai) | Thailand | 106,430 (as of 2023)
 Nepali | Nepal | 105,716 (as of 2023)
+[Vietnamese](https://vie.elimu.ai) | Vietnam | 96,000 (as of 2025)
 
 <a name="contribute"></a>
 ## Would You Like to Contribute? 👩🏽‍💻
@@ -99,6 +100,7 @@ How can you contribute? Either by adding educational _content_ or by _engineerin
     * https://hin.elimu.ai - Hindi (हिन्दी)
     * https://tgl.elimu.ai - Tagalog
     * https://tha.elimu.ai - Thai (ไทย)
+    * https://vie.elimu.ai - Vietnamese (Tiếng Việt)
 
     For instructions on how to add educational content, see [LOCALIZATION.md](LOCALIZATION.md#add-educational-content).
 
