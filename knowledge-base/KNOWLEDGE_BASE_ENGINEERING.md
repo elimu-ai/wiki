@@ -2,6 +2,25 @@
 
 Knowledge base for https://github.com/orgs/elimu-ai/projects/3?pane=info
 
+## Software Engineering Principles 📝
+
+### Maintainability
+
+As an open-source organization, it is extra important that we design our software in such a way that new engineers are able to understand the code. Therefore, when building our software product, we follow these three design principles:
+
+> [!NOTE]
+> 1. **Operability**
+> 
+>    Make it easy for operations teams to keep the system running smoothly.
+>
+> 2. **Simplicity**
+>
+>    Make it easy for new engineers to understand the system, by removing as much complexity as possible from the system.
+>
+> 3. **Evolvability**
+>
+>    Make it easy for engineers to make changes to the system in the future, adapting it for unanticipated use cases as requirements change.
+
 ## Android Development 📱
 
 ### How to test `-SNAPSHOT` versions of internal libraries
