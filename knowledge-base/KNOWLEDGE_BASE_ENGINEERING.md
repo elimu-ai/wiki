@@ -6,7 +6,7 @@ Knowledge base for https://github.com/orgs/elimu-ai/projects/3?pane=info
 
 ### Maintainability
 
-As an open-source organization, it is extra important that we design our software in such a way that new engineers are able to understand the code. Therefore, when building our software product, we follow these three design principles:
+As an open-source organization, it is extra important that we design our software in such a way that new engineers are able to understand and maintain the code. Therefore, when building our software product, we follow these three design principles:
 
 > [!NOTE]
 > 1. **Operability**
