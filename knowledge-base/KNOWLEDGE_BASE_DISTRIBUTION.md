@@ -29,7 +29,45 @@ Then upload the signed APK file of your latest release version.
 
 ## Data Collection 📊
 
-...
+When a student interacts with one of the educational apps/games, learning events and assessment events are collected 
+by the [elimu.ai Analytics](https://github.com/elimu-ai/analytics) app. From there, the data is uploaded to the 
+Webapp's [REST API](https://github.com/elimu-ai/webapp?tab=readme-ov-file#rest-api).
+
+```mermaid
+flowchart TD
+    herufi["herufi🔡"] -->|Android Intent| analytics
+    click herufi "https://github.com/elimu-ai/herufi"
+
+    vitabu["vitabu📚"] -->|Android Intent| analytics
+    click vitabu "https://github.com/elimu-ai/vitabu"
+
+    filamu["filamu🎬"] -->|Android Intent| analytics
+    click filamu "https://github.com/elimu-ai/filamu"
+
+    analytics["analytics📊"] -->|CSV| webapp["webapp💻 (REST API)"]
+    click analytics "https://github.com/elimu-ai/analytics"
+
+    webapp -->|CSV| ml-datasets
+    click webapp "https://github.com/elimu-ai/webapp"
+
+    ml-datasets -->|CSV| ml-storybook-reading-level["ml-storybook-reading-level🤖📚"]
+    click ml-datasets "https://github.com/elimu-ai/ml-datasets"
+
+    ml-storybook-reading-level --> model-reading-level{{PMML}}
+    click ml-storybook-reading-level "https://github.com/elimu-ai/ml-storybook-reading-level"
+
+    ml-datasets -->|CSV| ml-video-recommender["ml-video-recommender🤖🎬"]
+    click ml-video-recommender "https://github.com/elimu-ai/ml-video-recommender"
+
+    ml-video-recommender --> model-videos{{ONNX}}
+
+    ml-datasets -->|CSV| ml-storybook-recommender["ml-storybook-recommender🤖📚"]
+    click ml-storybook-recommender "https://github.com/elimu-ai/ml-storybook-recommender"
+
+    ml-storybook-recommender --> model-storybooks{{ONNX}}
+```
+
+Also note that the datasets stored in the [ml-datasets](https://github.com/elimu-ai/ml-datasets) repo are coming from multiple [data sources](https://github.com/elimu-ai/ml-datasets?tab=readme-ov-file#data-sources); Each supported language has its own server deployment and its own data collection.
 
 ## Sponsors 🫶🏽
 
