@@ -14,3 +14,9 @@
 > Early reading assessments in early grades often include syllable naming as part of phonological awareness and decoding skills.
     
 > [![EGRA_SYLLABLE_NAMING.png](https://raw.githubusercontent.com/elimu-ai/webapp/refs/heads/main/src/main/webapp/static/img/admin/EGRA_SYLLABLE_NAMING.png)](https://youtu.be/h4MYgE0U42c?t=282)
+
+---
+
+References:
+* [`EGRA.pdf`](https://github.com/elimu-ai/wiki/blob/main/literacy-skills/EGRA.pdf)
+* [`The_Early_Grade_Reading_Assessment_An_Introduction.pdf`](https://github.com/elimu-ai/wiki/blob/main/literacy-skills/The_Early_Grade_Reading_Assessment_An_Introduction.pdf)
