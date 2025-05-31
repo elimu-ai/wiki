@@ -6,3 +6,9 @@
 > One way to measure phonemic awareness is to present children with a word orally and ask them to pronounce only the first sound of the word.
     
 > [![EGRA_PHONEMIC_AWARENESS.png](https://github.com/user-attachments/assets/6e62dee2-1cff-4ceb-81be-125d4bb9e43d)](https://youtu.be/h4MYgE0U42c?t=282)
+
+---
+
+References:
+* [`EGRA.pdf`](https://github.com/elimu-ai/wiki/blob/main/literacy-skills/EGRA.pdf)
+* [EGRA Instructional Video](https://www.youtube.com/watch?v=h4MYgE0U42c&t=282s)
