@@ -5,3 +5,8 @@
 > Letter-sound identification tests the actual knowledge students need to have to be able to decode words—i.e., knowing the sound the letter represents allows students to sound out a word.
     
 > ![EGRA_LETTER_IDENTIFICATION.png](https://raw.githubusercontent.com/elimu-ai/webapp/master/src/main/webapp/static/img/admin/EGRA_LETTER_IDENTIFICATION.png)
+
+---
+
+References:
+* [`EGRA.pdf`](https://github.com/elimu-ai/wiki/blob/main/literacy-skills/EGRA.pdf)
