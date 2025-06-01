@@ -104,7 +104,17 @@ Most of our games use Cocos2d-x as their game engine:
 
 ## Web development 💻
 
-...
+### Applications
+
+Android applications are managed using the Webapp's UI at `http://<language>.elimu.ai/application/list`, and downloaded through the Webapp's REST API endpoint at `http://<language>.elimu.ai/rest/v2/applications`.
+
+### Content
+
+Educational content is added using the Webapp's UI at `http://<language>.elimu.ai/content`, and downloaded through the Webapp's REST API endpoints at `http://<language>.elimu.ai/rest/v2/content/*`.
+
+### Analytics
+
+Data collected from our educational Android apps is uploaded through the Webapp's REST API endpoints at `http://<language>.elimu.ai/rest/v2/analytics/*`, and made available at `http://<language>.elimu.ai/analytics`.
 
 ## AI & Machine Learning 🤖
 
