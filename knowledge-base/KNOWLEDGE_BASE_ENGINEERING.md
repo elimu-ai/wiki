@@ -70,7 +70,7 @@ val csvFormat = CSVFormat.DEFAULT
 )
 ```
 
-In this case, you should be aware that data gets extracted from the CSV files in the backend's [`CsvAnalyticsExtractionHelper`](https://github.com/elimu-ai/webapp/blob/main/src/main/java/ai/elimu/util/csv/CsvAnalyticsExtractionHelper.java). So for your new data column to be included, you will have to prepare that code to handle the new data format _before_ you release a new version of the Analytics app.
+In this case, you should be aware that collected data gets extracted from the CSV files in the backend's [`CsvAnalyticsExtractionHelper`](https://github.com/elimu-ai/webapp/blob/main/src/main/java/ai/elimu/util/csv/CsvAnalyticsExtractionHelper.java). So for your new data column to be included, you will have to prepare that code to handle the new data format _before_ you release a new version of the Analytics app.
 
 Example:
 
