@@ -69,6 +69,16 @@ flowchart TD
 
 Also note that the datasets stored in the [ml-datasets](https://github.com/elimu-ai/ml-datasets) repo are coming from multiple [data sources](https://github.com/elimu-ai/ml-datasets?tab=readme-ov-file#data-sources); Each supported language has its own server deployment and its own data collection.
 
+### Learning Analytics
+
+When measuring a student's learning, we use three different concepts of mastery:
+
+1. Content mastery (see [`MasteryHelper.kt`](https://github.com/elimu-ai/analytics/blob/8d2cc10cd344029c6622d3928bc1023055009db2/utils/src/main/java/ai/elimu/analytics/utils/logic/MasteryHelper.kt))
+2. Skill mastery (EGRA/EGMA)
+3. Long-term memory mastery (see [`SpacedRepetitionHelper.kt`](https://github.com/elimu-ai/kukariri/blob/main/app/src/main/java/ai/elimu/kukariri/logic/SpacedRepetitionHelper.kt))
+
+
+
 ## Sponsors 🫶🏽
 
 ...
