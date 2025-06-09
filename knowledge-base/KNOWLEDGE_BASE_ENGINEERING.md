@@ -70,7 +70,10 @@ val csvFormat = CSVFormat.DEFAULT
 )
 ```
 
-In this case, you should be aware that collected data gets extracted from the CSV files in the backend's [`CsvAnalyticsExtractionHelper`](https://github.com/elimu-ai/webapp/blob/main/src/main/java/ai/elimu/util/csv/CsvAnalyticsExtractionHelper.java). So for your new data column to be included, you will have to prepare that code to handle the new data format _before_ you release a new version of the Analytics app.
+> [!WARNING]
+> _Before_ changing the data format, bump the minor version in the Analytics app's `versionCode` so that incompatible data doesn't get uploaded to the backend server. For example, bump the version from `3002025` to `3003000`.
+
+Be aware that collected data gets extracted from the CSV files in the backend's [`CsvAnalyticsExtractionHelper`](https://github.com/elimu-ai/webapp/blob/main/src/main/java/ai/elimu/util/csv/CsvAnalyticsExtractionHelper.java). So for your new data column to be included, you will have to prepare that code to handle the new data format _before_ you release a new version of the Analytics app.
 
 Example:
 
@@ -82,7 +85,8 @@ wordAssessmentEvent.setTaskDifficultyLevel(taskDifficultyLevel);
 > [!CAUTION]
 > Note that adding this will cause the code to crash for data collected from devices running an older version of the Analytics app. Therefore, you first need to check the version of the Analytics app:
 > ```java
-> if (versionCode >= 3002025) {
+> if (versionCode >= 3003000) {
+>     // https://github.com/elimu-ai/analytics/releases/tag/3.3.0
 >     Integer taskDifficultyLevel = Long.valueOf(csvRecord.get("task_difficulty_level"));
 >     wordAssessmentEvent.setTaskDifficultyLevel(taskDifficultyLevel);
 > }
