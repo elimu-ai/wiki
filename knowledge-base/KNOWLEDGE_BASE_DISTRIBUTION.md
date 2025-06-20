@@ -113,8 +113,19 @@ wordAssessmentEvent.setTaskDifficultyLevel(taskDifficultyLevel);
 > ```java
 > if (versionCode >= 3003000) {
 >     // https://github.com/elimu-ai/analytics/releases/tag/3.3.0
->     Integer taskDifficultyLevel = Long.valueOf(csvRecord.get("task_difficulty_level"));
+>     Integer taskDifficultyLevel = Integer.valueOf(csvRecord.get("task_difficulty_level"));
 >     wordAssessmentEvent.setTaskDifficultyLevel(taskDifficultyLevel);
+> }
+> ```
+>
+> Additionally, be aware that the Analytics app will also export CSV files for events generated _before_ the latest version. So you also need to handle CSV files where the new column exists but is empty:
+> ```diff
+> if (versionCode >= 3003000) {
+>     // https://github.com/elimu-ai/analytics/releases/tag/3.3.0
+> +   if (StringUtils.isNotBlank(csvRecord.get("task_difficulty_level"))) {
+>         Integer taskDifficultyLevel = Integer.valueOf(csvRecord.get("task_difficulty_level"));
+>         wordAssessmentEvent.setTaskDifficultyLevel(taskDifficultyLevel);
+> +   }
 > }
 > ```
 
