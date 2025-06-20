@@ -109,7 +109,7 @@ wordAssessmentEvent.setTaskDifficultyLevel(taskDifficultyLevel);
 ```
 
 > [!CAUTION]
-> Note that adding this will cause the code to crash for data collected from devices running an older version of the Analytics app. Therefore, you first need to check the version of the Analytics app:
+> Note that adding the code above will cause the code to crash for data collected from devices running an older version of the Analytics app. Therefore, you first need to check the version of the Analytics app:
 > ```java
 > if (versionCode >= 3003000) {
 >     // https://github.com/elimu-ai/analytics/releases/tag/3.3.0
