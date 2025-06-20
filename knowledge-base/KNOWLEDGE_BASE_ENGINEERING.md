@@ -47,6 +47,10 @@ git pull --rebase origin <branch name>
 Some Android apps depend on other elimu.ai Android apps to be installed. See 
 [flowchart](https://github.com/elimu-ai/wiki/blob/main/SOFTWARE_ARCHITECTURE.md#library-dependencies).
 
+### Data Collection
+
+To get an understanding of how data is collected from the Android apps, see https://github.com/elimu-ai/ml-datasets/blob/main/README.md#data-sources
+
 ## Game Development 🕹️
 
 Most of our games use Cocos2d-x as their game engine:
