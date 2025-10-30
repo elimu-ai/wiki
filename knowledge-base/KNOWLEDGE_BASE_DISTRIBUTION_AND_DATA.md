@@ -27,6 +27,10 @@ Then upload the signed APK file of your latest release version.
 
 ...
 
+### Sponsors 🫶🏽
+
+...
+
 ## Data Collection 📊
 
 When a student interacts with one of the educational apps/games, learning events and assessment events are collected 
@@ -132,8 +136,3 @@ wordAssessmentEvent.setTaskDifficultyLevel(taskDifficultyLevel);
 > +   }
 > }
 > ```
-
-
-## Sponsors 🫶🏽
-
-...
