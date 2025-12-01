@@ -135,6 +135,8 @@ Get to know some of our past and current open-source contributors and maintainer
 
 Join our Discord server at https://discord.gg/9rz4XYJJDE
 
+Or Telegram channel at https://t.me/elimu_dao
+
 ### Community Mailing List
 
 Sign up at http://eepurl.com/bGihkr
