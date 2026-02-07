@@ -115,7 +115,7 @@ For instructions on how to download and install the software, see [SOFTWARE_INST
 Do you live near a child who is out-of-school? Help us [distribute](SOFTWARE_ARCHITECTURE.md#distribution) the learning software. For more information, send an e-mail to info@elimu.ai or contact us in our [community chat](#community-chat).
 
 > [!IMPORTANT]
-> 💜 If you want to sponsor the distribution to one out-of-school child, go to https://sponsors.elimu.ai.
+> 💜 If you want to sponsor distribution of the software to an out-of-school child, go to https://sponsors.elimu.ai.
 
 
 <a name="open-source-community"></a>
