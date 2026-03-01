@@ -85,14 +85,14 @@ When measuring a student's learning, we use three different concepts of mastery:
 
 If you want to add a new research experiment, edit the shared model library's  [`ResearchExperiment`](https://github.com/elimu-ai/model/blob/main/src/main/java/ai/elimu/model/v2/enums/analytics/research/ResearchExperiment.java) file and release a new version of the library.
 
-We always have one research experiment running per student, and the current research experiment is set in the Analytics app's [`ExperimentAssignmentHelper`](https://github.com/elimu-ai/analytics/blob/main/utils/src/main/java/ai/elimu/analytics/utils/research/ExperimentAssignmentHelper.kt).
+We always have one research experiment running per student, and the current research experiment can be set in the Analytics app's [`ExperimentAssignmentHelper`](https://github.com/elimu-ai/analytics/blob/main/utils/src/main/java/ai/elimu/analytics/utils/research/ExperimentAssignmentHelper.kt).
 
 This way, app developers can check if a student is randomly assigned to the `CONTROL` group for the currently running experiment:
 ```kotlin
 if (
-            (ResearchExperiment.EXP_0_WORD_EMOJIS == ExperimentAssignmentHelper.CURRENT_EXPERIMENT) &&
-            (ExperimentGroup.TREATMENT == ExperimentAssignmentHelper.getExperimentGroup(context))
-        ) {
+    (ResearchExperiment.EXP_0_WORD_EMOJIS == ExperimentAssignmentHelper.CURRENT_EXPERIMENT) &&
+    (ExperimentGroup.TREATMENT == ExperimentAssignmentHelper.getExperimentGroup(context))
+) {
             // Experiment details here
             // TODO
 }
