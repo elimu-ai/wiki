@@ -93,8 +93,8 @@ if (
     (ResearchExperiment.EXP_0_WORD_EMOJIS == ExperimentAssignmentHelper.CURRENT_EXPERIMENT) &&
     (ExperimentGroup.TREATMENT == ExperimentAssignmentHelper.getExperimentGroup(context))
 ) {
-            // Experiment details here
-            // TODO
+    // Experiment details here
+    // TODO
 }
 ```
 
