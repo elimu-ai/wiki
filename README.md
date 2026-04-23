@@ -68,11 +68,11 @@ The software is designed in such a way that the children can learn fully autonom
 <a name="milestones"></a>
 ## Milestones 📆
 
-### Short-Term Objectives (2025)
+### Short-Term Objectives (2026)
 
 See quarterly milestones at https://github.com/elimu-ai/wiki/milestones
 
-### Long-Term Objectives (2025 → 2030)
+### Long-Term Objectives (2026 → 2030)
 
 In the long term, apps and content will gradually be created for target languages where the number of out-of-school children is the highest (based on [UIS Statistics](http://data.uis.unesco.org/)):
 
@@ -97,10 +97,11 @@ How can you contribute? Either by adding educational _content_ or by _engineerin
 
   * Contribute by creating or peer reviewing educational content (e.g. storybooks, words, sound-to-letter correspondences, etc). If you are fluent in one of the languages supported by the platform, go to the website matching your language and then press "Sign On":
 
-    * https://hin.elimu.ai - Hindi (हिन्दी)
-    * https://tgl.elimu.ai - Tagalog
-    * https://tha.elimu.ai - Thai (ไทย)
-    * https://vie.elimu.ai - Vietnamese (Tiếng Việt)
+    * http://hin.elimu.ai - English
+    * http://hin.elimu.ai - Hindi (हिन्दी)
+    * http://tgl.elimu.ai - Tagalog
+    * http://tha.elimu.ai - Thai (ไทย)
+    * http://vie.elimu.ai - Vietnamese (Tiếng Việt)
 
     For instructions on how to add educational content, see [LOCALIZATION.md](LOCALIZATION.md#add-educational-content).
 
