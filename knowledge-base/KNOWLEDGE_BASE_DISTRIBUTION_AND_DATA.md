@@ -25,11 +25,11 @@ Then upload the signed APK file of your latest release version.
 
 ## Hardware Distribution 📦
 
-...
+See [`DISTRIBUTION.md`](../DISTRIBUTION.md)
 
 ### Sponsors 🫶🏽
 
-...
+See https://sponsors.elimu.ai
 
 ## Data Collection 📊
 
