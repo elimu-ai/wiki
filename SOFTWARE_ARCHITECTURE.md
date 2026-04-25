@@ -50,6 +50,20 @@ flowchart TD
     content-provider --> herufi["herufi🔡 (.apk)"]
     content-provider --> vitabu["vitabu📚 (.apk)"]
     content-provider --> filamu["filamu🎬 (.apk)"]
+
+    click model "https://github.com/elimu-ai/model"
+    click webapp "https://github.com/elimu-ai/webapp"
+    click analytics "https://github.com/elimu-ai/analytics"
+    click appstore "https://github.com/elimu-ai/appstore"
+    click common-utils "https://github.com/elimu-ai/common-utils"
+    click launcher "https://github.com/elimu-ai/launcher"
+    click content-provider "https://github.com/elimu-ai/content-provider"
+    click keyboard "https://github.com/elimu-ai/keyboard"
+    click chat "https://github.com/elimu-ai/chat"
+    click kukariri "https://github.com/elimu-ai/kukariri"
+    click herufi "https://github.com/elimu-ai/herufi"
+    click vitabu "https://github.com/elimu-ai/vitabu"
+    click filamu "https://github.com/elimu-ai/filamu"
 ```
 
 
