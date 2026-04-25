@@ -23,6 +23,10 @@ Then upload the signed APK file of your latest release version.
 > [!NOTE]
 > Instead of handling releases of your app manually, we recommend you configure an automated release workflow (see [example](https://github.com/elimu-ai/vitabu/blob/main/.github/workflows/gradle-release.yml)).
 
+### Status Page 🟢
+
+To check the status of all our systems used for software distribution, see https://stats.uptimerobot.com/dyLbrgFP17
+
 ## Hardware Distribution 📦
 
 See [`DISTRIBUTION.md`](../DISTRIBUTION.md)
