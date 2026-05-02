@@ -47,6 +47,18 @@ git pull --rebase origin <branch name>
 Some Android apps depend on other elimu.ai Android apps to be installed. See 
 [flowchart](https://github.com/elimu-ai/wiki/blob/main/SOFTWARE_ARCHITECTURE.md#library-dependencies).
 
+### Software Version Compatibility
+
+* Java ↔ Gradle compatibility: https://docs.gradle.org/current/userguide/compatibility.html#java_runtime
+* Kotlin ↔ Gradle compatibility: https://docs.gradle.org/current/userguide/compatibility.html#kotlin
+
+| Java | Gradle | Kotlin | Android Gradle Plugin |
+| -------- | -------- | -------- | -------- |
+| v25 | v9.1.0 | v2.2.0 | v8.9.1 |
+
+> [!NOTE]
+> The Android Gradle Plugin (AGP) 9.0+ includes built-in Kotlin support, meaning you no longer need to explicitly apply the `org.jetbrains.kotlin.android` plugin in your app.
+
 ### Data Collection
 
 To get an understanding of how data is collected from the Android apps, see https://github.com/elimu-ai/ml-datasets/blob/main/README.md#data-sources
