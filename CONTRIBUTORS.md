@@ -2,6 +2,7 @@
 
 &nbsp; | &nbsp; | &nbsp;
 :---: | :---: | :---:
+[<img src="https://avatars.githubusercontent.com/u/205650786" width="80" /><br />@maksim-n-vinogradov](https://github.com/maksim-n-vinogradov)<br />Web Development | &nbsp; | &nbsp;
 [<img src="https://avatars.githubusercontent.com/u/43273583" width="80" /><br />@alexander-kuruvilla](https://github.com/alexander-kuruvilla)<br />Web Development | [<img src="https://avatars.githubusercontent.com/u/65708833" width="80" /><br />Sneha](https://github.com/SnehaHS65)<br />Web Development | [<img src="https://avatars.githubusercontent.com/u/137500548" width="80" /><br />Venkatesh Sangam](https://github.com/venkatesh2k3)<br />Web Development
 [<img src="https://avatars.githubusercontent.com/u/26824032" width="80" /><br />@tomaszsmy](https://github.com/tomaszsmy)<br />Web Development | [<img src="https://avatars.githubusercontent.com/u/8240025" width="80" /><br />@vrudas](https://github.com/vrudas)<br />Web Development | [<img src="https://avatars.githubusercontent.com/u/5686985" width="80" /><br />Harsh Acharya](https://github.com/hacharya)<br />Scaling & Distribution
 [<img src="https://avatars.githubusercontent.com/u/15718174" width="80" /><br />Nya Ξlimu](https://github.com/nya-elimu)<br />Literacy/Numeracy Tutoring | [<img src="https://avatars.githubusercontent.com/u/8291318" width="80" /><br />Gema Sánchez](https://github.com/gscdev)<br />Android Development | [<img src="https://avatars.githubusercontent.com/u/1451036" width="80" /><br />Jo G.](https://github.com/jo-elimu)<br />Software Architecture
