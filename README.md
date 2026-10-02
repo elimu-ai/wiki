@@ -61,7 +61,7 @@ indistinguishable from magic.” 🪄✨
 
 ### Autonomous Learning
 
-The software is designed in such a way that the children can learn fully autonomously (alone or in a group), without guidance from qualified teachers. Instead, an AI tutor (Nya) guides each child through the necessary steps. The AI tutor gradually unlocks more advanced content, as the child demonstrates [mastery](PEDAGOGY.md#personalized-learning-) of prerequisite skills. As an example; Before learning how to read a word, the child needs to master the _sound-letter correspondence_ of each sound composing that word.
+The software is designed in such a way that the children can learn fully autonomously (alone or in a group), without guidance from qualified teachers. Instead, an AI tutor (Nya) guides each child through the necessary steps. The AI tutor gradually unlocks more advanced content, as the child demonstrates [mastery](PEDAGOGY.md#personalized-learning-) of prerequisite skills. As an example; Before learning how to read a word, the child needs to master the _sound-to-letter correspondence_ of each sound composing that word.
 
 [![android_launcher](https://user-images.githubusercontent.com/15718174/82110563-ea867380-9771-11ea-8703-d63e381001eb.gif)](https://github.com/elimu-ai/launcher)
 
