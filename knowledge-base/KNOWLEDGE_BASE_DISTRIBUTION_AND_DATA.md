@@ -79,11 +79,21 @@ Also note that the datasets stored in the [ml-datasets](https://github.com/elimu
 
 ### Learning Analytics
 
-When measuring a student's learning, we use three different concepts of mastery:
+#### Events
 
-1. Content mastery (see [`MasteryHelper.kt`](https://github.com/elimu-ai/analytics/blob/8d2cc10cd344029c6622d3928bc1023055009db2/utils/src/main/java/ai/elimu/analytics/utils/logic/MasteryHelper.kt))
-2. Skill mastery (EGRA/EGMA)
-3. Long-term memory mastery (see [`SpacedRepetitionHelper.kt`](https://github.com/elimu-ai/kukariri/blob/main/app/src/main/java/ai/elimu/kukariri/logic/SpacedRepetitionHelper.kt))
+When measuring a student's learning, we collect two types of data:
+
+1. _Learning_ events
+
+   Learning events are instructional activities, e.g. watching a video explaining how to read a word.
+
+2. _Assessment_ events
+
+   Assessment events are a activities for testing a student's knowledge, e.g. listening to a word and then selecting it amongst to options.
+
+#### Spaced Repetition System (SRS)
+
+For memorizing knowledge, we use a spaced repetition system based on assessment events for keeping track of the strength of the student's long-term memorization. For more details, see https://github.com/elimu-ai/kukariri.
 
 #### Research Experiments
 
