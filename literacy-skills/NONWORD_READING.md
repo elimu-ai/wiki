@@ -1,4 +1,4 @@
-# 🔤 Nonword Reading
+# 🔡 Nonword Reading
 
 [`LiteracySkill.NONWORD_READING`](https://github.com/elimu-ai/model/blob/main/src/main/java/ai/elimu/model/v2/enums/content/LiteracySkill.java)
 
