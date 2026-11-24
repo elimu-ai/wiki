@@ -1,4 +1,4 @@
-# 👇🏽 One-to-one correspondence
+# 👇🏽 One-to-One Correspondence
 
 [`NumeracySkill.ONE_TO_ONE_CORRESPONDENCE`](https://github.com/elimu-ai/model/blob/main/src/main/java/ai/elimu/model/v2/enums/content/NumeracySkill.java)
 
@@ -9,5 +9,5 @@
 ---
 
 References:
-* [`EGRA-2009.pdf`](https://github.com/elimu-ai/wiki/blob/main/numeracy-skills/EGRA-2009.pdf)
-* [`EGRA.pdf`](https://github.com/elimu-ai/wiki/blob/main/numeracy-skills/EGRA.pdf)
+* [`EGMA-2009.pdf`](https://github.com/elimu-ai/wiki/blob/main/numeracy-skills/EGMA-2009.pdf)
+* [`EGMA.pdf`](https://github.com/elimu-ai/wiki/blob/main/numeracy-skills/EGMA.pdf)
