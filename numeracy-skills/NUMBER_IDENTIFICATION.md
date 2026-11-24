@@ -9,5 +9,5 @@
 ---
 
 References:
-* [`EGRA-2009.pdf`](https://github.com/elimu-ai/wiki/blob/main/numeracy-skills/EGRA-2009.pdf)
-* [`EGRA.pdf`](https://github.com/elimu-ai/wiki/blob/main/numeracy-skills/EGRA.pdf)
+* [`EGMA-2009.pdf`](https://github.com/elimu-ai/wiki/blob/main/numeracy-skills/EGMA-2009.pdf)
+* [`EGMA.pdf`](https://github.com/elimu-ai/wiki/blob/main/numeracy-skills/EGMA.pdf)
