@@ -1,4 +1,4 @@
-# 👇🏽 One-to-One Correspondence
+# 🧮 One-to-One Correspondence
 
 [`NumeracySkill.ONE_TO_ONE_CORRESPONDENCE`](https://github.com/elimu-ai/model/blob/main/src/main/java/ai/elimu/model/v2/enums/content/NumeracySkill.java)
 
