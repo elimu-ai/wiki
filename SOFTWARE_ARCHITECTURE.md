@@ -15,7 +15,7 @@
 
 ## Learning Platform
 
-The elimu.ai software is a _platform_ of educational content and Android [apps](https://eng.elimu.ai/apps).
+The elimu.ai software is a _platform_ of educational content and Android apps.
 
 > [!NOTE]
 > Instead of having one large Android application containing everything, the elimu.ai software has been architected such that there are many smaller applications, each with their own specific responsibility.
