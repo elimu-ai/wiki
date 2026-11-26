@@ -70,7 +70,7 @@ The software is designed in such a way that the children can learn fully autonom
 
 ### Short-Term Objectives (2026)
 
-See quarterly milestones at https://github.com/elimu-ai/wiki/milestones?sort=due_date&direction=asc
+See milestones at https://github.com/elimu-ai/wiki/milestones?sort=due_date&direction=asc
 
 ### Long-Term Objectives (2026 → 2030)
 
